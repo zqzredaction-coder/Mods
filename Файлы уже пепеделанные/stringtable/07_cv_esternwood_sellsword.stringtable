@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_esternwood_sellsword</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Стоять! Что у тебя за дела в Эстернвуде?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Это дорога ведет в Крепость Редрика?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ты охраняешь эту дорогу? На кого ты работаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Уйти, придерживая трусы] "До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Да, крепость лорда к востоку отсюда. Предупреждаю сразу, он не жалует непрошенных гостей. ...Менестрели, впрочем, ему тоже не по нраву, если ты из них".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Стражник выпрямляет спину. "Мы служим лорду Редрику, последнему из его рода, сейну Позолоченной Долины и лорду земли, на которой ты стоишь". Он ухмыляется. "По прозвищу Бездонный Карман".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Можешь рассказать мне о Крепости Редрика?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Я мог бы. Если бы захотел". Смеется над своей шуткой. "Если бы мне было удобно разговаривать с тобой о таких вещах. А мне удобно разговаривать, пересчитывая деньжата". Хитро улыбается. "Скажем, пятьдесят пандов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Он пожимает плечами. "Как знаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Дать 50 мп.] "Держи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Вынужден отказаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Дела, которые тебя не касаются".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Стражник оглядывается по сторонам, после чего берет у вас монеты. "Отлично. Что ты хочешь знать о крепости?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Стражник кладет ладонь на рукоять своего меча. "Меня касаются все здешние дела. Никому не разрешается проходить дальше без особого разрешения лорда Редрика. Так что я спрашиваю еще раз, что за дела у тебя в Эстернвуде?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Что опять? Мне казалось, мы уже... обо всем договорились".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Да? Чего тебе еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Дела? Скажем, затыкать рот чересчур любопытным наемникам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Слишком умный, да? С парой дырок в башке ты быстро поглупеешь". Стражник свистом зовет своего напарника и делает шаг вам навстречу.</DefaultText>
+      <FemaleText>"Слишком умная, да? С парой дырок в башке ты быстро поглупеешь". Стражник свистом зовет своего напарника и делает шаг вам навстречу.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Я пришел поклониться лорду Редрику".</DefaultText>
+      <FemaleText>"Я пришла поклониться лорду Редрику".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Правильно". Стражник смотрит на вас с сомнением. "Ну тогда иди. Но учти, если ты что-нибудь задумал, то гнить тебе в подземелье до конца твоей никчемной жизни".</DefaultText>
+      <FemaleText>"Правильно". Стражник смотрит на вас с сомнением. "Ну тогда иди. Но учти, если ты что-нибудь задумала, то гнить тебе в подземелье до конца твоей никчемной жизни".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Погодите, сэ... Титьки Хайлии! Что это, черт побери?"</DefaultText>
+      <FemaleText>"Погодите, мэ... Титьки Хайлии! Что это, черт побери?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Далековато ты от дома забрался. Что у тебя за дела в Эстернувуде?"</DefaultText>
+      <FemaleText>"Далековато ты от дома забралась. Что у тебя за дела в Эстернувуде?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Расскажи мне о лорде Редрике".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Насколько хорошо охраняется крепость?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Как мне увидеться с лордом Редриком?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Я просто иду своей дорогой, проблемы мне не нужны".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Стражник оглядывает вас с ног до головы, как будто колеблясь, но потом коротко кивает. "Тогда тебе лучше взять западнее. К востоку отсюда находится крепость лорда Редрика, а он безжалостен к непрошенным гостям".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Стражник качает головой. "Никак. В крепости... кое-что произошло. В общем, он удвоил численность стражи и предупредил всех, что не хочет никого видеть. Думаю, «никого» включает и тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Как я уже говорил... Маленькая монетка может многое. А пятьдесят пандов и того больше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"У меня больше нет вопросов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ты предашь своего лорда за горсть монет? Я обязательно расскажу лорду Редрику, как легко тебя купить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Э-эй! Ты чего! Я ничего такого не имел в виду". Стражник нервно поглядывает на своего напарника. "Просто лорд Редрик не принимает посетителей". Громко сопит. "Так что давай не будем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Подождать, пока Роб заговорит.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Конечно. Без армии ее не захватить. Но вообще только безумцу может прийти в голову нападать на крепость. Лорд Редрик нанял лучшие клинки, которые только можно купить, и они все время начеку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Хорошо. Тогда я вернусь к своим обязанностям. А ты иди, иди, в Позолоченной Долине много интересного". Он указывает на дорогу, ведущую на запад. "А вот и дорога туда".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

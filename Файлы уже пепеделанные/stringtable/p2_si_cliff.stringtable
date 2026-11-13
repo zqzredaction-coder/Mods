@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\prototype_2\p2_si_cliff</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>78</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Поверхность скалы потемнела и расплавилась, как свечной воск. Сверху виден небольшой выступ с грубо сделанным гнездом. Похоже, забраться туда будет нелегко.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Взобраться на скалу.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Закинуть веревку с крюком на выступ.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Уйти, дрожа коленями.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Вы еще раз оцениваете скалу. Наверху хватит места только на одного.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вы перекидываете крюк через край, держа прикрепленную веревку рукой. Крюк приземляется с доставляющим удовлетворение лязгом, и вы закрепляете веревку крепким рывком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Взобраться по веревке.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Slot 0] начинает взбираться по гладкой поверхности скалы. Ухватиться практически не за что, и подъем скоро замедляется. Почти сорвавшись, [Slot 0] понимает, что лучше вернуться к подножию скалы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Slot 0] медленно поднимается по скале, удачно используя трещины и выступы, и достигает гнезда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Slot 2] медленно поднимается по скале, удачно используя трещины и выступы, и достигает гнезда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Веревка ускоряет подъем. [Slot 2] с легкостью добирается до гнезда на скале.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Slot 1] начинает взбираться по гладкой поверхности скалы. Ухватиться практически не за что, и подъем скоро замедляется. Почти сорвавшись, [Slot 1] понимает, что лучше вернуться к подножию скалы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Веревка ускоряет подъем. [Slot 1] с легкостью добирается до гнезда на скале.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Slot 1] медленно поднимается по скале, удачно используя трещины и выступы, и достигает гнезда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Веревка ускоряет подъем. [Slot 0] с легкостью добирается до гнезда на скале.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>У основания скалы угрожающе вырисовываются расплавленные камни и потемневший выступ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Гнездо окружено тлеющими угольками. Вокруг разбросаны ветки и кости. Среди обломков камней приютилось яйцо размером с маленький бочонок. Оно выглядит тяжелым и неудобным для переноски.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Спуститься вниз.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Отправить персонажа [Slot 4].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Закрепить яйцо веревкой и опустить его.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Отправить персонажа [Slot 0].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Slot 5] медленно поднимается по скале, удачно используя трещины и выступы, и достигает гнезда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Спускаться по скале так же тяжело, как и подниматься.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Slot 4] медленно поднимается по скале, удачно используя трещины и выступы, и достигает гнезда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Взять яйцо и спуститься вниз.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Slot 5] обвязывает яйцо веревкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Slot 1] опускает яйцо медленными плавными движениями. После того как трофей достиг земли и опустился в грязь, [Slot 1] благополучно спускается по скале вниз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Slot 0] обвязывает яйцо веревкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Slot 0] берет яйцо под мышку и, демонстрируя чудеса цепкости и ловкости, благополучно спускается на землю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Веревка ускоряет подъем. [Slot 4] с легкостью добирается до гнезда на скале.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Отправить персонажа [Slot 1].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Отправить персонажа [Slot 2].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Slot 4] начинает взбираться по гладкой поверхности скалы. Ухватиться практически не за что, и подъем скоро замедляется. Почти сорвавшись, [Slot 4] понимает, что лучше вернуться к подножию скалы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Отправить персонажа [Slot 3].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Slot 1] обвязывает яйцо веревкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Slot 2] обвязывает яйцо веревкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Slot 3] обвязывает яйцо веревкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Slot 5] начинает взбираться по гладкой поверхности скалы. Ухватиться практически не за что, и подъем скоро замедляется. Почти сорвавшись, [Slot 5] понимает, что лучше вернуться к подножию скалы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Веревка ускоряет подъем. [Slot 3] с легкостью добирается до гнезда на скале.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Slot 3] медленно поднимается по скале, удачно используя трещины и выступы, и достигает гнезда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Slot 4] обвязывает яйцо веревкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Slot 2] начинает взбираться по гладкой поверхности скалы. Ухватиться практически не за что, и подъем скоро замедляется. Почти сорвавшись, [Slot 2] понимает, что лучше вернуться к подножию скалы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Slot 0] опускает яйцо медленными плавными движениями. После того как трофей достиг земли и опустился в грязь, [Slot 0] благополучно спускается по скале вниз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Slot 3] начинает взбираться по гладкой поверхности скалы. Ухватиться практически не за что, и подъем скоро замедляется. Почти сорвавшись, [Slot 3] понимает, что лучше вернуться к подножию скалы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Отправить персонажа [Slot 5].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Slot 0] берет яйцо под мышку и благополучно спускается на землю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>В самом начали пути вниз [Slot 0] соскальзывает. Яйцо падает вниз, а вслед за ним и [Slot 0]. Первым земли достигает яйцо, разламываясь с глухим влажным звуком. [Slot 0] приземляется рядом, после чего медленно и со стоном поднимается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Веревка ускоряет подъем. [Slot 5] с легкостью добирается до гнезда на скале.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Slot 2] опускает яйцо медленными плавными движениями. После того как трофей достиг земли и опустился в грязь, [Slot 2] благополучно спускается по скале вниз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Slot 3] опускает яйцо медленными плавными движениями. После того как трофей достиг земли и опустился в грязь, [Slot 3] благополучно спускается по скале вниз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Slot 4] опускает яйцо медленными плавными движениями. После того как трофей достиг земли и опустился в грязь, [Slot 4] благополучно спускается по скале вниз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Slot 5] опускает яйцо медленными плавными движениями. После того как трофей достиг земли и опустился в грязь, [Slot 5] благополучно спускается по скале вниз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Slot 1] берет яйцо под мышку и, демонстрируя чудеса цепкости и ловкости, благополучно спускается на землю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Slot 1] берет яйцо под мышку и благополучно спускается на землю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>В самом начали пути вниз [Slot 1] соскальзывает. Яйцо падает вниз, а вслед за ним и [Slot 1]. Первым земли достигает яйцо, разламываясь с глухим влажным звуком. [Slot 1] приземляется рядом, после чего медленно и со стоном поднимается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Slot 2] берет яйцо под мышку и, демонстрируя чудеса цепкости и ловкости, благополучно спускается на землю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Slot 2] берет яйцо под мышку и благополучно спускается на землю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>В самом начали пути вниз [Slot 2] соскальзывает. Яйцо падает вниз, а вслед за ним и [Slot 2]. Первым земли достигает яйцо, разламываясь с глухим влажным звуком. [Slot 2] приземляется рядом, после чего медленно и со стоном поднимается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Slot 3] берет яйцо под мышку и, демонстрируя чудеса цепкости и ловкости, благополучно спускается на землю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>[Slot 3] берет яйцо под мышку и благополучно спускается на землю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>В самом начали пути вниз [Slot 3] соскальзывает. Яйцо падает вниз, а вслед за ним и [Slot 3]. Первым земли достигает яйцо, разламываясь с глухим влажным звуком. [Slot 3] приземляется рядом, после чего медленно и со стоном поднимается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Slot 4] берет яйцо под мышку и, демонстрируя чудеса цепкости и ловкости, благополучно спускается на землю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Slot 4] берет яйцо под мышку и благополучно спускается на землю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>В самом начали пути вниз [Slot 4] соскальзывает. Яйцо падает вниз, а вслед за ним и [Slot 4]. Первым земли достигает яйцо, разламываясь с глухим влажным звуком. [Slot 4] приземляется рядом, после чего медленно и со стоном поднимается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Slot 5] берет яйцо под мышку и, демонстрируя чудеса цепкости и ловкости, благополучно спускается на землю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[Slot 5] берет яйцо под мышку и благополучно спускается на землю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>В самом начали пути вниз [Slot 5] соскальзывает. Яйцо падает вниз, а вслед за ним и [Slot 5]. Первым земли достигает яйцо, разламываясь с глухим влажным звуком. [Slot 5] приземляется рядом, после чего медленно и со стоном поднимается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Никого не отправлять.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Вы отступаете и обдумываете свой план.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Забраться вверх самому.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Веревка ускоряет подъем. Вы с легкостью добираетесь до гнезда на скале.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Вы медленно поднимаетесь по скале, удачно используя трещины и выступы, и достигаете гнезда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Вы начинаете взбираться по гладкой поверхности скалы. Ухватиться практически не за что, и подъем скоро замедляется. Почти сорвавшись, вы вынуждены вернуться к подножию скалы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Вы обвязываете яйцо веревкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Вы опускаете яйцо медленными плавными движениями. После того как трофей достиг земли и опустился в грязь, вы благополучно спускаетесь по скале вниз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Вы берете яйцо под мышку и благополучно спускаетесь на землю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Вы берете яйцо под мышку и, демонстрируя чудеса цепкости и ловкости, благополучно спускаетесь на землю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>В самом начали пути вниз вы соскальзываете. Яйцо выскальзывает из рук, а вслед за ним падаете и вы. Первым земли достигает яйцо, разламываясь с глухим влажным звуком. Вы приземляетесь рядом, после чего медленно и со стоном поднимаетесь.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_rare_item_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Приветствую, милорд! Меня зовут Аззуро. Я – знаменитый торговец, поставщик ценнейших и, не побоюсь этого слова, редчайших предметов".</DefaultText>
+      <FemaleText>"Приветствую, миледи! Меня зовут Аззуро. Я – знаменитый торговец, поставщик ценнейших и, не побоюсь этого слова, редчайших предметов".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Страшно мешают эти бандиты, милорд. Дороги ими просто кишат. Все местные торговцы запуганы до смерти".</DefaultText>
+      <FemaleText>"Страшно мешают эти бандиты, миледи. Дороги ими просто кишат. Все местные торговцы запуганы до смерти".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Хорошо. Я слушаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Уйти, пока не потребовали расплатиться телом] "До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Вы подзываете своих товарищей и даете знак, чтобы посетитель изложил свою просьбу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"А если у меня нечего будет продать, то мне не на что будет жить. К тому же, тогда вы не сможете выбрать что-нибудь особенное из моего обычно обширного ассортимента".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Я положу этому конец".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Если эти торговцы не возобновят свои поставки, то бандиты покажутся им детской проблемой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Возьми себе в помощь одного из моих товарищей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Сейчас я не могу помочь тебе с этим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Да, милорд? Какой у вас план?"
+
+Аззуро с любопытством смотрит на вас, сложив руки перед собой.</DefaultText>
+      <FemaleText>"Да, миледи? Какой у вас план?"
+
+Аззуро с любопытством смотрит на вас, сложив руки перед собой.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Я... эээ... уверен, что они образумятся, милорд! Спасибо, что взялись за эту проблему! Когда все вернется на свои места, уверен, смогу предложить вам больше товаров!"</DefaultText>
+      <FemaleText>"Я... эээ... уверен, что они образумятся, миледи! Спасибо, что взялись за эту проблему! Когда все вернется на свои места, уверен, смогу предложить вам больше товаров!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Чудесно! Буду очень рад такой помощи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Можно отвлечь вас на минутку, милорд?"</DefaultText>
+      <FemaleText>"Можно отвлечь вас на минутку, миледи?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Эдер пойдет с тобой и поможет охранять твои караваны".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Паледжина поможет с охраной караванов. С ней ты будешь в безопасности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Сагани пойдет с тобой. Она – отличный разведчик, и сможет предупредить об опасности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Хотя, наверное, я передумал".</DefaultText>
+      <FemaleText>"Хотя, наверное, я передумала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Может, у вас есть еще идеи?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Лучше я, чем [Player Name]. Что-то он караванам удачи не приносит".</DefaultText>
+      <FemaleText>"Лучше я, чем [Player Name]. Что-то она караванам удачи не приносит".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Еще одна блистательная запись в моих растущих мемуарах об охране вайлианских торговцев".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Будем держать уши востро, да, Итумаак?" Она почесывают лису голову.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Благодарю вас обоих! Я немедленно сообщу другим торговцам. Такой отличный телохранитель избавит их от опасений".
+
+Аззуро вежливо кланяется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Дать 5000 мп] "Мое имя многого стоит в этих краях. Я лично гарантирую доставку и компенсирую все потери. Это должно устранить любые страхи и сомнения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Несомненно! Более щедрого предложения не стоило и ожидать. Благодарю вас! Уверен, скоро смогу предложить вам более разнообразные товары!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"И хотелось бы, чтобы так оставалось и дальше. Я должен обсудить с вами крайне важный и срочный – как для вас, так и для меня – вопрос".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"У меня из-за этого постоянные проблемы с пополнением ассортимента. Мои поставщики говорят, что риск слишком велик. Никому не нравится, когда заказанные украшения и наряды перехватывают какие-то немытые разбойники".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

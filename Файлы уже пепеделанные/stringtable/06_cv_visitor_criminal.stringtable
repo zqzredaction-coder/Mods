@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_criminal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Хорошо. Я слушаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Уйти, виляя задом] "До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Звать меня Нири. Прошу прощения, и все такое, милорд, но я надеялась перекинуться с вами парой слов".</DefaultText>
+      <FemaleText>"Звать меня Нири. Прошу прощения, и все такое, миледи, но я надеялась перекинуться с вами парой слов".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Так вот, скажем так, я попалась на паре-тройке неблаговидных дел. В общем, мое имя теперь расклеено по всей Бухте Непокорности, и ходить по улицам спокойно уже сильно труднее. Понимаете, о чем я?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Вы подзываете своих товарищей и даете знак, чтобы посетительница изложила свою просьбу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"И я вот что подумала. Пора бы вырваться из рутины, немного попутешествовать. Архипелаг Мертвого Огня – вроде неплохое место. Так я и мозолить глаза никому не буду. Только вот... Кто бы мне помог туда добраться?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Могу помочь тебе сбежать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Тебе лучше сдаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Как ты вообще смеешь показываться в моей крепости?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Эээ, погоди! Давайте без обид. До меня просто слухи дошли, что вы умеете решать всякие дела".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Стража, уберите эту женщину из моей крепости!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"А мы тут преступников вешаем. Стража, взять ее!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Я в вас не сомневалась, начальник!.. То есть, милорд. Что будем делать?"</DefaultText>
+      <FemaleText>"Я в вас не сомневалась, начальница!.. То есть, миледи. Что будем делать?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Дать 1000 мп] "Держи. Должно хватить, чтобы оплатить проход".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Поговорю со своими знакомыми из дома Доменелов. Это по их части".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Солгать, облизнув губы и пообещав отсосать] "У меня есть контакты среди Рыцарей Горна. Они могут помочь – провести через стражу в гавань".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Да вы шутите! Они ж меня вздернут!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ну, я замолвлю за тебя словечко, и приговор будет мягкий. Все лучше, чем жить вне закона".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Солгать, как изменщица, – с честным лицом и мокрыми трусами] "Ну, я замолвлю за тебя словечко. Думаю, приговор будет мягкий. Все лучше, чем жить вне закона".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Так что, мне просто пойти и сдаться? И надеяться на милость? Что-то не тянет меня смотреть на небо в клеточку..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Сейчас я не могу помочь тебе с этим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ох ты ж, сиськи Хайлии! Вот это щедрость. Прямо сейчас отправлюсь в гавань! Не забуду, как вы мне помогли! Я у вас в долгу!"
+
+Нири складывает руки в жесте благодарности и чуть не бегом покидает зал. Она хихикает: «Ради вас я готова на всё».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Друзья в низших кругах общества, хе-хе! Вы не пожалеете об этом, лорд [Player Name]! Я у вас в долгу!"</DefaultText>
+      <FemaleText>"Друзья в низших кругах общества, хе-хе! Вы не пожалеете об этом, леди [Player Name]! Я у вас в долгу!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"А что, ловко придумано! Неплохая маскировка. Скажите своему другу, я приду! Благодарю вас! Вы мне жизнь спасаете!"
+
+Улыбаясь, Нири покидает зал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Э-э-э, погодите, я уже ухожу! Только без рук – АЙ! – да ухожу я!"
+
+Уворачиваясь от ударов, Нири ретируется из зала.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Э-э-э, погодите! Я ж никому зла не хотела! Невиноватая я!"
+
+Стража выносит вырывающуюся и кричащую Нири из зала.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ммм... Ладно, я согласна. Тяжко все время прятаться по норам. Может, начать все сначала с чистой совестью – самый лучший вариант. Спасибо за такую возможность".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ага, щас! Ума вам, может, и не занимать, но самостоятельно влезть в петлю вы меня не уговорите!"
+
+Нири разворачивается на пятках и широкими шагами покидает зал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Хотя, наверное, я передумал".</DefaultText>
+      <FemaleText>"Хотя, наверное, я передумала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Да, конечно. Может, есть еще идеи?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Управляющая! Проследите, чтобы Рыцари Горна встретили Нири. Пусть захватят с собой петлю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Конечно, милорд. Ловко вы, надо сказать".</DefaultText>
+      <FemaleText>"Конечно, миледи. Ловко вы, надо сказать".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"У меня есть связи среди Рыцарей Горна. Веди себя разумно, и можно будет скостить тебе срок".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ну, тебе просто придется довериться мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Вы пожали плечами и сжали анус.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ммм... Ладно, я согласна. Тяжко все время прятаться по норам. Может, начать все сначала с чистой совестью – самый лучший вариант. Спасибо за такую возможность".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ага, щас! Ума вам, может, и не занимать, но самостоятельно влезть в петлю вы меня не уговорите!"
+
+Нири разворачивается на пятках и широкими шагами покидает зал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ага, щас! Ума вам, может, и не занимать, но самостоятельно влезть в петлю вы меня не уговорите!"
+
+Нири разворачивается на пятках и широкими шагами покидает зал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ммм... Ладно, я согласна. Тяжко все время прятаться по норам. Может, начать все сначала с чистой совестью – самый лучший вариант. Спасибо за такую возможность".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Это вы тут [Player Name]? Выручите меня? Очень надо, а?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Я же не прошу вас это делать бесплатно, между прочим. Я тут захватила пару вещичек у... одного знакомого. От них мне мало толку будет, если меня поймают".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Управляющая, попросите Рыцарей Горна обращаться с ней помягче".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Управляющая, дайте знать Рыцарям, что они получат свою беглянку в подарочной обертке".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

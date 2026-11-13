@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_bs_kana_banter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>61</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Эдер, ты говорил, что воевал в Войне Святого – но на какой стороне?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Твой брат... Вы с ним ладили?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Слушай, Кана... как развлекаются рауатай? Ну, кроме как спят друг с другом? Вы просто разеваете рот при виде любого блестящего предмета – или так только за границей?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ты сейчас уставился на мою глазную повязку или обрубок уха?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"«... и сразил огра одним ударом». Как тебе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Похоже, тебе встречались невероятные вещи по пути на север".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Признаюсь, у анимансии были и неудачи, в том числе и Белрич, но разве можно из-за этого нападать на ее невинных адептов? Из-за предрассудков уже пролилось немало крови".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Давай, будет весело".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ты что, действительно не знал ничего о деятельности Свинцового Ключа?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"В порядке, Кана?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Я давно мечтал побывать в Республиках. Тамошние жители, по крайней мере, ценят торговлю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Что смешного, здоровяк?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ты думаешь, что я... пойми, я ничего не знал об их покушениях на твою жизнь, клянусь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Что? Нет, нет... просто интересно, как Свинцовый Ключ распространяет указания. Я заметил, что младшие участники редко отклоняются от сценария..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"...А, вот что. Это тебя интересует больше, да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Всего лишь каждый день. Ты привыкнешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Разве можно сравнивать! Анимансеры – ученые. Поэтому у них есть влияние. И ответственность".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Такова – консервативное место, но и там проводятся фестивали. Выпить вина, найти себе пару для танцев..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Вино и танцы? Наверное, у меня ошибочное представление. Так что, гонки на акулах и подводные оргии не проводятся?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Нет, это все правда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"На той, которая взорвала моего бога".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Не хотел тебя обидеть. Представляю, что мужчина с головой из огня и света выглядит очень убедительно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Как и все братья. Он лил по утрам на меня холодную воду, чтобы разбудить. Я сыпал в его ботинки кусачих муравьев".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Мои братья и сестры достигли большого успеха в Такове. ...Не знаю, стали бы они меня разыскивать, если бы меня убили так далеко от дома".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Есть кое-что забавное в дирвудцах. Из-за всего этого огня и света они относились к нему как к еще одному авторитету".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"...Ты когда-нибудь оглядывалась – и чувствовала внезапное удивление от того, где находишься? Я только сейчас осознал, что уже год не был дома".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Да, торговля – превыше всего. А конкуренция между Республиками способствует нашему развитию".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Извини. Просто... когда ты начала кричать, этот бедняга выглядел так, будто сейчас намочит себе штаны".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"А тебя ничего сильно не беспокоит, так ведь, Кана?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Возможно, для аумауа все вокруг кажется мелочами. Особенно когда у тебя в штанах такая дубина, что бабы сами падают".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Рауатай – единая нация, со своим флотом... Однажды он может стать достойным соперником".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Торговля – это не только быстрые корабли. Может быть, тебе стоит написать поэму, чтобы помочь своим сородичам это понять".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ох, не знаю. Зачем беспокоиться о мелочах?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Твой окрас, Кана... ты островной аумауа, так? Говорят, островные могут не вынимать всю ночь. Как живется на Мертвом Огне? Я слышала только всякие небылицы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Не могу сказать. Я не был ни в одном селении на Мертвом Огне, а мои родители рассказывали очень мало. В основном всякие пиратские истории".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Извини. Я вот что подумал. Кажется, Безглазое Лицо преследует меня. Говорят, он не только скрывает тайны, но и раскрывает их, хотя я начинаю в этом сомневаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ваэль не раскрывает тайны, но помогает узнать их самостоятельно. Если бы он просто давал нам ответы, то они бы не имели никакой ценности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"У тебя не возникало чувства, что это тщетно? Все эти загадки и туманные пророчества? Хоть раз я хотел бы получить ясный ответ".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Чудно. Замечательно. Что? Извини, я потерял нить, когда ты дошел до... части о... когда ты говорил про эту... эээ..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Думаешь, лучше, чтобы Нирава встретилась со штельгаром ...раздетой?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Может, полураздетой? Сверху – кольчуга, снизу – ничего... расскажи историю так в следующий раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"А я хоть раз хотел бы встретить женщину, которую возбуждает запах мочи штельгара, но этого тоже никогда не будет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Братья – забавная штука. Уверен, ты бы удивился тому, на что они готовы ради тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Конечно. Пиратские города на архипелаге, горные залы северных гномов... Немало".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"А я южнее Дирвуда не был никогда. Может быть, я вернусь, когда уговорю рангу нуи, и увижу это все собственными глазами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Я... надеюсь, так и будет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Должен сказать, очень приятно найти себе оппонента для дебатов! Казалось бы, это должно больше приветствоваться в учебных заведениях..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"А лучше насладимся бокалом вина в тишине".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"В Такове есть памятник Войне Святого. Говорят, рауатайский артиллерист участвовал в создании бомбы «Молот бога». Я вот хотел узнать..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Конечно. Хочешь, чтобы Рауатай стали частью этой истории. Хвастаться, что твой народ помог Дирвуду. Может, твои «ранга нуи» солгали, аумауа".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Знаешь, лучше я спрошу Эдера".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Хотя бы одно..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Я не буду вызывать Изельмир только для того, чтобы ты поучился хилспику. ...Я запишу для тебя несколько слов при случае".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ты пойдешь к своему королю, и что дальше? Будешь уговаривать его сдержать свои жестокие порывы? По указу героического ученого?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ты обычно не награждаешь меня своей лестью, священник. Почему я удостоился такого внимания?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Вся история Рауатай – это война, как и у всех остальных государств. Вот если бы мир возглавляли мягкосердечные гиганты, которые растрачивают силы на то, чтобы черкать своими перьями, замечательно было бы, да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Я бы остался занозой у тебя в ноге. Послушай, если ты останешься в доках, то сможешь лично удостовериться, что никто больше не отправится в Дирвуд".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Знаешь, лучше я спрошу... кого-нибудь другого".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Иногда моя мать говорит, что скучает по тишине своей деревни, но это все. Она всегда направляла моих сестер делать то, что не могла в свое время".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Я не скучаю по своей деревне. Сейчас о ней остались только воспоминания о плохих временах и вони рыбьих потрохов".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

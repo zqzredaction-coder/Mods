@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_si_rhemen_gorge_entrance</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Камень здесь был вырезан в несколько простых форм. Небольшое круглое углубление отмечает центр, и его окружает гораздо больший круг. Над обоими кругами вы видите что-то похожее на письмена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Посмотреть на круговое углубление.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Осмотреть внешний круг.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Поместить адровый диск в углубление.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>По внешнему кругу вырезаны несколько форм. Хотя большинство из них стерты, вы можете различить полумесяц над центром.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Углубление довольно мелкое, но, кажется, адровый диск, который вы получили от Истребителей гигантов, идеально в него подходит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Камень легко ложится в углубление, и вы чувствуете, как воздух устремляется в крошечные трещины. Кажется, теперь он прочно удерживается на месте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Уйти, покачивая бёдрами.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Углубление мелкое и гладкое. Похоже, оно предназначалось для размещения какого-то определенного предмета.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Осмотреть письмена.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Буквы вам не знакомы. Без сомнения, это остатки какого-то давно забытого языка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Искривленные, скрученные руны кажутся странно знакомыми. Вы узнаете в них древний энгвитанский. Они говорят:
+
+"Все заканчивается, только чтобы начаться снова. Войди в сумерки, чтобы все мы увидели новый рассвет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Камень помещается в углубление, но ничто не удерживает его на месте, так что он просто выпадает. Вы чувствуете, что делаете что-то неправильно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Вы слышите, как камень под ногами сдвигается, и внезапно вода из бассейна начинает уходить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Подождать немного.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Яркое солнце освещает узоры на земле. Вы встаете на колени, чтобы получше рассмотреть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Свет звезд освещает узоры на земле. Вы встаете на колени, чтобы получше рассмотреть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Вы выжидаете несколько часов, наблюдая, как звезды перемигиваются и мерцают над головой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Вы выжидаете несколько часов, наблюдая за ходом солнца по небу.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

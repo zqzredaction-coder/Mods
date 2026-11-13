@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1012_cv_vith_explorer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Визрак изучает вас настороженно, пока вы приближаетесь. Его темные глаза блестят. Его голос у вас в голове приятно мелодичен. "Приветствую язык Аэдира. Криви рад видеть. Здесь много новых вещей". Он указывает когтем на стену пещеры. "Много кристаллов", добавляет он взволнованно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Что ты делаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Я так понимаю, ты любишь блестящие предметы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ты что-нибудь знаешь о Хозяине в глубинах?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Уйти, подмигнув] "Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Он наклоняет голову. "Да, блестящие. Много света, много цветов, в венах мира. Собирается вниз, к сердцу, думает Криви". Он издает короткий счастливый щебет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Криви тоже нужны припасы. Иссит помогает. Ищет пещеры на юге". Визрак показывает. "Ей нужно время", добавляет он с намеком на упрек. "Тоже идет одна. Криви не нравится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Криви знает многое... но не знает никакого Хозяина. Спросить Тчарека?" Он указывает когтем на их вожака, а затем чопорно складывает руки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Певучий голос визрака снова звучит у вас в голове. "Языку Аэдира все еще рады! Нужно ли что-то?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Куда пошла Иссит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Уйти, покачивая бёдрами] "Что ж, удачи со всем этим. Я пойду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"У меня были и другие вопросы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Уйти, пока не потребовали расплатиться телом] "Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Иссит собиралась на юг, искать пещеру. Взяла пауков для охраны". Он делает паузу. "Криви немного беспокоился, но не мог остановить поиски. Помогает колонии".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Кажется, я мог встречаться с Иссит. Она напала на меня без предупреждения, и я был вынужден защищаться".</DefaultText>
+      <FemaleText>"Кажется, я могла встречаться с Иссит. Она напала на меня без предупреждения, и я была вынуждена защищаться".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Криви понимает..." На мгновение у вас возникает особое царапающее чувство в голове, а затем оно исчезает. "Криви сожалеет, что послал Иссит. Иссит была очень добра. Странно, что Иссит кончила так. Странные вещи происходят в этом месте".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Что ты здесь делаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Криви изучает адру, энергию в адре. Грустно, что Иссит умирает. Иссит очень умная. Слабая духом. Но очень умная".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Кто такой Криви?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Визрак издает низкий, свистящий звук. "Есть Криви", говорит он ярко.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Визрак поднимает когтистый палец, чтобы легко поскрести по образованию адры, растущему вдоль стены. "Изучает эсск-аревар. Адру. Как растет, формируется, используется. В Стравек-нарис адра не растет. Криви узнает тайну".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Варе? Варе. Фффаре. Хорошо. Да! Прощай, язык Аэдира!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Поживает очень хорошо. Криви благодарит!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Я думаю, что нашел Иссит. Она лежала мертвая в пещере на юге".</DefaultText>
+      <FemaleText>"Я думаю, что нашла Иссит. Она лежала мертвая в пещере на юге".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Криви понимает..." На мгновение вы чувствуете особое царапающее чувство в голове, а затем оно исчезает. "Криви сожалеет о действиях Иссит. Странно, что Иссит так поступила. Странные вещи происходят в этом месте".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Да? Криви слушает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ваш вожак сказал, что у тебя есть припасы на продажу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Да! Тчарек говорит, что ты помогаешь нам. Криви собирает припасы. Язык Аэдира может видеть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Можно посмотреть, что у тебя есть на продажу?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Да, может видеть. Смотри".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Криви собирает много вещей, пока изучает адру. Не все камни похожи, да? Есть красивые камни. Возьми, пожалуйста. Криви благодарит язык Аэдира. Хорошо познакомиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

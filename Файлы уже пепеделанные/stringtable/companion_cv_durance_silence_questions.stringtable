@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_durance_silence_questions</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Будешь и дальше ко мне приставать – и я за каждый вопрос начну протягивать чашу для подаяний. Довольно вопросов на сегодня – пусть путь займет нас до следующего костра".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ты служитель Ваэля? Оставь ему тайны и вопросы – по крайней мере, до следующего привала – пусть подглядывает за кем-нибудь другим".</DefaultText>
+      <FemaleText>"Ты служительница Ваэля? Оставь ему тайны и вопросы – по крайней мере, до следующего привала – пусть подглядывает за кем-нибудь другим".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"У тебя на коже нарисованы глаза Ваэля? Загадок больше чем вопросов, и даже целая армия ответов тебя не удовлетворит. Даже солдатам нужно давать своим мыслям прийти в порядок – как и их священникам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Мы не идем по пути вместе, Хранитель, оставь свои вопросы на другой день".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ты жужжишь, будто проглотил гнездо с пчелами. Помолчи и оставь их при себе, чтобы не устать до следующего костра".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_oldsong\12_cv_noonfrost_breach_altar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Из пола поднимается пьедестал из черного льда. Длинные, похожие на пальцы кристаллы льда, твердые и прозрачные как алмазы, окружают и пронзают алтарь.
+
+В центре алтаря выдолблено отверстие. Хоть оно не может быть глубже нескольких дюймов, в него всасывается воздух.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Заткнуть отверстие осколком Римрганда.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Уйти, поправляя штаны.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Осколок подходит идеально.
+
+Когда он входит в отверстие, холод вокруг алтаря исчезает. Кроме того, портал перед вами словно утолщается, а загадочная утечка сходит на нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

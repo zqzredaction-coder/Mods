@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_oldsong\12_si_maw_bridge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Остатки разломанного и давно обвалившегося моста ведут к глубокому ущелью. Другая сторона моста прорезает туман на дальней стороне пропасти, опасно нависая над обрывом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Осмотреться.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Кинуть веревку с крюком через пропасть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Уйти, виляя задом.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Поломанные камни моста, обветшавшие и обточенные ветрами за века запустения, разбросаны на краю пропасти. Снизу поднимается легкая дымка. Камни покрыты скользким зеленым мхом, из-за чего схватиться за них надежно невозможно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Впрочем, похоже, что деревянные балки, зажатые между камнями на обоих концах моста, достаточно крепкие, чтобы выдержать ваш вес.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Вы целитесь в сторону деревянной балки на противоположном конце моста и бросаете крюк через пропасть. Он попадает по мосту с глухим стуком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Крюк цепляется крепко, углубляясь в дерево при натягивании веревки. Веревка затягивается крепко и надежно. Вы привязываете свободный конец веревки к деревянной балке возле себя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Переход требует большого напряжения, особенно когда качание веревки усиливается. Вы слышите тяжелое дыхание – все начинают уставать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Пересечь пропасть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Переход требует большого напряжения, особенно когда качание веревки усиливается. [SkillCheck 0] начинает тяжело дышать, а [SkillCheck 1], [SkillCheck 2] и [SkillCheck 3] замедляются.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Переход требует большого напряжения, особенно когда качание веревки усиливается. Вы слышите тяжелое дыхание – все начинают уставать, и только [SkillCheck 0] не отстает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Наконец, вы выбираетесь на твердую землю и достигаете противоположной стороны, что стоит вам немалых усилий.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Веревка натягивается и дрожит, когда вы продвигаетесь вперед, держась за трос. Треск деревянных балок, эхом отдающийся по подземной пещере, сопровождает каждое ваше движение.
+
+Вы ступаете медленно и равномерно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Остатки разломанного и давно обвалившегося моста ведут к глубокому ущелью. Другая сторона моста прорезает туман на дальней стороне пропасти, опасно нависая над обрывом.
+
+Через обрыв тянется ваша веревка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Переход требует большого напряжения, особенно когда качание веревки усиливается. [SkillCheck 0] начинает тяжело дышать, а [SkillCheck 1] и [SkillCheck 2] замедляются.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Вы достигаете противоположной стороны без происшествий. Похоже, узлы на другой стороне моста все еще надежны, а деревянные балки не повреждены от нагрузки, оказанной на них при вашем прохождении.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Переход требует большого напряжения, особенно когда качание веревки усиливается. [SkillCheck 0] начинает тяжело дышать, а [SkillCheck 1] замедляется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Переход требует большого напряжения, особенно когда качание веревки усиливается. [SkillCheck 0] начинает тяжело дышать.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

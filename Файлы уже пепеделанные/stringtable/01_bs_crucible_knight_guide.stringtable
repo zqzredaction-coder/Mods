@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_crucible_knight_guide</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Чего тебе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Я ищу район с башней. Это возле кладбища".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Где в Бухте Непокорности держат сумасшедших?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Единственное место, которое их принимает, – это Лечебница Брэкенбури. Слышал, они лечат там души от безумия. Но о нем ходит немало историй, от которых кровь стынет".
+
+"Там есть мужчина, если так можно его назвать, Этельмоер его звать. Он главный смотритель. Если хочешь посетить лечебницу или записаться на лечение, поговори с ним".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Лучше не ищи. Ты говоришь о Заветном Холме – его башня видна за стенами района в той стороне". Юстициар показывает на северо-запад.
+
+"Но там что-то... произошло. Больше туда никого не пускают. И никто из Рыцарей не хочет дежурить поблизости. Лучше держись от того места подальше, если не хочешь неприятностей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Я ищу храм Воедики – где та плеть, что держит всех на коленях?".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Хм. Ну, если это тебе так нужно. Он в Первых Огнях, на запад от Крепости Горна".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Хм. Ну, раз так. Он здесь неподалеку, на запад от Крепости Горна. Точнее, то, что от него осталось".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

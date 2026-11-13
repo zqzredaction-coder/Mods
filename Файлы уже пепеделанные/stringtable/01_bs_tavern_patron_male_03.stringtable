@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_tavern_patron_male_03</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Тоже пришел послушать умных людей?"</DefaultText>
+      <FemaleText>"Тоже пришла послушать умных людей?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Лечебница приобрела дурную славу в определенных кругах. Но, уверен, им удастся разобраться с Наследием".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Я просто посвящал этого юношу в тонкости закулисных интриг Бухты Непокорности..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ходят слухи, что на Эрола Леви однажды ночью напал аумауа, и с тех пор его не видели".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Когда Воедика вернет себе трон, все люди будут рады тому, что имеют. А не как эти выскочки из Дюжин. Те пусть встанут на колени и подставят зад".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

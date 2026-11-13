@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_fishermen</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>У одной из заводей стоят две фигуры. Они тяжело дышат, переводя дух, и настороженно смотрят на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Если ты, как и мы, собираешься порыбачить, не ходи к компасу". Гномиха указывает на юго-восток. "Там какие-то подозрительные ребята".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Хорошие новос... Стой. Ты это слышишь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>У одной из заводей стоят две фигуры. Они тяжело дышат, переводя дух, и настороженно смотрят на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Боги, ну и дела. Спасибо за помощь, незнакомец!"</DefaultText>
+      <FemaleText>"Боги, ну и дела. Спасибо за помощь, незнакомка!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Если ты, как и мы, собираешься порыбачить, тебе лучше не ходить к компасу". Гномиха указывает на юго-восток.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Ее товарищ качает головой. "Шторм часто разбивает корабли об эти скалы, так что сначала нам показалось, что и в этом ничего особенного. Но потом мы кое-что услышали..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ужасный шум. Я подумала, что это, должно быть, выживший матрос, но он не был живым. Он двигался, но не был живым!" Поеживается. "Отвратительно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Что вы двое здесь делаете?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Говоришь, здесь настоящее кладбище кораблей?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Уйти, дрожа коленями] "До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"О чем ты? Что вы видели?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Мертвецов. Ходячих мертвецов. Мы не хотим влезать в это, что бы это ни было. Попробуем поймать что-нибудь в этих заводях, а потом пойдем домой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Женщина кивает. "Да, что ни месяц, то новая трагедия. Опасно здесь плавать, но рыба хорошо клюет. Обычно". Поднимает бровь. "Наверное, в следующий раз стоит попробовать пройтись подальше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Рыбачим, что еще. Жаль только, что я потерял удочку – швырнул ее в одного из этих чудовищ". Он вздыхает. "Мы осматривали заводи и уже хотели попытать счастья у скал. Чуть не померли от страха. Придется обходиться сетями, или с голоду помрем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Ее товарищ качает головой. "Судя по тому, как они на нас смотрели, им было что-то нужно. Можно подумать, у нас можно взять что-нибудь кроме наших сетей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Что это за компас?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Что вы двое здесь делаете?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Что за подозрительные ребята?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ну, рыбачим, что ж еще. Рыбачили, по крайней мере. В этих заводях особо ничего не выловишь. Подождем еще немного, посмотрим, может эти ребята скоро уйдут".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"О, это камень, к юго-востоку отсюда. Скорее даже скала. Кое-кто считает, что она похожа на циферблат солнечных часов, представляешь? Мне вот так не кажется..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Не лучшее место для судоходства. Вдоль берега полно разбившихся кораблей. Но рыбалка здесь хороша".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Да, сир. Не знаю, что им было нужно. А вопросов мы не задавали. Похоже было, что они только что сошли на берег".</DefaultText>
+      <FemaleText>"Да, мэм. Не знаю, что им было нужно. А вопросов мы не задавали. Похоже было, что они только что сошли на берег".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Но это не нашего ума дело. Мы здесь просто хотим раздобыть что-нибудь на ужин, а потом сразу домой".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

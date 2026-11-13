@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_weyd</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>54</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Красные глаза Уэйда смотрят как будто в никуда. Он видит свою грязную кружку и заглядывает туда, будто ища что-то. Поеживается и делает очередной глоток.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>В его глазах стыд и презрение к самому себе. "Что ты от меня хочешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Схватить Уйда за воротник.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Похлопать Уэйда по плечу.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Твой сын мертв. Деррин защищал одну из этих девушек от бандитов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Твой сын пропал. Тебе лучше объяснить, что ты здесь делаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"На самом деле, это ты убил его. И я расскажу об этом всем здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Я взял парня на рыбалку и просто зашел сюда пропустить стаканчик. На секундочку. Ну я и сказал ему ждать меня на улице. Я собирался тут пробыть не больше пяти минут, но когда вышел, его уже не было".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Уйти, покачивая бёдрами.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Уэйд смотрит как будто сквозь вас. "Мой... мой мальчик погиб, пока я был здесь? Одда, моя жена... она всегда говорила, что я плохо кончу, но я не мог и подумать, что..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ты можешь измениться. Если ты хочешь стать достойным своего сына, иди домой и позаботься о членах семьи, которые у тебя еще остались".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ты должен сказать Одде, что случилось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Он тяжко вздыхает и смотрит на полупустую кружку перед собой. Трясущейся рукой он отодвигает ее в сторону. "Не знаю, прав ли ты. Но я постараюсь взять себя в руки и разобраться во всем".</DefaultText>
+      <FemaleText>Он тяжко вздыхает и смотрит на полупустую кружку перед собой. Трясущейся рукой он отодвигает ее в сторону. "Не знаю, права ли ты. Но я постараюсь взять себя в руки и разобраться во всем".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ты ЧТО? Может, я это и заслужил, но я очень надеюсь, что ты получишь сполна!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Спасибо, что нашел моего мальчика, и спасибо, что уговорил меня пойти домой. Почему я был так слеп?"</DefaultText>
+      <FemaleText>"Спасибо, что нашла моего мальчика, и спасибо, что уговорила меня пойти домой. Почему я был так слеп?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Человеку тут что, даже выпить спокойно нельзя?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Солгать, как шлюха, клянущаяся в верности] "Деррин сел на один из Вайлианских кораблей. Он оставил Бухту Непокорности в поисках лучшей жизни".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Какой смысл? Все кончено. Наш сын мертв. Я никогда не вернусь. Мое место здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Не важно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Думаю, для него это будет лучше, чем всю жизнь прибираться за мной". Он встает на нетвердых ногах. "Мне нужно рассказать все Одде. Однажды она меня простит и, если боги будут ко мне добры, мой мальчик простит меня тоже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Так даже лучше, я думаю. Он станет лучшим человеком, чем его отец".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Уйти, дрожа коленями.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Уэйд берет свою кружку и делает долгий глоток.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Это уже не исправить. Но ты должен идти дальше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Уэйд горько смеется. "Ты определенно никогда не терял собственного ребенка. Теперь вся моя жизнь здесь".</DefaultText>
+      <FemaleText>Уэйд горько смеется. "Ты определенно никогда не теряла собственного ребенка. Теперь вся моя жизнь здесь".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Он смотрит в свою кружку. "И, судя по всему, она будет недолгой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Уэйд натыкается на стойку и бросает на вас презрительный взгляд через плечо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Уэйд пошатывается, его кулак пролетает в полуметре от вашего уха – и он по инерции падает на пол. Медленно встает, цепляясь за стойку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Может, тебе уже хватит сегодня?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Не будь к себе слишком строг. Ты ведь этого не хотел".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ты не можешь здесь прятаться. Рано или поздно тебе придется с ней встретиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Что ты ужасный отец?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Он смотрит на свою кружку и делает глоток. "Я не знаю, что скажу Одде".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Если бы на меня повесили ребенка, я, наверное, тоже бы здесь торчал".</DefaultText>
+      <FemaleText>"Если бы на меня повесили ребенка, я, наверное, тоже бы здесь торчала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Уэйд поворачивается к тебе, рыча. "Пошел ты! Я люблю своего сына, и Одду люблю". Он обхватил руками голову и прислонился к стойке. "Но какое это сейчас имеет значение?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Это не оправдание. Хватит сидеть здесь, подними свою задницу и иди ищи его!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ты думаешь, я не пытался? Я живу в Даре Ондры всю жизнь. Если кто-то пропадает так надолго... Особенно шлюхи."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Я много чего не хотел".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Атаковать, щёлкнув зубами и хлопнув себя по ширинке] "Почему бы мне не выбить из тебя эту твою скорбь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Как ты можешь просто сидеть и пить? Твой ребенок пропал!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Я слышал о Деррине. Ты в порядке?"</DefaultText>
+      <FemaleText>"Я слышала о Деррине. Ты в порядке?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Уэйд вертит в руках свою кружку. "Нет. Совсем не в порядке".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Уэйд закрывает лицо руками. "Все не так".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ты думаешь, я этого не знаю?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Уэйд зажмуривается. "Ты бы так не говорил, если бы знал, каким отцом я был".</DefaultText>
+      <FemaleText>Уэйд зажмуривается. "Ты бы так не говорила, если бы знала, каким отцом я был".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Атаковать и завалить, как шлюху в борделе] "Да. И теперь я знаю, что тебе нельзя присматривать и за дочерью".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"По крайней мере ты не нарушил свой режим, выпивоха!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"И ты решил остаться здесь?" Она фыркает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Оставьте меня все в покое!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Не хочешь сесть где-нибудь вон там?" Он машет рукой в сторону. "Мне некуда больше идти. Жена в таком состоянии, и мой мальчик... мой..." Его лицо искажается от горя, и он возвращается к своей кружке, бормоча в нее что-то.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Да".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Уэйд смотрит в стоящую перед ним кружку. "Так вот, значит. Пути назад нет. Я подвел сына".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Я все равно собираюсь его найти".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

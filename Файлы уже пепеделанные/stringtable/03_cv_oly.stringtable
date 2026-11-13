@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_oly</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Мужчина за столом один, но он все время смотрит на противоположную скамью, будто кого-то ожидая. От него несет выпивкой, и он двигается, как человек, большую часть своей жизни беспробудно пьющий.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ну что еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"У меня есть пара вопросов о Лендри".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Он настороженно хмурится. "Тебе-то что?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Мне сказали, ты последний, кто видел Лендри".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Лендри был твоим другом. Ответить на несколько вопросов – меньшее, что ты можешь сделать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Уйти, пока не потребовали расплатиться телом] "Ничего".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Оли смотрит на вас с подозрением. "Ладно. Но тут не из-за чего переживать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Схватить Оли за воротник] "Мне нужны ответы, так что тебе лучше поскорее протрезветь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Эй, эй! Спокойно!" Он пытается оттолкнуть вас, но его движения слишком заторможены и беспорядочны. "Отпусти меня! Кружится все!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Он хмурится еще сильнее. "Помочь хочешь, ха? Что ж, ты опоздал на две недели".</DefaultText>
+      <FemaleText>Он хмурится еще сильнее. "Помочь хочешь, ха? Что ж, ты опоздала на две недели".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"У меня есть несколько вопросов о нем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Оли осушает свою кружку и барабанит по ней пальцами. "Глотка у меня ваще пересохла. Хочешь поболтать – кружка этого пойла стоит 10 пандов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Итак... что тебе нужно было от Лендри?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Где и когда ты в последний раз видел Лендри?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Кто эта женщина, о который ты говоришь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Это все, что мне нужно сейчас знать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Хитрая улыбка расползается по его лицу. "Занятная дамочка. Ламдала ее звали". Постукивает по голове. "Я много чего уже не помню, но ее помню отлично. Обычно такая стоит месячного заработка. Но Ламдала..." Оли качает головой. "В ту ночь она втрескалась в Лендри по уши. Сбежала с ним потом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Вот тут, выпивающим со мной". Оли хлопает по скамье рядом с собой. "Как мы делали каждый вечер целых пять лет кряду. На самом деле я немногое могу о нем рассказать, он никогда особо не откровенничал". Он бросает хмурый взгляд на шершавую столешницу. "Наверное, поэтому мы так хорошо и ладили. Мы вообще многих вещей не касались".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Куда отправились Лендри и Ламдала?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Он издает хриплый смешок. "Она говорила, что они собираются посмотреть какое-то рюшечное представление. Если хочешь знать мое мнение, они сами еще то представление дали в ту ночь". Он делает неприличный жест и ухмыляется. "Она сказала, что сначала им нужно заскочить в ее дом в Копперлейне и что-то там взять. Уютное такое гнездышко у северных ворот". Поднимает кружку. "Даже пьяница вроде меня знает, что это значит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Уйти, подмигнув] "Забудь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Оли машет служанке. Потом он поднимает кружку и делает долгий глоток.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Оли кивает. "Ага. Дай мне знать, если найдешь его, лады? Если этот сукин сын хорошо устроился, он должен проставиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Оли смотрит, как вы подходите. "Ну, что ты выяснил? Лендри теперь выбился в люди, у него приличная работа и хорошенькая женушка?"</DefaultText>
+      <FemaleText>Оли смотрит, как вы подходите. "Ну, что ты выяснила? Лендри теперь выбился в люди, у него приличная работа и хорошенькая женушка?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Лендри мертв".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Уйти, виляя задом] "Пока ничего".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ну, если это не просто..." Он крепче сжимает кружку и смотрит в сторону. "Говорил я этому дурню просто жить и не париться. Но у него же были высокие запросы, все думал, как выбиться в люди..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Спасибо, что рассказал мне. Пожалуй..." Он отпивает из своей кружки. "...мне понадобится еще одна кружка".</DefaultText>
+      <FemaleText>"Спасибо, что рассказала мне. Пожалуй..." Он отпивает из своей кружки. "...мне понадобится еще одна кружка".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Этот стол занят. Найди себе другой". Он расставляет локти и ставит свою кружку в центр.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Опустошить кружку Оли] "Я – твой новый собутыльник. И у меня есть к тебе пара вопросов".</DefaultText>
+      <FemaleText>[Опустошить кружку Оли] "Я – твоя новая собутыльница. И у меня есть к тебе пара вопросов".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Он изумленно смотрит на вас. "Ну, что ж... спрашивай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Но это неважно. Я помню ту ночь, потому что он сказал, что дела пошли в гору. Он собирался найти нормальную работу, привести себя в порядок, попытаться устроить свою жизнь. А я ему сказал, что раз так, то за выпивку платит он". Оли смотрит в кружку. "И вот тогда появилась она".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Дать 50 мп] "За выпивку плачу я".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Дать 50 мп] "Приведи себя в порядок и завязывай с этим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Удачи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Хорошая идея. Достаточно помнить, что случилось с Лендри".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Если ты продолжишь гнить тут, это не вернет Лендри. Пора изменить свою жизнь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Пытаться изменить свою судьбу бессмысленно. Лучше радоваться тому, что есть, пока можешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Оли поднимает кружку. "Выпью за это".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Не-а, пора выпить еще кружечку. Прощай, незнакомец!"</DefaultText>
+      <FemaleText>"Не-а, пора выпить еще кружечку. Прощай, незнакомка!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Оли поднимает кружку. "Очень мило с твоей стороны. Береги себя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Оли смотрит на лежащие на столу монеты. "Ничего не обещаю, но... может, сразу после этой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Оли уткнулся в свою кружку. "Я выучил этот урок. Держаться подальше от шикарных дамочек и поближе к простому люду". Он сделал глоток.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Оли поднимает кружку и выпивает за вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Стол занят. Весь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Заплатить] "Вот. Ну что, теперь поговорим?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Расскажи мне о Лендри еще раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Расскажи мне о Лендри".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Большую часть времени он проводил здесь, со мной, за кружечкой чего-нибудь горячительного. Это о многом говорит, правда?" Он делает глоток и пожимает плечами. "Он не шибко откровенничал, а я и не спрашивал. Но у него были руки простого работяги, и такая же страсть к выпивке".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"К слову, она сказала, что работает в театре в Копперлейне. Там-то они и собирались смотреть выступление. Может, кто-то из местных его видел".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

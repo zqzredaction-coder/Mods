@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_bs_glanfathan_pots_locals_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Белые эльфы исчерпали терпение Клыков".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Нет, они не будут выгонять их из храма Римрганда – ледяной бык и дальше будет пугать их импотенцией".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Они оскорбляют Римрганда! – ледяной бык нагонит им холод в штанах"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Придержи свой язык! Ты хочешь сказать, что общаешься с Богом Зимы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Чувствую, ветер переменился, брат..."</DefaultText>
+      <FemaleText>"Чувствую, ветер переменился, сестра..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Белые эльфы следят за Нунфростом уже несколько сезонов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Я настаиваю на своих словах: белые эльфы больше не живут в Нунфросте".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Слышал, с ними разобрался чужеземец".</DefaultText>
+      <FemaleText>"Слышал, с ними разобралась чужеземка".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Кто бы мог подумать, что эстрамор вернет нам Нунфрост".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Возможно, Клыки нашли в нем союзника".</DefaultText>
+      <FemaleText>"Возможно, Клыки нашли в ней союзницу".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

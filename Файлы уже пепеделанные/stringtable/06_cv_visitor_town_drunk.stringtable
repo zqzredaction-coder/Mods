@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_town_drunk</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Привет! То есть, это, приветствую вас, лорд [Player Name]. Я хотел поговорить с вами. Я тут в кой-какую передрягу встрял".
+
+От мужчины разит элем.</DefaultText>
+      <FemaleText>"Привет! То есть, это, приветствую вас, леди [Player Name]. Я хотел поговорить с вами. Я тут в кой-какую передрягу встрял".
+
+От мужчины разит элем.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Дело вот какое – у меня в Дирфорде куча долгов понабралось. Ну, и в паре других мест. Точнее, во многих".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Хорошо. Я слушаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Уйти, придерживая трусы] "До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Вы подзываете своих товарищей и даете знак, чтобы посетитель изложил свою просьбу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Я вот что подумал... Я готов работать! Может, вы знаете кого-нибудь, кто мог бы нанять меня, или типа того".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Не беспокойся. Я могу это уладить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Я знаю, как ты можешь вернуть свой долг".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Зачем мне беспокоиться о каком-то проходимце? Ты попусту тратишь мое время".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Я... я не хотел, милорд! Просто... я думал... простите!"</DefaultText>
+      <FemaleText>"Я... я не хотел, миледи! Просто... я думал... простите!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Стража, уберите это существо с глаз моих!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Стража, вздерните этого никчемного бродягу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Спасибо вам, милорд. Я не думал, что кто-то действительно мне поможет".</DefaultText>
+      <FemaleText>"Спасибо вам, миледи. Я не думал, что кто-то действительно мне поможет".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Дать ему 1200 мп] "Этого должно быть достаточно, чтобы раздать долги".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Материальные блага, долги... это все не имеет значения. Закуа может рассказать тебе больше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Дюжины будут гнать тебя из города в город до самой гавани, пока ты не отчалишь на корабле, идущем в Живые земли!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Я так и не научился никаким ремеслам. Что вы предлагаете?"
+
+Гафол нервно переминается с ноги на ногу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Паледжина может порекомендовать тебя исследователям в Вайлианских Республиках. Будешь работать помощником".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Я поговорю с Белласедж в Лечебнице Брэкенбури. Поможешь ей с исследованиями".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Сейчас я не могу помочь тебе с этим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Гафол широко раскрывает глаза. 
+"Конечно! Да хранят тебя боги, милорд! Я пойду в Привал Эйны, верну долги. Ох, как же они удивятся!"</DefaultText>
+      <FemaleText>Гафол широко раскрывает глаза. 
+"Конечно! Да хранят тебя боги, миледи! Я пойду в Привал Эйны, верну долги. Ох, как же они удивятся!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Хотя, наверное, я передумал".</DefaultText>
+      <FemaleText>"Хотя, наверное, я передумала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ох. Ну... Может у вас есть другие идеи?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Это ловушки, которые привязывают тебя к миру. Решение проблемы – сжечь все свое имущество и заплатить заимодавцам актами самокалечения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Уфф... Испытания всякие? Ну, зато за них хорошо заплатят, да?"
+
+Он неловко кланяется. "Спасибо! Отправлюсь туда, как только смогу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Вайлианские Республики? Но это так далеко... Хотя, может, смена обстановки пойдет мне на пользу".
+
+Он неловко кланяется. "Спасибо! Я буду стараться, обещаю!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Погодите, я же не... Аах!"
+
+Гафол уворачивается от стражников и с криками выбегает из зала.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Гафол испуганно вскрикивает и, скуля, выбегает из зала.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Нет, стойте! Стойте! Простите меня!" 
+
+Стражи хватают Гафола под руки и вытаскивают его из зала.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Это, ээ... звучит интересно. Спасибо, лорд [Player Name]! Я знал, что вы сможете помочь!"</DefaultText>
+      <FemaleText>"Это, ээ... звучит интересно. Спасибо, леди [Player Name]! Я знал, что вы сможете помочь!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ох, ладно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Гафол беспокойно ежится, на его лбу выступают капли пота. Он ждет, пока вы заговорите.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Э-эй! Можно вас на секундочку?.."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"У меня совсем нет денег, милорд. Я б заплатил, если бы мог!"</DefaultText>
+      <FemaleText>"У меня совсем нет денег, миледи. Я б заплатил, если бы мог!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

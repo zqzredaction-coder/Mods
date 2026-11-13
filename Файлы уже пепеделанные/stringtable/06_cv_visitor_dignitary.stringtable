@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_dignitary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Приветствую вас, лорд [Player Name]. Меня зовут Берольт. Если у вас есть время, я бы хотел обсудить с вами неотложное дело".</DefaultText>
+      <FemaleText>"Приветствую вас, леди [Player Name]. Меня зовут Берольт. Если у вас есть время, я бы хотел обсудить с вами неотложное дело".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Буду очень за это благодарен". Берольт выжидательно на вас смотрит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Не могу подвергать сомнению ваши значительные ресурсы, но... как, милорд?"</DefaultText>
+      <FemaleText>"Не могу подвергать сомнению ваши значительные ресурсы, но... как, миледи?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Да? С кем я буду путешествовать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Хорошо. Я слушаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Уйти, виляя задом] "До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вы подзываете товарищей и готовитесь выслушать просьбу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Мне поручили встретиться с представителями племени Журавля-рыболова, в районе Тейн-Бог. Надеюсь, нам удастся договориться о мире".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Слышал, вы тоже вели какие-то дела с гланфатанцами. Я бы с радостью принял любую вашу помощь или совет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"У меня нет свободных ресурсов, но могу помочь с выбором маршрута".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Я обеспечу тебе безопасный проход по Эйр-Гланфату".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Я пошлю кого-нибудь тебя сопроводить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Дать 2000 мп] "Это деньги на проводников и взятки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Мое имя имеет вес в Вязах-Близнецах. Я позабочусь, чтобы тебе дали право прохода".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Я буду настаивать, чтобы тебе дали право прохода. Сомневаюсь, что они будут спорить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"С Хиравиасом. Его знание региона будет кстати".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"С Сагани. Ее опыт охотника и путешественника должен вам пригодиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Придерживайся торговых маршрутов. Лучше прибыть быстро и открыто".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Лучше поменьше топтаться по Эйр-Гланфату. Советую пойти через Вайлианские Республики".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ну, если вы считаете, что этого достаточно, то доверюсь вашему суждению. Спасибо. Сделаю так, как вы советуете".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Крюк будет очень большим... но звучит вполне здраво. Дольше путь, но зато прибудешь на место живым и невредимым. Спасибо. Сделаю так, как вы советуете".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Это очень щедро с вашей стороны, милорд! Я найду им полезное применение".</DefaultText>
+      <FemaleText>"Это очень щедро с вашей стороны, миледи! Я найду им полезное применение".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Спасибо, милорд! Мы отправимся в путь немедленно".</DefaultText>
+      <FemaleText>"Спасибо, миледи! Мы отправимся в путь немедленно".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"С моим смотрителем. Он с группой проводников поможет тебе обойти крупные селения гланфатанцев".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Сейчас я не могу тебе помочь с этим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Хотя знаешь, я передумал".</DefaultText>
+      <FemaleText>"Хотя знаешь, я передумала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Я понимаю... Можете ли вы мне чем-нибудь помочь, милорд? У меня крайне важное поручение".</DefaultText>
+      <FemaleText>"Я понимаю... Можете ли вы мне чем-нибудь помочь, миледи? У меня крайне важное поручение".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"К сожалению, я плохо знаю гланфатанский язык, а Журавли-рыболовы по своей природе большие затворники. Боюсь, что есть все предпосылки для недопонимания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Приветствую вас, лорд [Player Name]! Уделите мне минутку внимания?"</DefaultText>
+      <FemaleText>"Приветствую вас, леди [Player Name]! Уделите мне минутку внимания?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

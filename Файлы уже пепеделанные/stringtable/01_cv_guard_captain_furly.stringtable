@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_guard_captain_furly</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Добро пожаловать в Бухту Непокорности, но смотри, веди себя в городе прилично. Понял?"</DefaultText>
+      <FemaleText>"Добро пожаловать в Бухту Непокорности, но смотри, веди себя в городе прилично. Поняла?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Чем могу быть полезен?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Что ты можешь мне рассказать о Бухте Непокорности?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Прости, я сейчас очень занят. Но похоже, что псих из Дюжин по имени Рован снова мутит воду". Он кивает в сторону ворот.
+
+"Он будет рад рассказать тебе о городе, приправив рассказы изрядной долей пропаганды, конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Я ищу храм Воедики – там, где сучку держат на цепи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ты, кажется, на пределе. Какие-то проблемы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Он почесывает бороду. "Тебе точно нужно туда?" Он пожимает плечами. "Раз так, он в Первых Огнях".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Несколько тысяч проблем, честно говоря. В город прибывают беженцы со всех частей страны. Они почему-то решили, что Наследие минуло нас. Денег у них нет, планов на жизнь тоже, и они только все усложняют".
+
+Он оглядывает вас с ног до головы. "Без обид".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Он ворчит: "И тебе удачи".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

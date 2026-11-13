@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px2_08_yenwood\px2_08_cv_mob</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Я не хотел платить, и они подожгли мое поле. А когда мой малый хотел их остановить, они стукнули его по голове. Он жив, но больше не может нормально соображать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Твоему парню повезло. Моих охранников – оба были славными мужиками – прирезали после того, как они сдались. Я заплатил этим отморозкам столько, сколько они хотели, а они все равно забрали все, что у меня было!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Вот он!" Женщина показывает на вас, и все в толпе обращают на вас свои враждебные взгляды.</DefaultText>
+      <FemaleText>"Вот она!" Женщина показывает на вас, и все в толпе обращают на вас свои враждебные взгляды.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Что тут происходит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Вы что-то от меня хотите?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Мы требуем справедливости! Мы больше не будем терпеть ваши бесчинства!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ничего не хотим, просто оставьте нас в покое! Мы требуем справедливости!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Я слушаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Вы отправили своих подчиненных на мою ферму, чтобы собрать «налог на урожай», который мы якобы просрочили".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"А от меня потребовали дорожный сбор. Я уже годами езжу по этой дороге, и в первый раз услышал о таком".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Почему вы думаете, что это мои представители?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Другие выкрикивают похожие истории.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Я их не посылал".</DefaultText>
+      <FemaleText>"Я их не посылала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Они сказали, что действуют по приказу правителя Каэд Нуа. А это вы!"</DefaultText>
+      <FemaleText>"Они сказали, что действуют по приказу правительницы Каэд Нуа. А это вы!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Тогда кто они? Они не были похожи на обычных бандитов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Дать 500 мп] "Вот, это вам всем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Если такое произойдет снова, то не по моему приказу. Вы слышали это непосредственно от меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Скажем, мы вам верим. А как же то, что мы утратили? Как же мой урожай?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"А мои товары? А семьи моих охранников?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Дать 100 мп] "Возьмите это".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Спасибо, милорд". Монеты быстро распределяются среди крестьян. Они кланяются вам, а потом расходятся.</DefaultText>
+      <FemaleText>"Спасибо, миледи". Монеты быстро распределяются среди крестьян. Они кланяются вам, а потом расходятся.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Дать 1000 мп] "Разделите это между собой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Уходите, пока я не развесил вас по стенам Каэд Нуа".</DefaultText>
+      <FemaleText>"Уходите, пока я не развесила вас по стенам Каэд Нуа".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Я накажу этих бандитов – можете на это рассчитывать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>В толпе поднимается ропот, но все стараются не смотреть вам в глаза и расходятся.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Меня не волнует твой сын-идиот или твои товары. Убирайтесь из моей крепости".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Очень щедро с вашей стороны, милорд". Крестьяне кивают и улыбаются вам и распределяют между собой монеты, бормоча благодарности.</DefaultText>
+      <FemaleText>"Очень щедро с вашей стороны, миледи". Крестьяне кивают и улыбаются вам и распределяют между собой монеты, бормоча благодарности.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Уйти, оставив запах секса.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Кажется, он хочет что-то сказать, но передумывает и ограничивается сдержанным поклоном. Монеты быстро распределяются среди пришедших, и толпа расходится без единого слова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Спасибо за это, но... не могли бы вы предложить нам хоть какую-нибудь компенсацию? Совсем немного, конечно, – просто перебиться какое-то время". Он прочищает горло и выжидательно на вас смотрит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Я бы на твоем месте очень тщательно обдумал свои следующие слова".</DefaultText>
+      <FemaleText>"Я бы на твоем месте очень тщательно обдумала свои следующие слова".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Группа настороженно смотрит на вас. Через несколько мгновений один мужчина толкает локтем другого. Тот делает глубокий вдох и выпрямляется, прежде чем заговорить.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

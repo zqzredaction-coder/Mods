@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_elcga</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>64</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Благовония и одежда этой женщины-гнома выдают в ней знатное происхождение, но по покрасневшей от солнца коже и пятнам пота на одежде видно, что она тут уже довольно долго. "Боюсь, мне сейчас некогда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Я расследую исчезновение Кендала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Чего все так кричат?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Неважно. До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Снова ты? Наверное, у тебя какие-то вопросы. Или, может быть, новости?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Женщина скрещивает руки, и ее обожженная солнцем кожа краснеет еще больше. "Не суй нос в чужие разговоры".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Тогда я спрошу кого-нибудь другого про исчезновение Кендала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Уже ухожу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Она быстро возвращается к наблюдению за площадью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Подожди, не уходи". Она перекрывает вам дорогу. "Я в последнее время на нервах. Не хотела тебя обидеть". Она осматривает вас. "Так что, этот маленький орлан наконец-то серьезно взялся за дело, да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Она поднимает брови. "Этот маленький орлан наконец-то серьезно взялся за дело, да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Я расследую исчезновение по его просьбе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Данрид Роу сейчас стеснен в ресурсах, поэтому Каррен послал меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Очаровательно. Не могу и представить, почему этот Кендал скрывается от тебя..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Не кривляйся, если хочешь, чтобы я помог".</DefaultText>
+      <FemaleText>"Не кривляйся, если хочешь, чтобы я помогла".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Она кусает губу, не успев возразить, и краснеет еще больше. "Хорошо, хорошо. Прости, просто я..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Она закатывает глаза. "Очень смешно. Если бы ты пришел не для того, чтобы помочь найти Кендала..."</DefaultText>
+      <FemaleText>Она закатывает глаза. "Очень смешно. Если бы ты пришла не для того, чтобы помочь найти Кендала..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"В общем, расскажу тебе, что знаю. Что тебя интересует?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Элькга фыркает. "Что, этот щенок не хочет мараться таким делом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Уверен, у него есть другие дела".</DefaultText>
+      <FemaleText>"Уверена, у него есть другие дела".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ну, хоть кого-то прислал вместо себя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Что делал Кендал перед исчезновением?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Когда и где ты в последний раз говорила с Кендалом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ты заметила что-то необычное в поведении Кендала в последнее время?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"На данный момент у меня больше вопросов нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Он стал проводить время с актерами. Вроде все было в порядке, кроме этой женщины". Она хмурит брови. "Этой женщины с ее длинными стройными ножками и изящными ручками. Всегда наряжалась в платья с глубоким вырезом и обувь невообразимого фасона..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Как ее звали?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Довольно про нее. У меня были и другие вопросы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Как ты познакомилась с Кендалом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Элькга кашляет. "Хорошо. Что ты хочешь знать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Элькга усмехается. "Мы встречались периодически последние несколько месяцев. Это была просто интрижка, и долго бы не продолжалась". Она теребит уголок своего рукава и смотрит в сторону. "Он хоть и был маленьким дурачком, но милым".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Она грустно смеется. "Самое худшее исполнение речи генерала из «Вдовы леса», которое я когда-либо слышала". Она качает головой. "Люблю этого парня, но он был безнадежен. И при этом ему как-то удалось попасть в актерскую труппу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"У меня есть другие вопросы про Кендала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Не сейчас. До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Уголки ее рта подергиваются. "Значит, у тебя нет ничего нового".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Ее выражение становится более жестким. "Не знаю. Это меня не волновало". Она разнимает руки и медленно их опускает. "Не думала, что это имеет значение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Неделю назад. Он пришел ко мне, чтобы немного пошалить. После этого мы заснули, а когда я проснулась – его уже не было. Ни записки, ничего".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Только актеры и женщина, о которой я рассказала. Боюсь, ее имени я не знаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Если будут еще вопросы, то ты знаешь, где меня найти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Надеялась увидеться с тобой поскорей. Что-то узнал?"</DefaultText>
+      <FemaleText>"Надеялась увидеться с тобой поскорей. Что-то узнала?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Боюсь, у меня плохие новости. Кендал мертв".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Уйти, оставив запах секса] "Пока ничего".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Элькга громко выдыхает. "Я... понятно". Печаль, злость и грусть мелькают на ее лице. "Я знала, что эта женщина принесет беду". Она глубоко задумалась на несколько секунд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Наконец, она поворачивается к вам. "Спасибо, что сказал мне. Думаю, мне нужно побыть одной".</DefaultText>
+      <FemaleText>Наконец, она поворачивается к вам. "Спасибо, что сказала мне. Думаю, мне нужно побыть одной".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Что ж, я рада, что кто-то этим занимается..." Она закатывает глаза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Крепись, Элькга. Он мертв".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Солгать, как шлюха, клянущаяся в верности] "Кендал поехал в Новый Хеомар к семье".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Ох". Элькга мигает. "Правда?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Да. Вообще-то, он нашел там работу, так что может уже не вернуться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Конечно же, нет. Он мертв".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Что ж, спасибо, что сказал. А ведь я думала. что этот дурак хотя бы попрощается". Она прочищает горло. "Ну и ладно. Свет клином не сошелся".</DefaultText>
+      <FemaleText>"Что ж, спасибо, что сказала. А ведь я думала. что этот дурак хотя бы попрощается". Она прочищает горло. "Ну и ладно. Свет клином не сошелся".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Ты в порядке?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Эта злая женщина будет дюжину жизней расплачиваться за свои преступления".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Вы молча переступили с ноги на ногу, сжимая ягодицы.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Она вытирает глаза и резко смеется. "Да, конечно. Как я сказала, между нами не было ничего серьезного. Просто жалко, что такой молодой..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Да". Элькга медленно кивает. "Надеюсь, так и будет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Выражение ужаса на ее лице медленно превращается в ярость. "Убирайся сейчас же, ублюдок больной!"</DefaultText>
+      <FemaleText>Выражение ужаса на ее лице медленно превращается в ярость. "Убирайся сейчас же, сволочь больная!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Она на вас не смотрит. "Оставь меня в покое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Все нормально... правда. Просто обдумываю кое-что".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Расскажи мне о Кендале".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Что рассказывать? Он довольно молодой парень. Не самый смышленый, но с ним всегда интересно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Не пойми меня неправильно, но ты заслуживаешь большего".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Она ошеломленно смотрит на вас. "Как тебе не стыдно такое говорить об умершем? Уверена, ты хотел как лучше, но..."</DefaultText>
+      <FemaleText>Она ошеломленно смотрит на вас. "Как тебе не стыдно такое говорить об умершем? Уверена, ты хотела как лучше, но..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Она качает головой. "Спасибо, что сказал мне, но я хочу побыть одной".</DefaultText>
+      <FemaleText>Она качает головой. "Спасибо, что сказала мне, но я хочу побыть одной".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

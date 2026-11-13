@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_si_rhemen_broken_stairs</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Лестница обрушилась, и до нижнего этажа слишком высоко.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Уйти, пока не потребовали расплатиться телом.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Посмотреть ниже.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>На нижнем этаже темно, но вы видите лужи воды и плесень, растущую на каменных поверхностях.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Зацепить крюк за край и спуститься вниз.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Пока вы скользите вниз по веревке, в ушах грохочет бегущая вода. Звук такой, будто озеро из ущелья стекает в какое-то водохранилище вдалеке.
+
+Внезапно сильная вибрация сотрясает стены пещеры, и вы чувствуете, что руки соскальзывают с веревки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Вы закрепляете крюк в расселине на разбитой лестнице и бросаете веревку вниз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Тем не менее вам удается удерживаться на веревке, пока землетрясение не стихает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[SkillCheck 0] отпускает веревку и падает лицом вниз на мокрый пол.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Вы достигаете дна, ноги с плеском погружаются в лужу воды.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

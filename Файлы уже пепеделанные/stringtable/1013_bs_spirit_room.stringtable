@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1013_bs_spirit_room</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Перед вами стоит расплывчатая фигура. Время от времени туман обретает форму того, что кажется эльфом.
+
+"Я так больше не могу. Как мне объяснить? Как дать ему то, что он хочет?" Дух говорит быстрыми, приглушенными фразами на энгвитанском и качает головой, как бы отвечая на свои собственные вопросы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Он собирается убить меня. Он уже многих убил. С чего бы ему остановиться на этом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Фигура делает несколько шагов, подняв руки к вискам. "То, что мы не можем дать ему! Даже после стольких лет мы так многого не знаем. Он хочет вернуть своего сына. Хочет, чтобы мальчик, которого он знал, вернулся к нему целый и невредимый".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Но люди – души – не всегда помнят. Кто сказал, что его сын будет помнить, что он его сын? Помнить лицо своего отца? Я... Я видел матерей, которые забыли своих детей..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Чего он хочет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Что ты тут делаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Кто ты?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Он привел... сюда так много людей. С верхних этажей доходят ужасные слухи. Даже здесь, эти... эти конструкции... Я не могу уснуть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Я... я прячусь. Я прошел мимо одной из машин и вдруг... Я не мог вздохнуть. Я думал о работе, которую мы проделали. О том, что мы видели. Как даже небольшие дела могут оставить шрам в душе. Я правда такой ущербный?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Его голос становится тише. "Иногда я думаю, что когда-нибудь проснусь и окажусь внутри анимата. Пойму ли я это? Или это будет как проснуться однажды слепым и немым?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"...Будет ли сын Од Нуа благодарен, когда мы нарушим его покой?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Уйти, придерживая трусы.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Как ты мог совершить такое?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Я-я не думал, что это зайдет так далеко. Я не знал. Од Нуа – наш господин. Как я могу ему отказать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Он смотрит удивленно, глядя мимо вас. "Н-нет, я не... Я не имею в виду ничего такого. Я... Я просто испуган, Айа. Прости. Не говори никому, пожалуйста".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ты все еще верен Од Нуа?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"О-о, конечно! Я преданный слуга". Его голос наполняется страхом. "Я не хотел – пожалуйста, я никогда не говорил, что отрекаюсь от своих клятв".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Я знаю клятву. Конечно. Мы повторяем ее каждый день".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ты знаешь, как пройти за говорящую дверь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ты жалкий трус".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Я всего лишь боюсь его". Фигура дрожит, глядя на что-то позади вас. "Можно бояться господина, и при этом подчиняться ему. Это, по сути, гораздо проще, чем наоборот".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Туманная форма стоит перед вами. Время от времени туман обретает форму того, что может быть эльфом, худощавым и усталым. 
+
+Он говорит, казалось бы, сам с собой низким и тревожным голосом. Вы не понимаете его, потому что он говорит на странном языке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Эгей!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Уйти, оставив запах секса.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Призрак, кажется, не слышит. Или, по крайней мере, не отвечает, закрыв голову руками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Он... он хочет убить меня. Он уже многих убил. С чего бы ему остановиться на этом?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Призрак останавливается, все еще бормоча себе под нос безумные тирады из древних слов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Я – слуга Од Нуа. Мой меч будет биться против его врагов. Моя душа присягнула на верность его целям".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Дух, кажется, ушел в себя. "Присягнула..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Кто собирается убить тебя?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Великий отец, мастер, Од Нуа... Я делаю все, что в моих силах. Все мы. Но мы достигли края возможного".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Вы сжали и разжали анус.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"О-о, конечно! Я преданный слуга". Его голос наполняется страхом. "Я не хотел – пожалуйста, я никогда не говорил, что отрекаюсь от своих клятв".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

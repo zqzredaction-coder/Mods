@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\12_oldsong\12_cv_widhwn</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Худой мужчина в лохмотьях стоит на лодке, опираясь на весло. Приветственная улыбка появляется на его обветренном лице.
+
+"Прошло очень много времени с тех пор, как чужеземец собирался попасть на Погребальный остров".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Переправь меня на ту сторону".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Что такое этот Погребальный остров?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Там опасно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Уйти, оставив запах секса] "До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Это священное место, ибо стоит оно на великих сооружениях Строителей. Там наши предки хоронили всех наших анамфатов. Мало кто там бывает. Это не то место, где ходят живые".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Дорвал приветствует вас все той же спокойной улыбкой. "Твои дела здесь закончены?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Дорвал утвердительно наклоняет голову. "Хорошо. Держись крепко на ногах. У этих вод капризный нрав".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Дорвал серьезно кивает. "Те, кого я переправляю на остров, либо возвращаются тем же путем, либо не возвращаются вообще. Там обитают только мертвые. Духи – тени – Строителей присматривают за нашими анамфатами. Они привязаны к этому острову, и отчаянно его защищают".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Я готов вернуться в Олдсонг".</DefaultText>
+      <FemaleText>"Я готова вернуться в Олдсонг".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Что ты знаешь о храме на острове?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Что ж, идем. Я переправлю нас обратно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Дорвал поворачивает изборожденное морщинами лицо к остальной части острова, а затем к вам. "Это Суд Грешников. Это страшное место, и его нужно уважать. Точно так же, как богов нужно иногда бояться, но всегда слушаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

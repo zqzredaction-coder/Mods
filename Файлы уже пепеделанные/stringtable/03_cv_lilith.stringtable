@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_lilith</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>На вас обрушиваются пронзительные вопли. Звуки, от которых дрожат даже пыльные балки старого маяка, исходят от полупрозрачной фигуры женщины, парящей в центре комнаты. Каждый раз, когда ее плечи опускаются, вас накрывает очередной волной стенаний, от которых мурашки бегут по спине.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Приблизиться.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Отойти, придерживая трусы.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Вы подходите, и вопли становятся еще громче и невыносимей. Клубы пыли вокруг ног призрака дрожат, черные колодцы глаз впиваются в вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Приблизиться.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>[Отойти, поправляя штаны.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Крики призрака становятся все громче. Изможденное лицо перекашивается, широко раскрытый рот полон острых зубов.
+
+Если кто-то и может рассеять ярость призрака, то это явно не вы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Приблизиться.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Отойти, придерживая трусы.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Рассмотреть сеан-гулу.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Рассмотреть сеан-гулу.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Рассмотреть сеан-гулу.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Вы стоите достаточно близко, чтобы заметить, что голова призрака обращена в противоположную от вас сторону. И хотя из его рта исходит душераздирающий крик, совершенно точно можно сказать, что он вглядывается в виднеющийся через окно горизонт.
+
+Призрачные руки сеан-гулы залиты чем-то темным. Сначала вам кажется, что это кровь, но оно больше походит на чернила.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"У меня есть новости о твоей дочери. Скоро она тебя навестит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Забудь о Мервит. Она потеряна для тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"У твоей дочери все в порядке, но она не может навестить тебя. Ты должна ее отпустить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Мне пришлось убить твою дочь. Она была опасна".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Баньши недоверчиво смотрит на вас, но потом ее дрожащие очертания начинают успокаиваться. Вы слышите, как она что-то тихо напевает – и через некоторое время растворяется в затхлом воздухе маяка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Призрачная фигура приходит в ярость. Оскалившись, баньши бросается на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Баньши вздыхает, и ее крики затихают. Она подплывает к окну и вглядывается в горизонт. Ее полупрозрачная фигура начинает рассыпаться мерцающей пыльцой, и вскоре от призрака не остается и следа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Атаковать сеан-гулу.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

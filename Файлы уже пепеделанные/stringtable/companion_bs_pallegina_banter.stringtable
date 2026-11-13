@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_bs_pallegina_banter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>48</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Эдер, а как у вас, последователей Эотаса, остается такой оптимизм? Мир не дал вам особого повода надеяться – у вас, похоже, свеча всегда горит в чужом окне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Твоя семья все еще живет в Дирвуде, Эдер?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Эдер, как у тебя получилось пойти на Войну Святого? Я слышала, что местные не доверяли сторонникам Эотаса – вы же делили жён с паладинами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Алот, я еще не встречала аэдирца, который настолько стесняется что-то сказать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Такое впечатление... что ты слишком много внимания уделяешь деталям, Алот. Практически поглощен ими, я бы сказала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Алот, ты же аэдирец, да? У тебя акцент жителя Цитвуда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Стоик, ты хоть что-то воспринимаешь серьезно, или весь мир – лишь декорации для твоих идиотских шуток?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Знаешь, Стоик, хоть ты почитаешь богиню огня, но это не значит, что нужно буквально поглощать все вокруг".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Хиравиас, бывает, что с тобой плохо обращаются... из-за того, как ты выглядишь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ты что, шутишь? Мое лицо выглядит предостережением об опасности диких животных, а рост у меня еще меньше, чем у других орланов моего возраста. Меня постоянно дразнят".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Не позволяй им этого делать. Гордись тем, кто ты есть. Это им нужно стыдиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Хиравиас, ты действительно веришь всей этой чуши об «избранных» богами?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Сагани, каково это – так долго не видеть своих детей? Я... представляю, как тебе должно быть трудно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Сагани, я слышала, что на острове Нааситак главные охотники – женщины, но не могла в это поверить, пока не встретила тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Я прошла тысячи миль на вайлианских торговых судах, но никогда не видела берегов Нааситак. Как ты нашла путь самостоятельно, Сагани?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"У тебя очень красивое ожерелье, Сагани. Оно сделано из адры?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Кана, а что ты знаешь о легендах Старой Вайлии? Я слышала только сказания в своей деревне и истории в Братстве".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"На кораблях герцога я посетила немало мест, Кана, но никогда не видела знаменитую Коралловую бухту народа рауатай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Что будет для тебя значить, Кана, если ты найдешь эту... песнь? Поэму?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ох! Кана, я только что вспомнила старую вайлианскую песню – кажется, гномью, – которую слышала в детстве".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Правда? Давай послушаем!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ванимба мед се-е, ванимба мед се-е! Сенете де люшес? Сенете де люшес... ? Ты ее знаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Кхм... гм... Нет, боюсь, что не слышал эту, хм, мелодию".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ради этого стоит отправиться на север, я тебе гарантирую. Особенно теперь, когда достроили Врата Великих Зубов. Лабиринт шпилей, блестящих красным на солнце".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Меньше, чем хотелось бы, и то только из старых книг и от каких-нибудь торговцев. Истории о благородных семьях и прославленных изобретателях. Великая империя, теперь уже павшая. Но мифы красивые, согласна? Храбрые герои, чьи наследники посмели пересечь Великий Восточный задолго до того, как появился Дирвуд".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"На это ушло пять лет. Но Итумаак никогда не просит показать ему направление".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Думаю, они выбрали нас со всей тщательностью, как выбирают фрукт на дереве. Боги однозначно нас используют, и я пока не убежден, что в нашей «избранности» есть что-то великое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Даже в Массук я больше времени провожу на охоте, чем дома. Но пять лет... это уже слишком".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"А я думала, нас считают странными из-за нашей диеты из сырого мяса".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Я сомневаюсь, что долг когда-нибудь приведет меня туда, но я хотя бы могу об этом помечтать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Ак! Хотелось бы мне жить во времена расцвета империи. Но, думаю, мы можем построить свой новый мир, сотворить свои легенды".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Может быть, тебе нужно стать навигатором".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Честно говоря, и это тоже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Что ж, желаю тебе удачи! Адо видорио! Чтобы ты увидела их всех скоро".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Верус. Значит, нас двое в этом мире фанатиков и безумцев".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Мир – это шутка, женщина-птица. И не смешная. Ты хочешь убить вестника?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Если бы он был таким же надоедливым, как ты, то я бы подумала об этом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Огонь – это благо, которое я дарю тем, кто мне встречается. Он либо делает их сильнее, либо милосердно заканчивает их жизнь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Оставшиеся невыпитыми кружки пива в Дирвуде дрожат в страхе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"В определенный момент ты понимаешь, что у тебя два варианта. Сойти с ума от горя, вырвать на себе волосы и попасть в Лечебницу – или подождать лучших времен".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Нет, не при нынешней обстановке. Родители уехали из страны несколько лет назад во время Чисток. Я о них часто вспоминаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ну, в моем случае вырывать нужно перья, но я тебя понимаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Жаль, что ты и твоя семья страдали даже после завершения Войны Святого. Дирвудцы определенно бывают злопамятными".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Я не стесняюсь. Я просто... тщательно подбираю слова".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Послушал бы ты себя со стороны, аймико".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Стоит один раз увидеть, как коллега ошибается при вызове капризной порчи Аркемира, и начинаешь ценить детали".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Это какая-то тарабарщина, понятная одним волшебникам, так что поверю тебе на слово".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Как я всегда говорю – вини во всем лису".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

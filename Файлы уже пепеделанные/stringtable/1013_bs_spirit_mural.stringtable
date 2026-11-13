@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1013_bs_spirit_mural</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Призрак женщины стоит вытянувшись, ее взгляд сосредоточился на конце коридора. В одной руке она держит тяжелый круглый щит, но размытая рябь энергии души скрывает то, что на нем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ее голова немного поворачивается.
+
+"Они прошли проклятые кузницы. Если надзиратели живы, мы еще можем остановить их в нижних залах". Она фыркает. "Если Кабирос со своей интриганской сворой волшебников не предал нас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Дети Колеса?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Это их рук дело?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Вы молча сглотнули, как после глубокого минета.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Толпа может наброситься с минуты на минуту. Лучше помолись пока своему богу". Она делает паузу и смотрит на вас. "Ты боишься?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Да".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Вы молча почесали задницу.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Боюсь чего?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Она коротко кивает и снова отворачивается. "Этого не надо стыдиться. Ты все еще здесь. Сестры ушли вниз, чтобы скрыться под мантией Од Нуа или еще как-нибудь сохранить жизнь нашего господина. Зависит от того, как посмотреть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Конечно. Ни ты, ни я". Она отворачивается. "Но твои руки трясутся. Неважно. Ты здесь. Мы дадим им бой, который они запомнят".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Действительно. Чего тут бояться?" Она смотрит в сторону. "Даже наши люди идут против нас. Что останется, если мы победим? Кто тогда накормит машины?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Пойдем – мы будем обороняться на ступенях. Там они тонкой струйкой потекут на наши клинки. С аниматами на нашей стороне им не выстоять..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Призрак замолкает, разинув рот от изумления. Она нащупывает что-то незримое на спине и делает шаг в сторону, удаляясь от вас. Ее округлившиеся глаза вперились в ваши. "Ты... преда..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ее нога подгибается, и она падает, а туманные отсветы, из которых образована ее фигура, истончаются и рассеиваются...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Эти ... Дети Колеса. Какое им дело до горя Од Нуа? Они думают, он обещал им бессмертие. И теперь они убили нас в погоне за ним".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ничего этого не произошло бы, если бы не они. Они довели нашего великого господина от горя до безумия. Заставили его сделать все это". Она делает паузу. "Он был великим королем. Возможно, он будет им снова".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Пока Од Нуа довольствуется своим титаном, они зарываются в самое сердце небес". Она издает кислый смешок. "Безумие. Все это. И все же, Од Нуа держит их рядом с собой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Я не боюсь битвы. Боюсь, что станет с нашим повелителем, когда мы победим. Какие еще безумства выльют Дети Колеса ему в уши. Возможно, он бы остановился, если бы сын вернулся к нему. Но позволят ли они?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Уйти, пока не потребовали расплатиться телом.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Призрак стоит, вытянувшись, готовый к приближению далеких врагов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Эгей!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Уйти, придерживая трусы.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Призрак женщины стоит вытянувшись, ее взгляд сосредоточился на конце коридора. В одной руке она держит тяжелый круглый щит, но размытая рябь энергии души скрывает то, что на нем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Призрак остается на своей вахте в зале, ожидая невидимых врагов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Эгей!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Призрак не отвечает. Она продолжает свое тихое бдение, глядя в пустоту.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Говорить по-энгвитански] "Эй!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

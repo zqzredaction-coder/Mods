@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_si_enter_cave</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вы приближаетесь к краю обрыва, и свежий ветер все сильнее треплет вашу одежду. На поверхности скалы чернеет вход в пещеру. Он всего в нескольких метрах ниже того места, где вы стоите, но скала гладко отполирована водой и ветром.
+
+Рядом с обрывом есть скальный выступ. Кажется, за него можно надежно закрепиться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Уйти, покачивая бёдрами.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ваша веревка, привязанная к камню, свисает с края утеса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Привязать веревку к камню, закрепив ее с помощью крюка, и спуститься вниз.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вы закрепляете веревку на скале и спускаетесь. Вдруг со стороны залива налетает сильный ветер. Вы изо всех сил стараетесь удержать веревку, пока ветер швыряет вас из стороны в сторону.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Ветер свистит в скалах, но вы крепко держитесь за веревку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[SkillCheck 1] подхватывается резким порывом ветра и ударяется об стену. [SkillCheck 1] выпускает веревку и начинает падать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ветер не утихает. [SkillCheck 0] и [SkillCheck 1] держатся за веревку из последних сил, кряхтя и постанывая.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Спустя несколько мгновений шторм стихает, и вам удается добраться до входа в пещеру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Резким порывом ветра [SkillCheck 0] впечатывается в скалу. [SkillCheck 0] кричит, но крепко держится на раскачивающейся веревке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Ветер не утихает. [SkillCheck 0], [SkillCheck 1] и [SkillCheck 2] держатся за веревку из последних сил, кряхтя и постанывая.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Ветер не утихает. [SkillCheck 0], [SkillCheck 1], [SkillCheck 2] и [SkillCheck 3] держатся за веревку из последних сил, кряхтя и постанывая.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Ветер не утихает. Только [SkillCheck 0] чувствует себя уверенно. Все остальные держатся за веревку из последних сил, кряхтя и постанывая.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Ветер не утихает. Все держатся за веревку из последних сил, кряхтя и постанывая.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[SkillCheck 1] мгновенно протягивает руку, и [SkillCheck 0] за нее хватается. От большого веса [SkillCheck 1] вывихивает плечо, но зато [SkillCheck 0] спасается от верной смерти.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

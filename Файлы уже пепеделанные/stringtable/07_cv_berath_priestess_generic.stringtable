@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_cv_berath_priestess_generic</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Эй, подожди, брат!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Эй, подожди, сестра!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Прошу прощения, но мне кажется, нам не доводилось встречаться раньше..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Что? У меня нет времени на то, чтобы ты перебирал воспоминания. Отвали!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Я только недавно принял обет".</DefaultText>
+      <FemaleText>"Я только недавно приняла обет".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Атаковать – жёстко, без смазки] "Это уже неважно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Понятно. А кто твой старший?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Мне неловко признаваться, но я забыл имя".</DefaultText>
+      <FemaleText>"Мне неловко признаваться, но я забыла имя".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Верховный жрец Недмар еще не назначил никого".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Я... я не хотела обидеть тебя, аколит! Пожалуйста, возвращайся к своим обязанностям". Жрица торопливо удаляется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Жрица хмурится. "Твое поведение неподобающе! В последний раз прощаю". Удовлетворенная этим, она удаляется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Жрица удовлетворенно кивает. "Верховный жрец все время в заботах. Нести мудрость Бераса жителям этих проклятых земель – тяжкий крест. Ему некогда заниматься земными делами. Возвращайся к своим обязанностям".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Жрица делает шаг назад. "Чужаки! На помощь!" Крик эхом разносится по каменным залам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Никто не может оставить свой пост без особого разрешения Редрика. Куда ты идешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ты оглох? Редрик только что приказал осмотреть все помещения. Люди Колша могут все еще быть в крепости".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Я возвращался на свой пост".</DefaultText>
+      <FemaleText>"Я возвращалась на свой пост".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Атаковать, рыча как течная сука] "Хватит вынюхивать. Защищайся!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Жрица молчит некоторое время и рассматривает вас. "Так откуда ты, говоришь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ну, просто... есть один аколит..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Я был с Осрией. Ей нужно пополнить запасы".</DefaultText>
+      <FemaleText>"Я была с Озрией. Ей нужно пополнить запасы".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Жрица морщит нос. "Такое поведение не подобает члену нашего ордена. Будь уверен, я расскажу об этом твоему старшему". Удовлетворенная этим выговором, она поспешно удаляется.</DefaultText>
+      <FemaleText>Жрица морщит нос. "Такое поведение не подобает члену нашего ордена. Будь уверена, я расскажу об этом твоему старшему". Удовлетворенная этим выговором, она поспешно удаляется.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Услышав имя анимансера, жрица поеживается. "Да, полагаю ее приказами не стоит пренебрегать. ...Смотри, не бездельничай в ее присутствии!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Внутри крепости находятся посторонние. Я должна просить тебя отойти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"У нас нет на это времени! Необходимо найти чужаков прежде, чем они смогут навредить сейну!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Конечно, сестра, как только смогу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Атаковать, щёлкнув зубами и хлопнув себя по ширинке] "Похоже, по-хорошему у нас не получается".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Жрица обескураженно моргает. "Ну, тогда... да, займись этим. Да дарует Берас легкость твоим ступням!" На этом она торопливо удаляется.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Жрица ошарашена. "Конечно. Я так и думала. Обыщи этот зал, а я пойду в другую сторону. Мы найдем их!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Жрица нахмуривается. "Ты смеешься надо мной, брат? Ты знаешь правила. Чем ты таким занят?"</DefaultText>
+      <FemaleText>Жрица нахмуривается. "Ты смеешься надо мной, сестра? Ты знаешь правила. Чем ты таким занята?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Боюсь, мне нужно в уборную. У меня слабый мочевой пузырь..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Женщина хмурится и раздраженно качает головой. "Ну тогда делай свои дела быстро". Она отворачивается, бормоча себе что-то под нос.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Самозванец! Стража, стража!"</DefaultText>
+      <FemaleText>"Самозванка! Стража, стража!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Эй, ты! Что ты здесь делаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Любой конец – это начало".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Глаза жрицы сужаются, но после она кивает. "Прошу прощения, аколит. Ступай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Хм. И кто это?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Новые наемники Редрика. Мне приказали показать им их посты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Новые рекруты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Жрица смотрит на вас еще мгновение, потом кивает. "Тогда занимайся своими делами". Удовлетворенная этим, она уходит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Прошу прощения, но мне нужно вернуться к своим обязанностям".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

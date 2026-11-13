@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1013_bs_spirit_wheel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Эта туманная фигура высокая и широкоплечая, лицо ее, меняющееся и размытое, обращено в пол, словно дух пребывает в глубокой задумчивости. Вы слышите тихое бормотание повторяющейся молитвы. Время от времени кажется, что дух колеблется на месте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Эта туманная фигура высокая и массивная, лицо ее, меняющееся и размытое, обращено в пол, словно дух пребывает в глубокой задумчивости. Вы слышите тихое и монотонное бормотание молитвы. Время от времени кажется, что дух колеблется на месте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Эгей!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Уйти, придерживая трусы.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Дух поворачивается лицом к вам стремительным движением. На мгновение его черты становятся размытыми, а затем превращаются в то, что, кажется лицом мужчины. Его глаза устремлены на вас. Он ничего не говорит, бездвижно наблюдая за вами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"О, отлично. Еще мертвецы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ты меня понимаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Дух смотрит в молчании.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>По мере вашего приближения дух начинает говорить громче, и вы различаете знакомые звуки на энгвитанском языке.
+
+"...и ни одна душа больше не будет раздавлена колесом. Услышь меня, великий Отец. Я готов пасть в битве с твоими врагами, и величайший из них – смерть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Эгей!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Вы слушаете, сжимая и разжимая анус.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Дух поворачивается лицом к вам стремительным движением. На мгновение его черты становятся размытыми, а затем превращаются в то, что, кажется лицом мужчины. Его глаза устремлены на вас.
+
+"Слишком поздно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Уйти, дрожа коленями.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Он качает головой. "Остаются преданные вере и мы, Дети Колеса. Смерть не для нас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Поздно для чего?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Извини. Я задержался".</DefaultText>
+      <FemaleText>"Извини. Я задержалась".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Та ли это клятва, о которой ты говорил? Путь через дверь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Дух наблюдает за вами еще мгновение, а затем кивает головой в сторону. "Нет, это наша клятва. Наш вызов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"...Мое обещание. Ничто не навредит нам, Дага. Мы близки к концу – статуя завершена, и колодец душ лежит прямо под нами. Наши братья и сестры придут к нам, когда все будет готово. Мы снова войдем в этот мир. Но сначала нам нужно сохранить его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Дух отворачивается.
+
+"Они скоро будут здесь. Чтобы призвать нас вниз. Чтобы разрушить нашу работу. Уже почти слишком поздно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Он выпрямляется. "Ты готов?" Он поднимает руку, и вам кажется, что вы видите отблеск металла, хотя пристальный взгляд ничего не может обнаружить. "Они разместили твой герб над аниматом. Как и мой".</DefaultText>
+      <FemaleText>Он выпрямляется. "Ты готова?" Он поднимает руку, и вам кажется, что вы видите отблеск металла, хотя пристальный взгляд ничего не может обнаружить. "Они разместили твой герб над аниматом. Как и мой".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Вашу работу?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Боги, избавьте меня от бесплотных духов. Слишком поздно для чего?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Аниматы? Ты собираешься принести себя в жертву?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Отойти, виляя задом.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Уйти, поправляя штаны.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Взгляд духа скользит прочь от вас, когда вы отходите. Даже сейчас, когда вы удаляетесь, он протягивает руку кому-то другому, улыбаясь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Братья и сестры?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Они ушли вперед. Но встанут рядом с нами в грядущей битве. В тех славных конструктах. Дети Колеса позаботятся о безопасности нашего великого короля – и будут вознаграждены за это".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Он кивает. "Если они узнают, то, возможно, поймут. Если они услышат, что говорят сестры. ...На чужбине они оставляют своих безумцев страдать в одиночестве или отсылают с глаз долой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Дух возвращается к своей предыдущей позе, склонив голову в сосредоточении. До вас снова начинает доноситься тихое бормотание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Дух еще раз оглядывается на вас. 
+
+"Слишком поздно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"За это время мы отшлифовали себя, как вода речную гальку, отполировали добродетели внутри нас и убрали слабости. Разве это не справедливо? Разве это не лучше всего, что было раньше?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Что мы должны делать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ты имеешь в виду умереть?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_si_sanitarium_wicht_chest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>В углу лаборатории Мойдреда стоит большой, видавший виды сундук. Похоже, в нем находится что-то важное, хотя бы из-за его впечатляющих размеров.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Внимательно изучить сундук.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Открыть сундук.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Оставить сундук в покое.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Отпереть сундук.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ничего примечательного, за исключением большого навесного замка спереди. Что бы анимансер ни хранил здесь, он не хочет показывать это другим.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>По отсутствию пыли на поверхности сундука и длинным царапинам на полу можно предположить, что этот сундук часто открывается и перемещается по лаборатории, несмотря на его значительный размер. 
+
+Узкие, но глубокие борозды покрывают дерево на краях сундука. Они похожи на следы от когтей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Сундук открыт. Его мрачного содержимого больше нет. Там осталось только несколько клочков ткани и обглоданная крысиная кость.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Уйти, придерживая трусы.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Сундук закрыт на тяжелый замок. Он слишком крепкий, чтобы его можно было разбить, а механизм выглядит слишком сложным, чтобы его взломать. Нужно найти ключ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Вы берете ключ, полученный от Хелига, и вставляете его в замок. Он идеально подходит и поворачивается с громким щелчком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>В сундуке нет ни книг заклинаний, ни сокровищ. Вместо этого вы встречаетесь с диким взглядом и зубастой пастью чудовищного человекоподобного существа. Его внешний вид искажен костлявыми выступами и кошмарными когтями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>При первом его движении вы распознаете нечеткую фигуру девочки, искаженную удлиненными уродливыми костями и серой кожей. Существо рычит и выпрыгивает из сундука, но не к вам, а к Мойдреду. Мойдред не успевает и вскрикнуть, как оно разрывает ему горло.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>При первом его движении вы распознаете нечеткую фигуру девочки, искаженную удлиненными уродливыми костями и серой кожей. Существо рычит и выпрыгивает из сундука, растопырив когти.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

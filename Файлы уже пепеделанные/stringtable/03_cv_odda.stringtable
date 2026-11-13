@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_odda</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>69</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Женщина выглядит так, будто не спала несколько дней – на голове воронье гнездо, под глазами тени. Она бросает взволнованный взгляд на дверь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ее глаза расширяются, в них смесь надежды и тревоги. "Ты здесь из-за Деррина?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Кого?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Успокойся и расскажи все с самого начала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Извини, но я пойду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Мой мальчик, Деррин. Уэйд, его отец, два дня назад взял его с собой на рыбалку, и с тех пор я их не видела. От соседей помощи ждать не приходится, а городской страже сейчас до Дара нет никакого дела".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Если я что-нибудь выясню, я вернусь и расскажу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Я бы сама пошла в порт на поиски, но не могу оставить малыша одного". Она переводит взгляд на колыбель и понижает голос. "Я не осмеливаюсь выносить пусторожденного на улицу при всех этих беспорядках у борделя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Расскажи подробнее об их исчезновении".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Что ты хочешь знать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Расскажи о Деррине".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Расскажи о Уэйде".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Где ты видела их в последний раз?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Тень улыбки скользнула по ее лицу. "Он храбрый парень, даже слишком храбрый. Но он всегда был послушным сыном и ласковым братом. У него темные волосы, быстрые глаза и всегда наготове улыбка. Когда ты его увидишь, то сразу узнаешь, я уверена".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Она хмурится и отбрасывает грязную прядь с лица. "Иногда я не знаю, радоваться тому, что он тут вообще появляется, или сожалеть об этом. Большая часть его времени и все его деньги улетают в трубу – то есть в этот бордель, где он пьянствует целыми днями. С тех самых пор..." Ее взгляд возвращается к колыбели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Уэйд взял Деррина в порт – на рыбалку. Это было два дня тому назад".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"У меня больше нет вопросов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Да укажет Ондра тебе путь! – мокрым путём!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Одда смеживает уставшие веки, может быть, в первый раз за эти два дня. "Не знаю, как и благодарить тебя. У меня сейчас не так много денег, но пусть Ондра благословит все твои начинания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Это мой сын. Его отец, Уэйд, два дня назад взял его с собой на рыбалку, и с тех пор я их не видела. От соседей помощи ждать не приходится, а городской страже сейчас до Дара нет никакого дела".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ты нашел моего Деррина?"</DefaultText>
+      <FemaleText>"Ты нашла моего Деррина?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Пока нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Деррина убили. Мне очень жаль".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Солгать, невинно хлопая ресницами и пряча чужое бельё] "Он уплыл в поисках лучшей доли. Несколько матросов видели его на борту Вайлианского корабля. Он сказал, что попытает удачи где-нибудь подальше от Бухты Непокорности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Нужно что-нибудь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Я нашел Деррина".</DefaultText>
+      <FemaleText>"Я нашла Деррина".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Одда устремляет взгляд на грязные, шероховатые камни. "Это... похоже на него. Жаль, что он не зашел попрощаться". Она бросает взгляд на пусторожденного малыша в колыбели. "И все же, я буду рада, если у него все будет хорошо. Мне кажется, любая мать желает своим детям счастья".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Убийцы Деррина мертвы. Теперь его душа сможет обрести покой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Она горько улыбается и смахивает со щеки слезу. "По крайней мере, зло наказано".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Одда поворачивается к неподвижному младенцу в колыбели. В ее глазах стоят слезы, но губы крепко сжаты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Мой бедный мальчик..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Уйти, виляя задом.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Глаза Одды блестят, заплаканное лицо раскраснелось. "Уэйд рассказал мне, что случилось с нашим сыном". Она шмыгает носом и вытирает слезы. "Я чуть не вышвырнула его из дома. И я все еще могу. Но он клянется, что будет лучшим отцом для малыша".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Слава морской матери! Где он?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Этот никчемный человек сказал, что наш сын уплыл". Она качает головой. "А сам вернулся в бордель. Я надеюсь только, что Деррина ожидает светлое будущее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>В ее глазах облегчение. "Слава богам, ты здесь. Волны Ондры, ты разыскал Деррина?"</DefaultText>
+      <FemaleText>В ее глазах облегчение. "Слава богам, ты здесь. Волны Ондры, ты разыскала Деррина?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"У тебя родился пусторожденный?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Ответ написан у нее на лице. "Наследие Вайдвена на пощадило Бухту Непокорности. Люди напуганы и ищут виноватых. Под горячую руку попадают то эти женщины из борделя, то семьи несчастных малюток".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Одда вздыхает и смотрит на неподвижную колыбель. "Я не одобряю то, что происходит у Мэй, но эти нападения не помогут нам вернуть божью милость. Только заработать на кусок хлеба стало еще сложнее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Соберись. Я не понимаю, о чем ты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Нет, но если нужна помощь, просто скажи. Сделаю, что смогу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Не знаю, как тебе сказать, но его больше нет. Соболезную твоей утрате".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Тебе лучше присесть. Деррин не вернется".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Рот Одды приоткрывается, она потрясенно смотрит на тебя. "Мой мальчик мертв? Это... этого не может быть. Как это произошло?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Деррин защищал одну из куртизанок Мэй от бандитов. Он был храбрым мальчиком, ты должна гордиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"У борделя он столкнулся с парой опасных парней".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Он украл у мужчины кинжал. Вот почему стоит объяснять детям, что оружие – не игрушка".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Его больше нет. Разве знание подробностей сможет тебя утешить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Уэйд бросил его одного. Это все его вина".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Она всхлипывает и зажимает рот рукой. Ее глаза блестят от слез.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Боги, за что мне все это? Мой мальчик погиб из-за одной из этих... женщин. И все же..." Она всхлипывает в рукав. "Я могу только молить богов быть к нему добрее в следующей жизни. Может, хоть для одного из моих детей все еще есть надежда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Через несколько мгновений она закрывает глаза и сглатывает. "Думаю, лучше узнать правду, чем всю жизнь гадать. Спасибо за то, что принес мне ответы".</DefaultText>
+      <FemaleText>Через несколько мгновений она закрывает глаза и сглатывает. "Думаю, лучше узнать правду, чем всю жизнь гадать. Спасибо за то, что принесла мне ответы".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Она всхлипывает и зажимает рот рукой. Ее глаза блестят от слез.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Как боги могут быть настолько жестоки?" У нее перехватило дыхание. "Как... как такое могло случиться с моим мальчиком?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Вдох застревает у нее в груди. Она крепко зажмуривается и прячет лицо за грязным рукавом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Нет, я... я думаю, не надо". Одда шмыгает носом и вытирает мокрые от слез щеки. "Наверное, лучше запомнить его таким, каким он был. Юным, радостным, полным жизни".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Рукав приглушает всхлип. "Я принимала этого человека обратно столько раз! Я прощала его, даже когда он выносил из дома все, что плохо лежало. Я надеялась, что однажды он изменится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Ты что-то говорила о Деррине".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Она смотрит на неподвижного малыша в колыбели. "Не знаю, верить ему или нет. Но думаю, я дам ему еще один шанс. Я не уверена, что у меня есть выбор, честно говоря".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Он мертв. А чего ты ждала?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Надеюсь, Деррин найдет в Республиках лучшую жизнь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Вот, возьми. Я собиралась однажды отдать это Деррину, но теперь они ему не понадобятся. А я сомневаюсь, что у меня будет другой ребенок, которому я смогу их оставить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Вот, возьми. Я собиралась однажды отдать это Деррину, но теперь они ему не понадобятся. А я сомневаюсь, что у меня будет другой ребенок, которому я смогу их оставить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ты здесь из-за моего мальчика?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Я чувствую ее горе... ее боль. Ее разум переполнен болью".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Так много неоправданной вины. Так много боли..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Из всех несчастий, обрушившихся на Дирвуд, Наследие – худшее. Если с ним не разобраться как можно скорее, страна просто развалится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Хорошо бы было, если бы бог-другой появились здесь и все устроили. Но, возможно, этот вариант по нраву только мне".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

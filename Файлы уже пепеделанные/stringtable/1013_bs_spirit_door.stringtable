@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1013_bs_spirit_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Подойди, помоги мне". Призрак держит руки над разрушенной машиной, как будто готовясь потянуть за какой-то невидимый рычаг. "Мужайтесь, и мы избавимся от него". Произнесенные слова, кажется, сами появляются у вас в голове, по мере того, как вы вспоминаете энгвитанский.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Он выжидает, очевидно, чтобы кто-то успел занять позицию. "Тяни как следует, сейчас... Давай!" Он оседает обратно, вытирая пот со лба. "Эти машины... подумать только, сколько душ почувствовало их прикосновение. И сколько из них по своей воле, интересно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Все бы шло быстрее, если бы мы знали, какие чары лежат на них. Должно быть, их так же легко уничтожить, как и запустить". Он слегка усмехается. "Не волнуйся. Я знал, что делаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Вы молча сглотнули, как после глубокого минета.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ты ломаешь машины?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Что здесь произошло?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Не волнуйся. После убийства Од Нуа остальные показали свое истинное лицо. Большинство из них бежало. Кто-то разбежался по туннелям, глупцы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Иди – они уже начали запечатывать верхние этажи. С такими темпами мы будем последними".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Недолго осталось. Мы убили тирана. Обратили в бегство его людей. Мы можем сделать так, чтобы этого больше не повторилось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Доирос собирается наложить одно заклятие на эту дверь. Используйте слуг Од Нуа против него".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Уйти, пока не потребовали расплатиться телом.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Призрак молча трудится у разбитой машины, стараясь вытащить давно уничтоженные детали.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Дверь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Что это за заклятие?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Он не может полностью разрушить дверь. Но может изменить ее назначение. Клятва, понимаешь. Если слуги Од Нуа поклялись защищать его, мы должны поклясться уничтожить его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"В этом камне, должно быть, запечатаны сотни душ. Наказание, несомненно. Возможно, они будут рады узнать, что Од Нуа перешел в загробный мир".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Мужчина ожесточенно усмехается, отворачивается и тает с каждым шагом, только чтобы вновь появиться рядом с машиной.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Призрак, одетый в странные одежды, держит руки над разрушенной машиной, как бы готовясь потянуть за какой-то невидимый рычаг. Он говорит что-то на языке, который вы не понимаете, и тянет за деталь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ты меня слышишь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Призрак делает паузу... но, кажется, не обращает на вас внимания, продолжая заниматься машиной, и не отвечает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Призрак молча трудится у разбитой машины, стараясь вытащить давно уничтоженные детали.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

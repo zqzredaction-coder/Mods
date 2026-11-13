@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_tamra</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Высокая женщина в мехах направляет на вас острый взгляд темных глаз. "Я продаю лучшие шкуры в Эйр-Гланфате – такие толстые, что и штельгар их не порвет. А мои ботинки такие мягкие, что они заглушат звук твоих шагов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Может, нужна шкура для очага? Или меха, чтобы согреться в холодные времена?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Могу я посмотреть твои товары?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Вот, посмотри на дары, добытые нашими охотниками".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Чем ты занимаешься?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Для тебя – самые свежие товары из моего ассортимента, каред".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Мое ремесло – то, что на мне надето. Я продаю шкуры всех зверей Галавэйна, какие только есть. Эстраморы приходят из всех деревень, чтобы их увидеть, и знают нас как великих охотников. С каждой шкурой связана история великой охоты, и наши торговцы разносят их по всем уголкам наших земель. И все они просто просятся быть растянутыми на постели.".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

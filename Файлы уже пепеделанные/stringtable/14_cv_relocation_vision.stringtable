@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\14_burial_isle\14_cv_relocation_vision</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Иовара смотрит вдаль, разглядывая что-то, что видно только ей.
+
+"Помнишь, когда мы были детьми, миссионеры пришли к нам рассказать о богах? Они сказали, что мы можем увидеть их среди звезд".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Иовара смотрит вдаль, разглядывая что-то, что видно только ей.
+
+"Помню, когда я была маленькой девочкой, миссионеры пришли к нам и рассказали о богах. Они сказали, что мы можем увидеть их среди звезд".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"И однажды ночью мы украдкой выбрались из дома и забрались на сторожевую башню старой крепости, потому что думали, что там лучше сможем их разглядеть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Помню, услышав это, я ночью украдкой выбралась из дома и забралась на сторожевую башню старой крепости. Я хотела лучше их разглядеть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Эта крепость сгорела несколько лет назад, когда мы изгнали миссионеров. Эти миссионеры и подожгли ее. Они не хотели, чтобы мы смогли ее использовать. Как жаль – с этой крепостью много было связано".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Эта крепость изжила себя. Она давала ложное ощущение безопасности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Я скучаю по тем временам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Солгать, облизнув губы и пообещав отсосать] "Я скучаю по тем временам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Она снова смотрит в сторону.
+
+"Я всегда знала, что у этого пути будут последствия. Но никогда не хотела, чтобы Крейтум пострадал из-за меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Не думаю, что смогу оставаться здесь дальше. Мне сказали, что Инквизиция собирает армию. Что они отправили послов, чтобы торговаться с правителями далеких земель. Крейтум не сможет выдержать осаду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Если грядет война, мне нужно делать то, что делает Таос. Мне понадобятся союзники. Союзники и крепость, которая сможет противостоять вторжению армии".
+
+Вы чувствуете, что слова возникли в вас еще давно, и теперь поднимаются по вашему горлу как ядовитая черная желчь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ты думала об Оссинусе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Оссинус... они сдержали многих нападающих. И их король не испытывает любви к вере Инквизиции. Может быть, он меня выслушает?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Они поступят намного хуже, если вернутся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Все эти миссионеры теперь стали инквизиторами. Странно думать, что они остались прежними. Хотя, думаю, ты знаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Это было восхитительное время. У нас было столько надежд и стремлений".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Да, так и было. Как для меня, так и для других. Но, увидев, как она горит, я задумалась".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Она смотрит на вас. "Это твой дом в такой же степени, как и мой. Ты о нем беспокоишься?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Он видал и похуже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Я беспокоюсь о тебе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Наше пребывание здесь подвергает Крейтум риску".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Я стараюсь себе об этом напоминать. Хорошо получить такую поддержку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Я сделала много ошибок с тех пор, как это началось. Для меня большое облегчение узнать, что ты не входишь в их число".
+
+"Хорошо, что мы тебя не повесили".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Тебе больше нужно беспокоиться о себе. Половина стражей по ночам замышляют твое убийство".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Хотела бы я сказать, что думаю иначе. Но теперь, когда я услышала это от другого, мне легче осознать некоторые мысли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Она смотрит на вас. "Когда-то ты называл это место своим домом. Ты о нем беспокоишься?"</DefaultText>
+      <FemaleText>Она смотрит на вас. "Когда-то ты называла это место своим домом. Ты о нем беспокоишься?"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

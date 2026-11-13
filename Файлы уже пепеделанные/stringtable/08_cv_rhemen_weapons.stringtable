@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\08_wilderness\08_cv_rhemen_weapons</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вы прорываетесь сквозь густую паутину и видите несколько бронзовых клинков в удивительно хорошем состоянии. Венан должен быть более чем доволен этими артефактами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Внизу кучи лежит большое бронзовое копье. Оно кажется старше и изысканнее того оружия, которое вы только что взяли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Взять копье.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Осмотреть копье.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Уйти, покачивая бёдрами.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Это оружие, кажется, было изготовлено с большим мастерством. Оно сделано полностью из бронзы, от наконечника до захвата, и, несмотря на свой возраст, оказывается удивительно острым.
+
+Рядом с основанием древка есть большое овальное отверстие. Там явно должно находиться что-то важное.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Вы собрали все артефакты. Остается только одно бронзовое копье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Вы берете копье. Только прикоснувшись к нему, вы чувствуете, как по вашим костям проходит мягкий гул.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Когда вы берете копье, ваш адровый сосуд начинает светиться.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

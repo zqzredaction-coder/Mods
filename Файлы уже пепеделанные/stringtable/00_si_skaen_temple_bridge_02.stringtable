@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_dyrwood\00_si_skaen_temple_bridge_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Два столба крепко стоят в каменной кладке. К ним прикреплены оторванные канаты, которые падают в темную пустоту большой пропасти. На другой стороне виднеется небольшой проход, куда мог вести мост.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Осмотреться вокруг.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Кинуть веревку с крюком через пропасть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Уйти, виляя задом.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Темнота внизу выглядит бездонной. Сломанные каменные столбы, остатки отсутствующего моста, поднимаются из бездны.
+
+На другой стороне обрыва видно отверстие туннеля.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Деревянные балки выступают из камней по обеим сторонам пропасти. Несмотря на их возраст, они выглядят достаточно надежно, чтобы удержать крюк с веревкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Вы целитесь в сторону балок на противоположном конце пропасти и бросаете крюк.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Он цепляется за одну из балок, углубляясь в дерево при натягивании веревки. Сделав пару сильных рывков, вы определяете, что крюк держится надежно. Вы привязываете свободный конец веревки к балке возле себя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>По ущелью раздается эхо тяжелого дыхания. Все, кроме [SkillCheck 0], устают.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Перелезть через пропасть.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Вы достигаете другой стороны без происшествий. Веревка все еще остается надежно натянутой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Веревка остается упругой под вашим весом, но, передвигаясь над пропастью, вы чувствуете натяжение и вибрацию при каждом движении. Треск и скрип деревянных балок эхом отражается в бездне.
+
+Вы медленно и равномерно продолжаете продвигаться дальше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Путь заканчивается обрывом. На другой стороне пропасти видны остатки разрушенного моста.
+
+Через пропасть перекинута ваша веревка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>По ущелью раздается эхо тяжелого дыхания. Все устали.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Вы достигаете другой стороны. Теперь вы в безопасности, но чувствуете сильную усталость.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>По ущелью раздается эхо тяжелого дыхания. [SkillCheck 0], [SkillCheck 1], [SkillCheck 2] и [SkillCheck 3] устают.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>По ущелью раздается эхо тяжелого дыхания. [SkillCheck 0], [SkillCheck 1] и [SkillCheck 2] устают.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>По ущелью раздается эхо тяжелого дыхания. [SkillCheck 0] и [SkillCheck 1] устают.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>По ущелью раздается эхо тяжелого дыхания. [SkillCheck 0] устает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Пот на ваших ладонях ослабляет хватку, и когда вы добираетесь до середины ущелья, руки соскальзывают. Вы висите над бездной, держась коленями.
+
+Собрав все силы, вам удается подтянуться до веревки и схватить ее, но это происшествие значительно истощило ваши силы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>По ущелью раздается эхо тяжелого дыхания. Кто-то из вашего отряда устал.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

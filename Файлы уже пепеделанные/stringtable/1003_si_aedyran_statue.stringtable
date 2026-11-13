@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1003_si_aedyran_statue</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Размещенная в тихой нише, эта каменная фигура решительно шагает вперед, высоко подняв одну руку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Осмотреть статую.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Судя по стилю одежды и потрескавшимся остаткам бороды на статуе, [SkillCheck 0] подозревает, что это Эрл Йенвуда. Прославленный воин, он вел своих людей в бой, потрясая сверкающей саблей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Хотя статуе уже много лет, она не так пострадала, как некоторые другие предметы в этом месте. На фигуре одежда в аэдирском стиле, так что статуя могла остаться со времен колонизации аэдирцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Вложить саблю "Приговор" в руку статуи.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Уйти, покачивая бёдрами.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вы слышите дребезжание какого-то механизма в стене за спиной статуи. Ближе раздается звук крошащегося камня, и соседняя стена сдвигается, открывая дверной проем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>В позе статуи читается неизбежность действия, сабля вскинута вверх.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Взять саблю.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Вы тянете за саблю, но она, кажется, прочно засела в руке у статуи. Если потянуть сильнее, можно повредить клинок – или порезать ладонь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Каменная фигура покрыта выцветшими остатками позолоты. Кажется, раньше у нее что-то было в руке. Судя по позе, скорее всего, оружие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Сначала сабля легко проскальзывает на место, но в последний момент приходится надавить. Вы слышите глухой звук, когда предплечье статуи внезапно смещается и поворачивается.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

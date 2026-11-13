@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_dyrwood\00_cv_aelys</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Молодая женщина смотрит на вас, хлопая глазами, и делает несколько шагов назад. "Не подходи! Я не знаю..." Она трясет головой и трет виски. "Что здесь произошло?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Взгляд Айлис затуманен, ее мысли далеко. Мстительный дух скейнитов заполонил ее душу словно полчище муравьев, копошащихся на умирающем мотыльке. Она облизывает губы, будто вспоминая что-то грязное.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Я тебя спас".</DefaultText>
+      <FemaleText>"Я тебя спасла".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Ты попала в ловушку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Культисты-скейниты похитили тебя. И, говорят, держали тебя на цепи, как собачку.".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Не важно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Она растерянно оглядывается. При виде мертвых культистов и луж крови ее глаза широко раскрываются от страха. "Но от ч..."
+
+Она вздрагивает и закрывает лицо руками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Крылья Хайлии, я почти ничего не помню". Она замолкает, нахмурив лоб. Произносит что-то неразборчивое на диалекте рауатай. Потом на вайлианском. "Ба ном э... Нет. Меня зовут... Айлис". Ее пальцы танцуют в воздухе, перебирая невидимые струны. "Лира. Увертюра к «Рыцарю-самозванцу». Я..." Ее подергивающиеся пальцы касаются набухшего живота.
+
+Она смотрит на тебя с немым вопросом в глазах. Она краснеет: «Хайлия, ну и ночка была».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Ты забыла все не просто так, Айлис. Некоторые вещи лучше не помнить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Ты – молодая леди. Тебя обманули беспринципные родственники".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Ты – молодая леди. Ты перешла дорогу влиятельным людям".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Она рассеянно кивает. "А еще я знаю, что мне нельзя возвращаться в деревню, хотя не помню почему". Она оглядывается на странный механизм. "И мне точно нельзя оставаться здесь..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Можешь идти, куда захочешь, Айлис. Найди дорогу и держись ее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"На окраине города есть храм. Уверен, служители помогут найти безопасное место".</DefaultText>
+      <FemaleText>"На окраине города есть храм. Уверена, служители помогут найти безопасное место".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Попробуй добраться до большого города. До Нового Хеомара, или даже до Вайлианских Республик. Куда-нибудь, где много возможностей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Найди уединенное место. Избегай дорог и попутчиков. Доверять нельзя никому".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Предложение доходит до нее медленно, но, похоже, укореняется на опустошенных землях ее сознания. "Хороший совет". Она бросает последний взгляд на забрызганную кровью комнату. "Назад оглядываться не буду". Она спешно уходит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Не смотри на меня так. Он не мой".</DefaultText>
+      <FemaleText>"Это с каждой могло случиться".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Она растерянно оглядывается. При виде мертвых культистов и луж крови ее глаза широко раскрываются от страха. "Но к..."
+
+Она вздрагивает и закрывает лицо руками.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

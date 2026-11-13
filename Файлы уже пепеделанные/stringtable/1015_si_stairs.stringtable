@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1015_si_stairs</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Лестница впереди рассыпалась, оставив вас на краю темной ямы. Спускаться вниз придется очень осторожно, и, может быть, будет трудно выбраться назад.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Осторожно слезть по камням.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Вы замерли, стиснув булки.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Лестница, ведущая наверх, развалилась, но скалы вокруг выглядят достаточно крепкими. Потратив достаточно времени, вы сможете взобраться по ним.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Забраться по скале.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Вы замерли, стиснув булки.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вы продвигаетесь медленно, поскольку камни опасно шатаются под руками и ногами, но вам удается удерживаться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Камни сдвигаются, и продвижение по потрескавшейся стене проходит медленно и трудно. На последнем участке, отделяющем вас от дна, [SkillCheck 0] ступает на шатающийся камень, срывается и катится по склону до самого дна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Вы осторожно прокладываете путь вниз по скалистой стене и груде камней, и, в конечном итоге, оказываетесь на дне.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Вы медленно и уверенно взбираетесь по камням и вылезаете наверх.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Вы оказываетесь на дне широкого бассейна и оглядываетесь на титанические валуны и адровые образования.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

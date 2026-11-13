@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_glanfathan_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Страж перегораживает копьем путь, ведущий за ворота.
+
+"Стой, эстрамор. Остальная часть города закрыта для тебя. Попасть туда можно только по приказу одного из анамфатов. Нарушение этого правила в Вязах-Близнецах карается смертью".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Какое у тебя копье здоровое. Компенсируешь что-то?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Как мне получить разрешение у одного из анамфатов?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Отойти, виляя задом.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Он неохотно указывает на длинную хижину в середине района. "Ты всегда можешь найти кого-нибудь из анамфатов в Проходе Шести. Возможно, анаменфат Бесвил тебя послушает, если сможет выдержать твой варварский язык".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Он вбивает конец копья в землю. "Я не буду терпеть обиды от таких, как ты, а тем более сказанные на твоем корявом языке. Еще одно грубое слово – и я покажу, как Трехклыкий Штельгар владеет копьем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Не испытывай мое терпение, эстрамор. Ты не пройдешь без разрешения анамфатов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Я пришел, чтобы увидеть краеугольный камень с благословения Ведомого Компаса".</DefaultText>
+      <FemaleText>"Я пришла, чтобы увидеть краеугольный камень с благословения Ведомого Компаса".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Страж хмурится и смотрит на своего напарника, который кивает в ответ. Он снова поворачивается к вам. Костяшки рук, сдавливающих древко копья, белеют. "Как всегда, потворствуют эстраморам. Иди, и смотри под ноги, когда подойдешь к священным камням".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Смотри, куда идешь, эстрамор. Доверие Ведомого Компаса получить легко, а мое – нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Я покажу тебе, куда ты можешь засунуть это копье".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Я ищу храм Хайлии – где жрицы подставляют грудь детям".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Где находится Нунфрост?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Слышал о месте под названием «Золотая Роща»?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Расскажи мне об Этик-Нол".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Он находится на горе за Нортвельдом. Но верующие сбежали, и теперь жрецы Касфат и Онвен слоняются в Олдсонге".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"В Олдсонге, где находится большинство наших храмов. Ты поймешь, когда увидишь, эстрамор, – озеро возле него покрыто льдом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Возле реки на юг от Элмрича. Это поляна среди деревьев – там собираются Эрона и ее оваты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Это друиды Кровавых Песков, пещеры на северо-запад от великих деревьев Элмрича. Как правило, я бы рекомендовал эстрамору не идти той дорогой..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ты знаешь такое место – камень в форме головы волка?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Все гланфатанцы знают Чрево в Олдсонге. Место священное для Галавэйна, и там собираются Клыки. Слышал, поднялся переполох из-за зверей, которые там живут. Там берут добычу сзади.".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Как можно попасть на Погребальный остров?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Страж хмурится, оглядывая вас. "Обычно эстраморы не ходят туда. Они не понимают значения этого места".
+
+"Но тех, кто хочет отдать дань уважения, Дорвал перевезет на пароме. Он выходит из доков в Олдсонге".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

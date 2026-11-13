@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_coren</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Клянусь безглазым лицом Ваэля, ну ты огр-коротышка! Но почему ты зеленый? И как у тебя получилось заставить всех уток кружить вокруг? Небось, ещё и подглядывать за бабами умеешь"</DefaultText>
+      <FemaleText>"Клянусь безглазым лицом Ваэля, ну ты огр-коротышка! Но почему ты зеленая? И как у тебя получилось заставить всех уток кружить вокруг? Небось, ещё и подглядывать за бабами умеешь"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Я не огр".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Он аккуратно протягивает к вам руку, но затем одергивает ее. "Ммм, нет, не полезу. Утки ядовитые".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"О чем ты говоришь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Дай угадаю – обкурился белолистом? Или дорвался до белошляпки?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Он хлопает ладонями и хохочет. "Белошляпка, белошляпкаааааа. Ее и люди не все знают, а огры – так тем более".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Утки, зеленая кожа. Мне говорить громче? Или медленнее? Скажи, если что".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Ты писарь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Он кивает. "Да, я... ПИСАРЬ". 
+
+"Я читаю книги, я пишу книги, я даже как-то раз съел книгу, но только потому, что та была похожа на сладкий пирог. Или это был пирог в виде книги... До сих пор интересно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Я ищу Вианну".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Вианна мне нравится! Она все время говорит о железных людях. Это странно, ведь она точно не ест белошляпки".
+
+Он хмурит брови. "А я вот не говорю о железных людях и ем белошляпку. Хм".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Так о чем это я? Ее сейчас нет. Отправилась в Дар Ондры на встречу с подругой, Бессией. Нет, Клессией. Да, точно, Клессией, так ее зовут. Из Дара Ондры. Они встретятся в доме, а не в лодке. Дом на севере. Пустой дом".
+
+"В Даре Ондры много лодок. Надо как-то нам пойти поплавать на них".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Корен слегка покачивается из стороны в сторону. "Кожа у тебя все еще зеленая, а вот уток ты растерял".</DefaultText>
+      <FemaleText>Корен слегка покачивается из стороны в сторону. "Кожа у тебя все еще зеленая, а вот уток ты растеряла".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Он сияет в улыбке и кивает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Расскажи про кельи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Тут спят писари, работающие в Зале раскрытых тайн. Я писарь".
+
+Он тянет носом. "Тут пахнет старыми носками".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Покажи мне, что ты продаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"О, о, о! Я еще и травы собираю. Цветы, растения. На продажу. Но в основном я их съедаю сам".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

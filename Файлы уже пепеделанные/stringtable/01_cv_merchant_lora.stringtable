@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_merchant_lora</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Рядом с телегой стоит молодая женщина. Ее большие ясные глаза устремлены в толпу. При вашем приближении она переводит взгляд на вас. "Не спеши, путник. Если ищешь заколдованные свитки или специальные одеяния, ты пришел куда нужно".</DefaultText>
+      <FemaleText>Рядом с телегой стоит молодая женщина. Ее большие ясные глаза устремлены в толпу. При вашем приближении она переводит взгляд на вас. "Не спеши, путница. Если ищешь заколдованные свитки или специальные одеяния, ты пришла куда нужно".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Покажи, что у тебя есть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Продаешь кинжал из переходной стали?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Уйти, подмигнув.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Она становится на цыпочки и показывает на витрину между ступенями. "Тебе, наверное, нужен Игран. Видишь, вон того высокого аумауа? Он продает оружие".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Чем еще могу быть полезна?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Всегда приятно видеть знакомое лицо. Чем могу помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Я расследую пропажи людей. Слышал, твоя сестра исчезла".</DefaultText>
+      <FemaleText>"Я расследую пропажи людей. Слышала, твоя сестра исчезла".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Я... " Голос Лоры опускается до шепота. "Я и не думала, что мне кто-то поможет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Если тебе нужно знать еще что-нибудь, просто спроси".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Когда и где ты в последний раз видела сестру?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Когда пропала Кора, я обращалась и в Данрид Роу, и к Рыцарям Горна, и даже к Дюжинам", – она указывает на большое здание у себя за спиной. "Тогда ни у кого не нашлось времени искать пропавшую девушку". Она закусывает губу. "Это случилось три недели назад".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Чем Кора занималась примерно в то время, когда исчезла?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ты видела кого-нибудь с Корой, когда та пропала?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Это все, что мне нужно сейчас знать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Лора кладет обе руки на сердце. "Ты и не представляешь, как много это для меня значит. Я так рада уже тому, что хоть кто-нибудь ее ищет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"У меня есть еще вопросы о Коре".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Она была общительной... Вернее, она и есть общительная. Всегда любила сборища людей. Боюсь, ничего более конкретного мне в голову не приходит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Она была у нас дома и готовилась к своему большому представлению. Это было три недели назад".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ее тогда только взяли в актерскую труппу под названием... под названием..." Лора хмурит брови.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Давай, ты же знаешь. Сосредоточься".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"«Ярмарка Звезд»! Вот!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Она оживляется, становится более внимательной и серьезной. "Да, конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"У нее совсем не было опыта". Лора умолкает в сомнении. "Думаю, именно потому она была так рада получить роль. Боюсь, я больше ничего об этом не знаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Она только получила роль в «Ярмарке Звезд». Я не особо много знаю об этой труппе. Собиралась расспросить ее поподробнее после большого дебюта".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"У меня известия о твоей сестре. Она мертва".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Она..." Лицо Лоры блестит от слез. "Не знаю, что сказать. Я пыталась не терять надежду, но думаю, глубоко внутри я уже знала. Но от этого не легче". Она вытирает одну щеку от слез. "Уверена, если бы кто-нибудь отправился искать ее раньше, может, она была бы здесь, со мной..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Да, ты прав". Она протирает глаза. "Надо, наверное, организовать похороны. Спасибо, что отыскал ее".</DefaultText>
+      <FemaleText>"Да, ты права". Она протирает глаза. "Надо, наверное, организовать похороны. Спасибо, что отыскала ее".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Бухта Непокорности сейчас переживает дни смуты. Власти ограничены в ресурсах, они и так делают, что могут".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Местные власти совсем не думают о простом люде. Такой небрежности нет оправдания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ты не мог ничего изменить. Не нужно себя мучить переживаниями".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Мы поймали тех, кто это сделал, и с другими больше такого не повторится. Теперь это самое главное".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Расскажи о Коре".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Забудь. Я хочу спросить о другом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Она – моя младшая сестра. Всегда была мечтательницей. Она верила, что ее ждет что-то особенное, что ее будут помнить, уважать и почитать". Лора качает головой. "Она была смелой, но ей не хватало целеустремленности. И все равно, когда она попала в этот спектакль, я думала, что вот-вот все изменится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Я рада, что стычки уже закончились. Повозку придется новую купить, но хоть сама цела и невредима".
+
+"Тебе не нужны свитки или зачарованная одежда? К счастью, почти все мои товары уцелели".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

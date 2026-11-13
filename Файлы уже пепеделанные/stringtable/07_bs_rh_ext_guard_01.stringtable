@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_bs_rh_ext_guard_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Эй, будь настороже! Хотя бы притворяйся, что что-то делаешь, ленивая свинья!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Не уверен. В этих стенах больше дыр, чем в моих башмаках".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Жаль. А я думал попрактиковаться в стрельбе по мишеням".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Стой! Ты на земле лорда Редрика. Повернись, или тебе не поздоровится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Стражник сердито смотрит на вас. "Тебе нечего здесь делать. Лорд Редрик запретил пропускать кого бы то ни было". Криво усмехается. "Так что мне все равно, кто ты – купец или скоморох – проваливай!"</DefaultText>
+      <FemaleText>Стражник сердито смотрит на вас. "Тебе нечего здесь делать. Лорд Редрик запретил пропускать кого бы то ни было". Криво усмехается. "Так что мне все равно, кто ты – торговка или скоморох – проваливай!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Мне нужно увидеть Редрика. Отойди".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Последний раз говорю: отойди или я выпущу тебе кишки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ладно, я тогда пойду. Счастливо!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Стражник фыркает. "У тебя проблемы со слухом?" Он вытягивает свой меч. "Последний раз говорю: проваливай! Стража внутри далеко не так вежлива".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Атаковать – грубо, как в подворотне] "Судя по всему, ты умрешь первым".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Глаза стражника расширяются и он становится на изготовку. "Тревога! Чужак у ворот!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ха! Думаешь, поймаем еще несколько парней в канализации? Легкие деньги!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Ты не видел анимансерку в деле. Она раскидала их, как котят. Больше они сюда не сунутся".</DefaultText>
+      <FemaleText>"Ты не видела анимансерку в деле. Она раскидала их, как котят. Больше они сюда не сунутся".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>На мгновение угрюмое лицо наемника преображается. Он смотрит на своего товарища, кивает ему и поднимает оружие. "По-моему, ты переоценил свои силы, дружок. Не повезло".</DefaultText>
+      <FemaleText>На мгновение угрюмое лицо наемника преображается. Он смотрит на своего товарища, кивает ему и поднимает оружие. "По-моему, ты переоценила свои силы, подруга. Не повезло".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Я тебя предупредил!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Лучшее в отваге!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Редрик не говорил, что нам придется с тобой разговаривать. Проваливай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Проникновение!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Так... ты думаешь, Колш простит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

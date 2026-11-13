@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_crier</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>58</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ищем заинтересованных участников!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Утеряно еще одно судно! Вайлианское торговое судно напоролось на безжалостные скалы! Выживших нет!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Маяк Ондры – путеводный огонь в предательских водах Перлвуда – сияет вновь!" «А в окне Маяка по ночам видны голые силуэты – смотрители не дремлют!»</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Зарезан Элдрид Венфельд, многоуважаемый капитан городской стражи!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Кража в поместье Беренгаров!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Анимансеры Лечебницы Брэкенбури с сожалением сообщают, что на этой неделе не будет возможности принять дополнительных пациентов!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"В Заветном Холме пропала еще одна любопытная душа!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"До сих пор Маяк Ондры бездействует, его двери не пропускают никого. Множество людей погибает в водах в этом сезоне! – там раньше мокрые девки дежурили!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Всех горожан, которым что-либо известно об этом преступлении, просят немедленно прибыть в Крепость Горна".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Запланирована краткая поминальная церемония. Да покоится душа капитана Венфельда с миром".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Лорд Реймонт объявляет вечными врагами трусливых малодушных воров, посягнувших на его жилище!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Посещения запрещены".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Глава Лечебницы призывает проявить терпение, пока не будут завершены необходимые ремонтные работы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Даже наиболее отважным путешественникам приходится поддерживать силы!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"У Хемии из Позолоченной Долины хлеб всегда свежий и сытный! Отличный дирвудский хлеб из отборного дирвудского зерна".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Черный день для нашего славного города! Скорбим о смерти герцога Эвара Скалозуба!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ходят ужасающие слухи о странных фигурах в капюшонах, выходящих из городских катакомб! Городская стража просит всех горожан быть внимательными и оставаться начеку!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Сенсационная кража! Зал раскрытых тайн сообщает о пропаже священного артефакта".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Скверные новости о резне в Крепости Горна! Среди павших – Элдрид Венфельд, достопочтенный маршал Рыцарей Горна!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Нашему славному городу благоволит Магран! Огни Очищения снова зажглись! Свечи горят в каждом окне – гости уже в пути!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Город предлагает щедрую награду за любую информацию, которая позволит арестовать злоумышленника!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Благодарим в уверенности, что Бухта Непокорности вынесет любые испытания!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Напоминаем всем гостям Бухты Непокорности, что Холм запечатан ради безопасности города..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"...кроме того, торговля энгвитанскими артефактами строго запрещена".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Досадный инцидент! Подросток игрался с острым клинком, и эти забавы стоили ему нескольких пальцев".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Пусть это будет поучением для всех, у кого малые дети. Наверное, разумнее подарить деревянный меч!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"В Зале экспедиций в «Пристанище Адмеса» умелые и надежные мужчины и женщины найдут себе выгодные и опасные авантюры на любой вкус!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Заинтересованным обращаться к Венану в Зале экспедиций!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Лорд Нестор Харонд убит собственной племянницей! Данрид Роу ведет следствие!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Во дворце герцога продолжаются слушания по делу анимансии! По сообщениям, пока никаких подвижек нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Мы все верим, что наш добрый герцог примет взвешенное и мудрое решение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Заветный Холм вновь открыт! Городская стража заявляет, что проклятие башни снято!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Пропал мальчик! Просим тех, кто обладает хоть какой-нибудь информацией о местонахождении мальчика по имени Деррин, обратиться к Одде из Дара Ондры!" «И пусть Одда не забудет, что в борделе мальчиков не принимают!»</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"В причастности к этому ужасному преступному деянию подозревается группа, известная как Дюжины! Мы надеемся, что все виновные будут наказаны, и просим обладающих какой-либо информацией обратиться к властям!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Идут восстановительные работы!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Граждане заявляют о загадочных истошных завываниях, доносящихся из маяка Дара Ондры! – и стоны, как в борделе!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Мы рекомендуем не приближаться к этому месту до выяснения подробностей!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ошеломляющее разоблачение! Стало известно, что прямо под мостовой района Копперлейн проводились отвратительные театрализованные постановки, в которых убивали жителей Бухты Непокорности!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"В этом ужасном преступлении обвиняется Ламдала, прославленная руководительница «Ярмарки звезд», и несколько ее сообщников! Надеемся, что преступники будут наказаны в самое ближайшее время!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Среди обвиняемых – представители знати! Надеемся, что преступники будут наказаны в самое ближайшее время!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"За помощь в возвращении этой священной реликвии назначена награда!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Стража сообщает о спасении Сайды из семьи Вальтасов! Девочка цела и невредима!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Мы также скорбим по всем погибшим в последовавшем хаосе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Собравшиеся эрлы обещают, что в самом скором времени порядок будет восстановлен и мы сможем вернуться к нормальной жизни".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Мы благодарны богам за их милость и желаем ей скорее оправиться от пережитого ужаса!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Катастрофа в Крепости Первых Огней! По словам очевидцев, некие эксперименты с участием анимансеров стали причиной множества смертей!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ходят слухи, что Рыцари собираются пополнить свои ряды рекрутами! Сами Рыцари клянутся, что собираются лишь утроить свои усилия по обеспечению безопасности нашего прекрасного города!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Печальные новости из Дирфорда! Безумец разоряет ни в чем неповинных жителей! Страшные, темные времена настали, если подобные чудовища живут среди нас!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Путники из Дирфорда сообщают, что местного жителя сожрал ужасный огр! Наши соболезнования друзьям и родным Румбольда, скромного свиновода!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"По сообщениям свидетелей лорд Гадерман, обвиненный в этих ужасных деяниях, трусливо покончил с жизнью".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"В этом ужасном преступлении обвиняют Ламдалу, прославленную руководительницу «Ярмарки звезд», и нескольких ее сообщников!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Во главе всего стоял лорд Гадерман, который, по словам очевидцев, покончил с жизнью, не вынеся позора!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ужасные новости из Позолоченной Долины! Лорд Редрик VII, верноподданный сейн Дирвуда, был убит!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Титул перешел к Колшу, последнему из рода Редриков!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Так завершился жизненный путь последнего из рода Редриков!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Странные слухи из Позолоченной Долины! Темные силы захватили крепость Редрика!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Очевидцы сообщают о холодящих кровь криках и странных огнях на вершине башни! На данный момент причины происходящего остаются невыясненными!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Сталварт молит о помощи. На них напали огры, которые могут все разграбить в любой день".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
