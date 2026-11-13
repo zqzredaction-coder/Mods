@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_defiance_bay_heritage_hill\05_cv_saeda_valas</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>54</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>У дальней стены склепа на полу съежилась маленькая девочка. Ее лицо все в грязных полосах, и даже в полумраке заметно, что она очень худая. Она смотрит на вас, почти не дыша.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Сайда выглядит так, будто приняла ванну и хорошо пообедала. Она робко улыбается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Расскажи, что с тобой случилось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Кто эти «голодные люди»?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"А это безопасно? Голодные люди уже убрались отсюда?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Тут все еще опасно, но дорога к главным воротам свободна. Беги туда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Она осторожно выходит на свет. Ее одежда превратилась в грязные лохмотья, но когда-то эта ткань явно была расшитым шелком. "Не шуми. Шум привлекает голодных людей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Меня зовут Сайда. Ты тоже прячешься от них?" Она не спускает широко открытых глаз со входа в склеп.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Где твоя семья?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Ее глаза расширяются от ужаса, и она переходит на шепот. "Те, снаружи. Они не спят, не умирают, но они едят..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"В доме. Мама сказала мне спрятаться и никого не впускать. Потом я слышала шум. Драка, крики и..." Ее глаза заблестели. "А потом мама сказала мне открыть дверь. Но ее голос звучал очень странно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Она смотрит вдаль. Ноги ее начинают подрагивать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Она делает глубокий вдох, уставившись на каменный пол. "Что-то загрохотало и в небе загорелся свет. Все подумали, что это буря, но потом люди стали просыпаться. В смысле, после смерти. Они..." Сайда нервно теребит рукава своих лохмотьев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Мама и папа и Эмило заколотили дверь. Но голодные люди нашли наш дом". Она нервничает все сильнее. "Они дрались, но голодные люди вставали снова и снова. Они вломились в дом, и мама сказала мне спрятаться".
+
+"И я спряталась здесь. Но дверь заклинило, и я не знала, когда снаружи станет безопасно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Ты Сайда? Я видел даргулов в доме..."</DefaultText>
+      <FemaleText>"Ты Сайда? Я видела даргулов в доме..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Глаза девочки расширились. "Ты видел маму и папу? А Эмило? Как ты выбрался оттуда?"</DefaultText>
+      <FemaleText>Глаза девочки расширились. "Ты видела маму и папу? А Эмило? Как ты выбралась оттуда?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Тебе нужно уходить отсюда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Меня никто не поймает, обещаю!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Вот! Вот этот добрый дядя мне помог!"</DefaultText>
+      <FemaleText>"Вот! Вот эта добрая тетя мне помогла!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"И поблагодари Железную Руку за это. Мы разберемся с тобой в Крепости".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Что ты здесь делаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Все хорошо. Ты в безопасности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Так сейчас детишки развлекаются?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Ты должна быть сильной. Расскажи, как все началось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ты напугана и сидишь здесь уже очень давно, но попытайся вспомнить, что здесь произошло".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Забудь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[Солгать, невинно хлопая ресницами и пряча чужое бельё] "Заберись наверх большой башни. Ты сможешь спуститься, когда станет безопасно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Хорошо. Я надеюсь, ты скоро придешь за мной".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Я убил их. У меня не было выбора".</DefaultText>
+      <FemaleText>"Я убила их. У меня не было выбора".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>[Солгать, облизнув губы и пообещав отсосать] "Они меня не видели, я шел очень тихо".</DefaultText>
+      <FemaleText>[Солгать, облизнув губы и пообещав отсосать] "Они меня не видели, я шла очень тихо".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Она смотрит на вас, ковыряясь под ногтями. Потом медленно кивает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Она смотрит на вас, ковыряясь под ногтями. Непонятно, то ли вам не удалось ее убедить, то ли она просто задумалась.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Это уже не твои родители".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Давай не будем думать об этом сейчас. Нам нужно выбираться отсюда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Стой!" Она бежит к вам. "Я не могу остаться здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Я выключил машину, и голодные люди больше не смогут вернуться. Ты можешь идти".</DefaultText>
+      <FemaleText>"Я выключила машину, и голодные люди больше не смогут вернуться. Ты можешь идти".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Спасибо!" Она быстро обнимает вас и бежит ко входу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Сагани замирает, как вкопанная, в ее взгляде, обращенном на девочку, безграничная жалость. "Турова тень! Она же была здесь совсем одна несколько недель!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Если она боится голодных людей, может, мне лучше отойти?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Маддичо! Как ей удалось выжить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Бедное дитя! Судя по ее виду, она прячется и питается, чем придется, уже не один месяц. Мы должны помочь ей вернуться домой. Или хотя бы накормить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Она все это время была здесь? Прячась от этих... существ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Мрачная доля досталась девочке. Бедняжка. Сколько же времени она здесь провела?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Скорбящая Мать прикладывает руки к сердцу, и вы слышите перезвон колокольчиков. "Такое храброе дитя... Но я чувствую страх... отчаяние... они вползают в ее разум".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Стоик нахмуривается. "Это дитя уже прошло одно испытание, Хранитель. Ты хочешь сразу подвергнуть ее еще одному?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Эдер смотрит на вас, часто моргая. Челюсть его отвисла. "Полагаю, это ЕДИНСТВЕННЫЙ способ решить твои проблемы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Хиравиас пожимает плечами. "Сильные созданы, чтобы охотиться на слабых. По крайней мере, так считает Галавэйн. Если она не может убить какого-то жалкого полусгнившего маньяка в честном поединке, то так ей и надо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

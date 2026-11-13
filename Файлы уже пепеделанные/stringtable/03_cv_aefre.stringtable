@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_aefre</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Эфри выглядит весьма вызывающе, ее доспех стар, но еще крепок. Похоже, шрамы она носит как медали. 
+
+"Не похоже, что ты из Рыцарей. Я могу тебе помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Эфри выглядит весьма вызывающе, ее доспех стар, но еще крепок. Похоже, шрамы она носит как медали.
+
+"Венан послал тебя? Передай ему, что бордель – с девочками, мальчиками и тёплыми постелями – куда важнее, чем копаться в руинах в поисках всякого старья".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Я здесь из-за проблем в «Соленой мачте»".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ты кто?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Уйти, поправляя штаны] "Не важно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Я – Эфри, лейтенант Дюжин". Она похлопывает себя по кирасе. "Мы – последний отряд в Бухте Непокорности, который знает, что такое быть дирвудцем". 
+
+"И, к сожалению, похоже, только меня волнует то, как Мэй выжимает местных".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Простой народ негодует. И имеет право, учитывая, как эта аумауа выслуживается перед знатью". Она усмехается. "Она использует трагедию Наследия Вайдвена, чтобы набить карманы. Она ничем не лучше аэдирских властителей, которых мы вышибли двести лет назад".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Местные знают, что ты – честный делец. Только богачи могут позволить себе заведение Мэй, в то время как она засела в самом бедном квартале Бухты Непокорности. Разве это справедливо?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Местные говорят, что у тебя доброе сердце. Только богачи могут позволить себе заведение Мэй, в то время как она засела в самом бедном квартале Бухты Непокорности. Разве это справедливо?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Только богачи могут позволить себе заведение Мэй, в то время как она засела в самом бедном квартале Бухты Непокорности. Разве это справедливо?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Я понимаю. Я попробую уговорить Мэй снизить цены".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Мэй как сыр в масле катается, но ее работницы – нет. И так ты делаешь им только хуже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Угрожать, ткнув пахом] "Осади своих громил, иначе я покажу тебе настоящую жестокость".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Я с Мэй. Завязывайте".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Эфри кивает. "Рада, что ты с нами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Эфри смотрит на своих товарищей. "Жаль, что ты не с нами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Я… об этом я не думала". Ее побитые наплечники опускаются. "Похоже, все это бессмысленно?" Она смотрит на громил и кивает еще раз.
+
+"Скажи Мэй, что мы оставим ее в покое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Рука Эфри замерла над рукоятью меча. Ее спутники нервно переводят взгляд с нее на вас. Она вздыхает. "Скажи этой аумауа, что мы оставим ее в покое. Но пусть вспомнит об этом, когда все ее модные друзья найдут новое место, чтобы тратить время и спускать деньги".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Она скрещивает руки на своем помятом нагруднике. "Да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"С борделем мы вроде разобрались, так? Что-то еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Наконец-то оставшиеся смогут насладиться этим местом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ладно, но я беру тебя в пленники".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Она кивает и покачивает головой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Сколько ты собираешься держать меня здесь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Мы взяли дело в свои руки, но настоящий преступник здесь – она. Почему ты не попросишь ее отступить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Пощады". Эфри пятится, едва держась на ногах. "Умоляю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Добить] "С тобой покончено".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Я замолвлю за тебя словечко Венану".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Что ты здесь делаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Я передумал".</DefaultText>
+      <FemaleText>"Я передумала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Она сощурилась. "Что это значит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Рыцари убили герцога! Нам пришлось действовать на их территории".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ты ведь умный парень. Сам подумай, Мэй подняла цены, и теперь только богачи могут позволить себе посетить ее заведение, расположенное, к слову, в беднейшем районе города. И как думаешь, к чему это приведет?"</DefaultText>
+      <FemaleText>"Ты ведь умная девчонка. Сама подумай, Мэй подняла цены, и теперь только богачи могут позволить себе посетить ее заведение, расположенное, к слову, в беднейшем районе города. И как думаешь, к чему это приведет?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Мэй подняла цены, и теперь только богачи могут позволить себе посетить ее заведение, расположенное, к слову, в беднейшем районе Бухты Непокорности. Разве это справедливо?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

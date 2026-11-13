@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_gjefa</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Не отсюда, да?" В голосе юной девушки проступает резкий акцент Дара. "Тебе нужна местная, чтобы показать достопримечательности. К счастью, я одна из них".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ты местная девушка или местная достопримечательность?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"И что за развлечения ты посоветуешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Сколько?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Она смеется. "И то, и другое, красавчик. Что еще ты можешь своим острым язычком?"</DefaultText>
+      <FemaleText>Она смеется. "И то, и другое, красотка. Что еще ты можешь своим острым язычком?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Уйти, подмигнув] "Может, в другой раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Гиефа подмигивает. "Я лучше покажу, чем расскажу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Всего полтос для героя, очистившего Дар".</DefaultText>
+      <FemaleText>"Всего полтос для героини, очистившей Дар".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Мое время стоит две сотни, и оно того стоит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Заплатить 50 мп] "По рукам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Заплатить 200 мп] "По рукам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Мое время стоит сотню, и оно того стоит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Заплатить 100 мп] "По рукам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Мы так далеко в лесу, это наводит меня на мысли…"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"У меня не было такого приятного клиента с… да никогда". Она вздыхает. "Теперь у меня осталась только одна мечта – увидеть другие части Дирвуда. С детства не была за пределами Бухты Непокорности".</DefaultText>
+      <FemaleText>"У меня не было такой приятной клиентки с… да никогда". Она вздыхает. "Теперь у меня осталась только одна мечта – увидеть другие части Дирвуда. С детства не была за пределами Бухты Непокорности".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Я буду нечестной женщиной, если после такого возьму с тебя плату".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Я буду нечестной женщиной, если после такого возьму с тебя плату".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Я буду нечестной женщиной, если после такого возьму с тебя плату".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Это того стоило? Приходи в любое время, любовь моя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Сразу к делу, да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Подумай об этом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Знаешь, у меня есть крепость вдали от городской суеты. Буду рад видеть тебя там."</DefaultText>
+      <FemaleText>"Знаешь, у меня есть крепость вдали от городской суеты. Буду рада видеть тебя там."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Уйти, дрожа коленями] "До следующей встречи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Меня не надо приглашать дважды". Она подмигивает.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

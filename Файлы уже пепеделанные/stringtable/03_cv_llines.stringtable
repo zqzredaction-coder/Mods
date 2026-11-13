@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_llines</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Она облокачивается на стойку, постукивая по дереву выкрашенными в черный цвет ноготками. "Чего тебе?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Плесни чего-нибудь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Расскажи мне об этом месте".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Она удивленно приподнимает бровь. "Все в Бухте Непокорности – от чужеземных моряков до приезжих крестьян – знают о «Соленой мачте», где девки не просто раздвигают ноги, а ещё и сами платят хозяйке за место у стойки".
+
+Она кивает на стоящую неподалеку аумауа. "Если у тебя есть еще вопросы, поговори с Мэй".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Кто-нибудь из твоих клиентов хочет поработать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Им же нужно откуда-то брать деньги на эль. Поспрашивай".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

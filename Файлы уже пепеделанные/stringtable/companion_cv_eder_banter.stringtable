@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_cv_eder_banter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Сагани, а твой лис кусается?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Да".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Можно, я все равно его поглажу?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Попробуй, рука твоя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Я его поглажу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Как твоя рука?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Становится фиолетовой. Возможно, придется ее отрезать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Я предупреждала, чтобы ты его не гладил".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Если его нельзя погладить, то почему у него такая мягкая шерсть?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Эй, Алот, можно... поговорить с твоей, ээ, ну, с твоей подругой?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Что такого в Изельмир? Есть я, прямо здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Нет, нет. Вы оба классные, просто, ну, мне кажется, что я с ней маловато времени провожу, а она такая веселая. То, что она говорит..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Это вовсе не так весело, когда слышишь это в течение пятидесяти лет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"При случае угощу тебя пинтой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Спасибо, это для меня много значит, Эдер".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ах, ты тоже хочешь? Извини, я имел в виду Изельмир. Ну, тебя тоже угощу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Эй, свинка! Свинка! Ха, посмотрите на его маленький хвостик!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Эдер прищелкивает языком, смотря на собаку. "Кто тут хороший мальчик? Кому почесать животик?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Эй, может, возьмем еще одну собаку? Чтобы этой скучно не было? Просто подумал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Кис-кис-кис! Иди ко мне, поглажу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Так эти перья – благословение Хайлии? – она что, ими щекочет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Так говорят".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Везет. В моих краях при виде женщины с перьями думают, что ее отец порезвился со своими курами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Наверное, в голову деревенского парня такие мысли всегда приходят в первую очередь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ты работаешь на герцогов Вайлианских Республик, да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ак. Пока они это позволяют".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Должно быть, хорошо всегда знать, кому тебе нужно служить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ну, их пятеро, но даже при этом понять «кому» легче, чем «как»".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Мне было на удивление приятно путешествовать с тобой, Хиравиас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Как любезно с твоей стороны. Я много лет путешествовал в одиночку и рад, что у меня теперь есть спутники".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"В моих краях есть пословица об орланах: «Нету шерсти на лице – будь уверен в молодце. Шерстью все лицо покрыто – значит дверь держи закрытой». Но ты скорее относишься к первым".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ты что, мать твою, издеваешься? Что ж, у МОЕГО племени есть пословица: «Волосы темные – мысли достойные, голова светлая – дурь несусветная»".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Я тебя обидел? Я хотел сказать комплимент".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Эй, извини за то, что я сказал тогда. Об, эээ, об орланах без шерсти на лице".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ладно, все нормально. Я понял, что ты пытался сказать, и именно поэтому не вспорол тебе живот".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Я не знал, что сказал что-то плохое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Я понял, понял. Давай забудем об этом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Теперь, когда мы снова друзья, можно мне погладить тебя по шерсти?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Что? НЕТ! Тьфу, Эдер! У тебя что, семейное древо состоит из одного замкнутого квадрата?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

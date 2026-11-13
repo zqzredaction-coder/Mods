@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_food_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Здравствуйте, сир. Могу я предложить вам новые рецепты или ингредиенты? Что-нибудь, чтобы... эээ... скрасить предстоящее неблизкое путешествие? Или, если предстоящее путешествие скрашивает вас, — что-нибудь, чтобы легче было сидеть в седле".</DefaultText>
+      <FemaleText>"Здравствуйте, мэм. Могу я предложить вам новые рецепты или ингредиенты? Что-нибудь, чтобы... эээ... скрасить предстоящее неблизкое путешествие? Или, если предстоящее путешествие скрашивает вас, — что-нибудь, чтобы легче было сидеть в седле".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"И снова здравствуйте, сир. Хотите взглянуть на новые товары?"</DefaultText>
+      <FemaleText>"И снова здравствуйте, мэм. Хотите взглянуть на новые товары?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Покажи, что у тебя на продажу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Уйти, пока не потребовали расплатиться телом.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"У меня найдется что предложить даже самому изысканному гурману. И даже тому, кто ест не ртом".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_slaver</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>49</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Наконец-то! Рад, что застал вас здесь, милорд. Меня зовут Солмар. У вас найдется минутка обсудить один важный вопрос?"</DefaultText>
+      <FemaleText>"Наконец-то! Рад, что застал вас здесь, миледи. Меня зовут Солмар. У вас найдется минутка обсудить один важный вопрос?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Перейду сразу к сути. У меня в порту в Джирраре сидит дюжина рабов-орланов. Хорошие здоровые особи. В Иксамитле за таких дают хорошую цену. Надо только проплыть вдоль побережья".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Хорошо. Я слушаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Уйти, поправляя штаны] "До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Вы жестом приглашаете своих товарищей присоединиться к вам, а сами занимаете место на троне.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Я думал, может, вы сможете помочь. Вы ведь сами не из Дирвуда, как я слышал, так что точно должны меня понять".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Думаю, тебе следует продолжить свой путь вдоль побережья".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Я помогу тебе продать этих рабов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Я бы хотел обсудить это с моими товарищами".</DefaultText>
+      <FemaleText>"Я бы хотела обсудить это с моими товарищами".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Сейчас я не могу помочь тебе с этим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Вдоль побережья? Ну это немного... неразумно, как мне кажется. Мы как могли уходили от непогоды, но вот от сующих повсюду свой нос портовых чинуш вряд ли удастся так просто отбиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"С радость приму помощь! Какие у вас идеи?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Конечно, конечно".
+
+Солмар вежливо кивает и отходит, чтобы не слышать вашего разговора.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Поверь мне, проблем не будет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"В Новом Хеомаре чиновники гораздо менее назойливые. Причаливай там, и проблем не будет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Хотя, наверное, я передумал".</DefaultText>
+      <FemaleText>"Хотя, наверное, я передумала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Хм. Возможно, есть какой-нибудь другой способ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Хиравиас, доберись до Джиррары и попробуй освободить этих рабов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Подозвать своего гостя обратно.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"С удовольствием. Будет чем занять руки, пока я планирую мучительную смерть этого мужика".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Надеюсь, вы пришли к единому мнению?" Солмар, улыбаясь, подходит ближе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Подозвать своего гостя обратно.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Решение принято, я полагаю?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Солгать, невинно хлопая ресницами и пряча чужое бельё] "Мне нужно еще немного времени, чтобы разобраться в этом вопросе. Возвращайся в Джиррару. Я сообщу о своем решении".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Конечно! Благодарю за уделенное время. Буду ждать ответа".
+
+Солмар удовлетворенно кланяется и выходит из зала.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Я замолвлю словечко перед Рыцарями Горна. Твой корабль сможет причалить в Замке Флотобоя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Я попрошу Доменелов об одолжении. Лодка с припасами встретит тебя в море у Хватки Герэйна".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Я свяжусь с Дюжинами. Ты без проблем причалишь у Конца Дороги".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Что ж, хорошо. Как говорится, кто не рискует... Благодарю за совет, милорд! Вы очень помогли".</DefaultText>
+      <FemaleText>"Что ж, хорошо. Как говорится, кто не рискует... Благодарю за совет, миледи! Вы очень помогли".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Неужели? Как хорошо, что я пришел именно к вам. Ваш совет сберег мне массу времени и денег, милорд. Благодарю!"</DefaultText>
+      <FemaleText>"Неужели? Как хорошо, что я пришел именно к вам. Ваш совет сберег мне массу времени и денег, миледи. Благодарю!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"С Дюжинами? Это... ну, то есть, премного благодарен, конечно! Благодарю, милорд!"</DefaultText>
+      <FemaleText>"С Дюжинами? Это... ну, то есть, премного благодарен, конечно! Благодарю, миледи!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Я знал, что могу на вас рассчитывать, милорд! Благодарю! И, эээ... прошу передать мою благодарность и Доменелам, конечно!"</DefaultText>
+      <FemaleText>"Я знал, что могу на вас рассчитывать, миледи! Благодарю! И, эээ... прошу передать мою благодарность и Доменелам, конечно!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Перед Рыцарями Горна? Что ж... От них я бы ожидал помощи в последнюю очередь. Премного благодарен, милорд! Не буду тратить ваше время, отправлюсь в путь!"</DefaultText>
+      <FemaleText>"Перед Рыцарями Горна? Что ж... От них я бы ожидал помощи в последнюю очередь. Премного благодарен, миледи! Не буду тратить ваше время, отправлюсь в путь!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Милорд! У меня к вам срочное дело".</DefaultText>
+      <FemaleText>"Миледи! У меня к вам срочное дело".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Да. Я решил тебя вздернуть. Стража, уведите его!"</DefaultText>
+      <FemaleText>"Да. Я решила тебя вздернуть. Стража, уведите его!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Что?! Да как вы... Это безумие! Остановитесь! Со мной так нельзя!"
+
+Крики Солмара слышны даже после того, как его вытащили из зала.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Дать 5000 мп] "Я избавлю тебя от них. Вот деньги".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Чудесно! Это полностью решит проблему! Могу я обращаться к вам по таким вопросам в будущем?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Милорд, что вы планируете сделать с этими орланами?"</DefaultText>
+      <FemaleText>"Миледи, что вы планируете сделать с этими орланами?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Освободи их".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"В Спиренто за них дадут еще больше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Нам очень повезло, что на троне сидит такой великодушный правитель. Хотелось бы, чтобы в ваши земли последовало еще больше обитателей".</DefaultText>
+      <FemaleText>"Нам очень повезло, что на троне сидит такая великодушная правительница. Хотелось бы, чтобы в ваши земли последовало еще больше обитателей".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Поняла. Конечно, я все устрою. Покупателей не придется долго искать, это точно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"И вот тут начинаются трудности. У меня нет денег на то, чтобы загрузить на корабль запасы на все путешествие. По дороге придется зайти в порт Дирвуда, а это чревато тем, что мои товары просто будут арестованы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Надо заметить, дирвудские законы совершенно не подходят добропорядочным торговцам за пределами Бухты Непокорности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Гм. Видимо, у вас гораздо больше опыта в общении с местными. Строгость законов компенсируется необязательностью их исполнения, да?" 
+
+Солмар задумчиво поглаживает усы.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

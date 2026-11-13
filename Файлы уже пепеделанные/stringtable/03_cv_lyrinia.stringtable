@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_lyrinia</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Молодая гномиха задирает подол, чтобы показать вам мускулистую ногу. "Поверь мне, ты никогда и близко ничего подобного не пробовал".</DefaultText>
+      <FemaleText>Молодая гномиха задирает подол, чтобы показать вам мускулистую ногу. "Поверь мне, ты никогда и близко ничего подобного не пробовала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Что ты имеешь в виду?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Сколько?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Уйти, поправляя штаны] "Не сейчас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Скажу сразу – меня не так-то просто утомить". Она хлопает по гладкому, твердому бедру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"А что, я могла бы карабкаться по такому здоровяку всю ночь". Она хлопает по гладкому, твердому бедру.</DefaultText>
+      <FemaleText>"А что, я могла бы кувыркаться с такой красоткой всю ночь". Она хлопает по гладкому, твердому бедру.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Лириния смеряет вас взглядом. "Говорят, мы должны отблагодарить тебя за то, что остановил этих бандитов. За три сотни медяков я предлагаю тебе ночь, от которой тебе крышу снесет".</DefaultText>
+      <FemaleText>Лириния смеряет тебя взглядом. "Говорят, мы должны отблагодарить тебя за то, что остановила этих бандитов. За три сотни медяков я предлагаю тебе ночь, от которой тебе крышу снесет".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Шесть сотен медяков за ночь, от которой тебе крышу снесет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Заплатить 600 мп] "Начнем!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Заплатить 300 мп] "Начнем!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Четыре сотни медяков за ночь, от которой тебе крышу снесет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Заплатить 400 мп] "Начнем!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ищешь, где покувыркаться?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Она потирает ляжки. "Я так увлеклась, что потянула мышцу. Очередной довод в пользу того, что нужно валить из этого города. Увидеть другие страны. Размяться, в конце концов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Выносливей тебя еще никого не встречала. Забери деньги и возвращайся еще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Выносливей тебя еще никого не встречала. Забери деньги и возвращайся еще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Выносливей тебя еще никого не встречала. Забери деньги и возвращайся еще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Возвращайся, как будешь готов повторить".</DefaultText>
+      <FemaleText>"Возвращайся, как будешь готова повторить".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Начнем!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Не сейчас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Если все-таки решишься, жду тебя в своей крепости..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Уйти, подмигнув] "Еще увидимся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ну тогда не удивляйся, если я приеду…"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

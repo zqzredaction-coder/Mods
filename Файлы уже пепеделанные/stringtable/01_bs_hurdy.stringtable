@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_bs_hurdy</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Огромный аумауа приветственно поднимает руку, и под килтом у него качается что-то такое, от чего две проходящие мимо матроски краснеют и оглядываются.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Лучше идти к Компасу Анслойга по суше. Слишком много кораблей напоролось там на рифы".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Даэдон говорит, что он может попасть в панд со сдвижной палубы".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

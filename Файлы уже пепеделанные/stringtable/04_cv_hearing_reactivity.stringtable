@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_hearing_reactivity</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Узнаю тебя. Ты давал показания на слушании".</DefaultText>
+      <FemaleText>"Узнаю тебя. Ты давала показания на слушании".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ты был на слушаниях сегодня. Хорошо говорил".</DefaultText>
+      <FemaleText>"Ты была на слушаниях сегодня. Хорошо говорила".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Что ты сейчас делал?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ты разве не с Дюжинами?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Я вывел нескольких анимансеров из здания через заднюю дверь. Но многие не успели выбраться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Я был. Но то, что я слышал на слушаниях сегодня..." Он качает головой.
+
+"У меня все наоборот. Если бы это было хорошо для герцога, то было бы хорошо и для меня. Даже если его убил анимансер, это не значит, что мы должны винить их всех".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Это", – он показывает на пламя у себя за спиной, – "не то, чего мы хотели".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Уйти, покачивая бёдрами] "Мне пора".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Он кивает. "Скройся. Пережди где-нибудь. Удачи, друг".</DefaultText>
+      <FemaleText>Он кивает. "Скройся. Пережди где-нибудь. Удачи, подруга".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Старайся не высовываться, пока все не уляжется".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Это к лучшему".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Что здесь случилось?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Почему ты это сделал?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Уйти, поправляя штаны] "Мне пора".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Анимансеры. Некоторые из них пытались выбраться через окно в заднем конце Лечебницы. Я не мог позволить им уйти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Герцог... он старался поступать наилучшим образом, и за это они убили его. Это произошло прямо у меня на глазах".
+
+"Я знаю, что мы должны были поддерживать порядок, но Рыцари выбрали неправильную сторону. Анимансия слишком опасна. Все как ты говорил".</DefaultText>
+      <FemaleText>"Герцог... он старался поступать наилучшим образом, и за это они убили его. Это произошло прямо у меня на глазах".
+
+"Я знаю, что мы должны были поддерживать порядок, но Рыцари выбрали неправильную сторону. Анимансия слишком опасна. Все как ты говорила".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Он кивает. "На улицах небезопасно. Удачи тебе, незнакомец. Я собираюсь остаться и посмотреть, как горит это место. Хочу запомнить, что мы сделали сегодня".</DefaultText>
+      <FemaleText>Он кивает. "На улицах небезопасно. Удачи тебе, незнакомка. Я собираюсь остаться и посмотреть, как горит это место. Хочу запомнить, что мы сделали сегодня".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

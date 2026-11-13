@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_kolfecg</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Молодой эльф удивленно прищуривается. "Ты не можешь так вламываться в чужой дом! Ты кем себя возомнил, а?"</DefaultText>
+      <FemaleText>Молодой эльф удивленно прищурился. "Ты не можешь так вламываться в чужой дом! Ты кем себя возомнила, а?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"И что теперь?" Он явно нервничает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ты выразился предельно ясно. Пожалуйста, уходи".</DefaultText>
+      <FemaleText>"Ты выразилась предельно ясно. Пожалуйста, уходи".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Я – друг Бриканты Доменел".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ты кто?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Уйти, дрожа коленями.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Эльф, который здесь живет! Теперь пошел прочь!"</DefaultText>
+      <FemaleText>"Эльф, который здесь живет! Теперь пошла прочь!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Он отступает на шаг назад. "Подожди минутку. Я не связываюсь с Доменелами, понимаешь? Конечно, мы можем оставить это между нами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Я пощажу тебя, но лучше бы тебе покинуть Бухту Непокорности. Бриканта держит зуб на тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Чем ты так ее разозлил?"</DefaultText>
+      <FemaleText>"Чем ты так ее разозлила?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Мне не надо повторять". Он бросается к двери. "Они не найдут меня, клянусь. Да благословит тебя Ондра! – пусть Ондра даст тебе мокрую постель!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Атаковать – жёстко, без смазки] "Боюсь, Бриканта Доменел не прощает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Атаковать – как отодрать, только мечом] "Доменелы не знают пощады. Я тоже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Избить его] "Будь благодарен, что я лишь отходил тебя".</DefaultText>
+      <FemaleText>[Избить его] "Будь благодарен, что я лишь отходила тебя".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Избить его] "Если я не задам тебе трепку, Бриканта отправит сюда того, у кого рука потяжелей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Я сказал ей, что она не в моем вкусе! Ну, может быть, тогда я выразился не так… изящно, но я же не хотел ввязываться в неприятности с самым опасным человеком в Бухте Непокорности. Откуда мне было знать, что она примет это так близко к сердцу?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Пожалуйста, нет…"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

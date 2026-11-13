@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_woedica_mercenary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>При вашем приближении наемник внимательно за вами следит, держа оружие наготове. "Что ты тут делаешь? Ты вроде не один из этих, в масках".</DefaultText>
+      <FemaleText>При вашем приближении наемник внимательно за вами следит, держа оружие наготове. "Что ты тут делаешь? Ты вроде не одна из этих, в масках".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Расслабься. Как бы я знал, куда идти, если не был бы одним из них?"</DefaultText>
+      <FemaleText>"Расслабься. Как бы я знала, куда идти, если не была бы одной из них?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Что тут происходит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Раз ты не знаешь, то тебе тут точно не место".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Он тщательно обдумывает услышанное, затем кивает. "Хорошо. Заходи и найди Аколита. Она даст тебе задание. Скорее всего, их собрание в большом зале почти закончилось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Охранник резко свистит, и вы слышите крики тревоги вдалеке...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Не знаешь, что тут происходит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Дружеский совет – не задавай вопросов. Просто иди и делай, что тебе сказали".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Что это за место?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Он качает головой. "Насколько я знаю, мы сейчас находимся под Первыми Огнями. Наверное, под руинами храма".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Атаковать – жёстко, без смазки] "Ты прав, но, с другой стороны, я иду туда, куда хочу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Давай побыстрее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Наемник смотрит себе под ноги. "Пожалуйста, проходи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Он старается не смотреть на вас. "Могу чем-то помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Что тут происходит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Расскажи, что это за место".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Он поднимает руки. "Не имею малейшего понятия, честное слово. Мы просто следим, чтобы сюда не проходили непрошеные гости, как сказала нам ваша Аколит. И ни о чем не спрашиваем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Насколько я могу сказать, мы сейчас находимся под Первыми Огнями. Наверное, под руинами храма".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Что-нибудь еще? Кажется, там внутри уже начали".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Я оставил маску внутри. Пропусти".</DefaultText>
+      <FemaleText>"Я оставила маску внутри. Пропусти".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Осторожней, Хранитель. Этот разум остер... он пытается понять твои мотивы..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Наемник смотрит себе под ноги. "Пожалуйста, проходи". Его взгляд падает на ваш отряд. "Ты ведь знаешь, Аколит не любит гостей. На твоем месте я оставил бы своих друзей в главном зале".
+
+Он переминается с ноги на ногу. "Она уже недовольна тем, что ты опоздал. Не стоит усугублять".</DefaultText>
+      <FemaleText>Наемник смотрит себе под ноги. "Пожалуйста, проходи". Его взгляд падает на ваш отряд. "Ты ведь знаешь, Аколит не любит гостей. На твоем месте я оставил бы своих друзей в главном зале".
+
+Он переминается с ноги на ногу. "Она уже недовольна тем, что ты опоздала. Не стоит усугублять".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Дать 350 мп] "Ты ничего не видел".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Он почесывает потную ладонь. "Что там происходит – не моя забота. Мои ребята оставят тебя в покое, но ничего не обещаю насчет тех, которые там, в масках".
+
+Он забирает предложенные вами деньги и отворачивается. "Ты сам по себе, ясно? Я тебя не видел, и мы с тобой не говорили".</DefaultText>
+      <FemaleText>Он почесывает потную ладонь. "Что там происходит – не моя забота. Мои ребята оставят тебя в покое, но ничего не обещаю насчет тех, которые там, в масках". Он забирает предложенные вами деньги и отворачивается. "Ты сама по себе, ясно? Я тебя не видел, и мы с тобой не говорили".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

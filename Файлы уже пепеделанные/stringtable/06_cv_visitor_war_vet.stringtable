@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_war_vet</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>35</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Милорд. Не хотела бы вас беспокоить, но... мне бы пригодилась ваша помощь в вопросе личного характера".</DefaultText>
+      <FemaleText>"Миледи. Не хотела бы вас беспокоить, но... мне бы пригодилась ваша помощь в вопросе личного характера".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Об этом... сложней говорить, чем я думала. Меня зовут Одейна. Я сражалась на Войне Святого, как и большинство моих сородичей. Я выполняла приказы, не более, но как-то со временем заработала себе репутацию".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Хорошо. Я слушаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Уйти, подмигнув] "Не сейчас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вы подзываете своих товарищей и даете знак, чтобы посетительница изложила свою просьбу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"То, что я сделала... Я почти не сплю. Меньше всего мне нужно внимание. Я просто хочу спокойствия. Пожалуйста. Вы – единственный, к кому я могу обратиться".</DefaultText>
+      <FemaleText>"То, что я сделала... Я почти не сплю. Меньше всего мне нужно внимание. Я просто хочу спокойствия. Пожалуйста. Вы – единственная, к кому я могу обратиться".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Кажется, тебе не помешало бы отдохнуть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Тебе не следует скрываться от прошлого".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Может быть, один из моих товарищей сможет тебе помочь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Сейчас я не могу тебе помочь с этим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"То есть, уйти в леса? В Бухте Непокорности покоя мне не будет. Такое впечатление, что половина моих соседей стали Дюжинами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Не все так просто. У меня нет выбора. Каждый день мне напоминают о том, что я делала. А я до сих пор не уверена, что поступала правильно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Да? Чем?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Эдер прошел войну. Уверен, он сможет что-то посоветовать".</DefaultText>
+      <FemaleText>"Эдер прошел войну. Уверена, он сможет что-то посоветовать".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Манеха хороший слушатель. Ты сможешь излить ей душу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Дать ей 5000 мп] "Тебя не так часто будут узнавать за пределами Дирвуда. Я дам тебе денег на переезд".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Я свяжусь с Дюжинами и попрошу их тебя не трогать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ясно. Значит, придумаю что-то другое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Не могу сказать, что меня часто благодарят за дельные советы, но, возможно, мы сможем кое о чем потолковать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Я тоже повидала немало битв. А тем, кто такое не пережил, сложно знать, каково это на самом деле".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Правда? Это было бы замечательно. Мне достаточно будет хотя бы немного отдохнуть, я уверена. Спасибо, милорд!"</DefaultText>
+      <FemaleText>"Правда? Это было бы замечательно. Мне достаточно будет хотя бы немного отдохнуть, я уверена. Спасибо, миледи!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Это... ух-ты. Не знаю, что и сказать! Я очень вам благодарна! Соберу свои пожитки, найму первую же повозку и уеду. Спасибо, милорд!"</DefaultText>
+      <FemaleText>"Это... ух-ты. Я не знаю, что и сказать! Я очень вам благодарна! Соберу свои пожитки, найму первую же повозку и уеду. Спасибо, миледи!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Да, это... Думаю, это поможет. Спасибо, лорд [Player Name]. Вы даже представить не можете, как много это для меня значит".</DefaultText>
+      <FemaleText>"Да, это... Думаю, это поможет. Спасибо, леди [Player Name]. Вы даже представить не можете, как много это для меня значит".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Что вы предлагаете?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Можешь оставаться здесь, сколько захочешь, пока не будешь готова вернуться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Вы это сделаете? Огромное вам спасибо, лорд [Player Name]! Вы хороший мужчина".
+
+Одейна кланяется с заметным облегчением.</DefaultText>
+      <FemaleText>"Вы это сделаете? Огромное вам спасибо, леди [Player Name]! Вы хорошая женщина".
+
+Одейна кланяется с заметным облегчением.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Тебе не нравится, что тобой восхищаются? Какая же ты трусливая и неблагодарная!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Может быть. Думаю, я получила свой ответ. Спасибо, что уделили мне время, милорд". 
+
+На бесстрастном лице Одейны не проявляется ни гнев, ни недовольство. Она учтиво наклоняет голову и поворачивается, чтобы уйти.</DefaultText>
+      <FemaleText>"Может быть. Думаю, я получила свой ответ. Спасибо, что уделили мне время, миледи". 
+
+На бесстрастном лице Одейны не проявляется ни гнев, ни недовольство. Она учтиво наклоняет голову и поворачивается, чтобы уйти.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Не падай духом! Ты не одна воевала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Я..." Одейна вздыхает. "Да. Вы правы. Спасибо, что уделили мне время, лорд [Player Name]".
+
+Она наклоняет голову и поворачивается, чтобы уйти.</DefaultText>
+      <FemaleText>"Я..." Одейна вздыхает. "Да. Вы правы. Спасибо, что уделили мне время, леди [Player Name]".
+
+Она наклоняет голову и поворачивается, чтобы уйти.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Они называют меня героем. На улицах жмут руку и хвалят. Дюжины ведут себя так, словно я образец для подражания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Есть минутка? Хотел бы с вами поговорить".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

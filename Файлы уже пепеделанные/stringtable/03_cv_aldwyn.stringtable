@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_aldwyn</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Длинные волосы эльфа подчеркивают высокие скулы и длинный, точеный нос. "Не каждый день в Клубе встречается свежая кровь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ты кто?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Сколько?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Уйти, придерживая трусы] "Ну, я пойду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Всего две сотни для героя Дара Ондры." Он подмигивает: «А шлюхам из Дара Ондры я бы поменьше».</DefaultText>
+      <FemaleText>"Всего две сотни для героя Дара Ондры, милая." Он подмигивает: «А шлюхам из Дара Ондры я бы поменьше».</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Всего шесть сотен на хлеб насущный, пока у нас с тобой пиршество любви".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Я – уроженец Дирвуда и мастер тонких искусств. Если ты ищешь навык и изящество, то ты по адресу". Его точеные пальцы обвивают винный кубок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Заплатить 200 мп] "Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Заплатить 600 мп] "Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Всего четыре сотни на хлеб насущный, пока у нас с тобой пиршество любви".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Заплатить 400 мп] "Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"После ухода Сирил кто-то должен был занять ее место в «Соленой мачте»".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Всего восемь сотен на хлеб насущный, пока у нас с тобой пиршество любви".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Всего шесть сотен на хлеб насущный, пока у нас с тобой пиршество любви".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Всего четыре сотни для героя Дара Ондры." Он подмигивает: «А шлюхам из Дара Ондры я бы поменьше».</DefaultText>
+      <FemaleText>"Всего четыре сотни для героя Дара Ондры, милая." Он подмигивает: «А шлюхам из Дара Ондры я бы поменьше».</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Заплатить 400 мп] "Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Заплатить 600 мп] "Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Заплатить 800 мп] "Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Я все ждал, когда же ты придешь. Хочешь отдохнуть?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Он закрывает глаза и вздыхает. "Знаешь, я уже какое-то время думаю, что из этого города пора бежать. Открою лавочку в деревне..." Он встает и окидывает вас оценивающим взглядом. "Если бы мне было где остановиться, возможно, мы бы виделись почаще".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ты отрада очей моих. Здесь тебе всегда рады".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ты отрада очей моих. Здесь тебе всегда рады".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ты отрада очей моих. Здесь тебе всегда рады".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Надеюсь, ты позволишь служить тебе в следующий раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"В моей крепости есть свободная кровать..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Уйти, придерживая трусы] "Увидимся в следующий раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Да, пожалуйста".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Боюсь, не сейчас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ты отрада очей моих. Здесь тебе всегда рады".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Ты отрада очей моих. Здесь тебе всегда рады".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ты отрада очей моих. Здесь тебе всегда рады".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Я буду ждать тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

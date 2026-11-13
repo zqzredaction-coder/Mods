@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1012_cv_scouts</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>64</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вы чувствуете резкую, внезапную боль в голове и немедленно следом за ней суровый и чужой голос.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ваш вождь попросил нас собрать образцы адры, чтобы помочь колонии".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Хороший паук".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Я пробиваюсь сюда с поверхности. Неужели вы думаете, что остановите меня? Прочь с дороги, а не то пожалеете о каждом своем принятом решении".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"...Тчарек просит это?" Визрак тихо шипит. "У... этого?" Вы чувствуете приглушенную волну упрямой злобы. "Тогда иди. Адровые люди раздавят его, как зайца, и Тчарек снова пошлет нас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"У него хорошие глаза". Существо смотрит на огромное чудовище цвета кости рядом с ним и издает короткий, резкий свист. "Она любит лесть. Сладкие слова как приправа для крови".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Визрак колеблется, подергивая жвалами. Остальные за его спиной переглядываются. "... Оно проходит", говорит существо наконец, отодвигаясь в сторону. Вы проходите мимо, а они наблюдают за вами с опаской.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Хссс! Не беспокой нас больше, [Player Race]".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Тч. Его не было слишком долго. Оно нашло, что ищет Тчарек?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Уйти, оставив запах секса] "Пока нет. Я продолжу поиски".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Оно живет. И воняет пылью и старыми душами. Есть ли у него адра для Тчарека?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Я нашел все образцы. Сейчас отнесу их вашему вожаку".</DefaultText>
+      <FemaleText>"Я нашла все образцы. Сейчас отнесу их вашему вожаку".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Солгать, скрестив пальцы и ноги.] "Еще нет. Я должен спросить у Тчарека про один из предметов".</DefaultText>
+      <FemaleText>[Солгать, скрестив пальцы и ноги.] "Еще нет. Я должна спросить у Тчарека про один из предметов".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Прочь с дороги!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Нет, стой". Оно делает шаг вперед, выпустив когти. "Дай нам то, что просил Тчарек. Это не для чужих. Ползущий червь среди гигантов". Оно шипит. "Дай сюда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Разведчик визраков издает зловещий рык, но остается на месте. "Оно слишком вольно произносит имя Тчарека. Давай. Задавай свои вопросы", – существо заходится дребезжащим, неприятным смехом, – "Кесторик ждет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ты думаешь, что напугал меня? Тчарек попросил меня сделать это, потому что вы не смогли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Твой вожак поймет, что ты лжешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Показать очищенный кристалл адры.] "Тогда, возможно, мне стоит разбить его, а вы поищите другой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Отдать предметы.] "Прекрасно. Возьми их".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Атаковать – как отодрать, только мечом] "С меня хватит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Визрак осторожно останавливается, прежде чем скользнуть вперед. "Наконец-то оно поняло". Потянувшись за адровыми образцами адры, он, однако, колеблется. Его челюсти подергиваются. "...Но оно не останется в живых, чтобы говорить с Тчареком снова". Он издает резкий свист, и его товарищи бросаются вперед. "Убить его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Вы чувствуете, как пульсирующая волна гнева внезапно исходит от визрака. "Такой умный на словах, нарушитель. Я скормлю его паукам. Пусть высосут соки из его глаз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Вы слышите низкий смех в голове. "Почему Тчарек думает о таких вещах? Имеет значение только Стравек-нарис. Наш народ. Я приведу к нему наше будущее. Я положу свои преступления рядом, и они покажутся мелкими. Наконец, я отправлюсь домой". Визрак испускает резкий, свистящий шум, и его товарищи начинают двигаться вперед. "Но нарушитель... у него нет будущего".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Я сделал это ради вашего народа. Вы настолько эгоистичны, что рискнете присвоить чужие заслуги?"</DefaultText>
+      <FemaleText>"Я сделала это ради вашего народа. Вы настолько эгоистичны, что рискнете присвоить чужие заслуги?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Визрак шипит. "Оно ничего не знает. Оно ничего не говорит. Дай мне адру".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Нет!" Вы чувствуете резкое, но чужеродное чувство тревоги в своей голове. "...Нет". Визрак сжимает свой когтистый кулак. "Тогда отведите его к Тчареку. Оно победило". Он рычит. "Я не забуду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Интриган. Лжец. Сегодня твоя взяла. Завтра – моя".</DefaultText>
+      <FemaleText>"Интриганка. Лгунья. Сегодня твоя взяла. Завтра – моя".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Хссс. Неси же. Мы ждем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Шшшкт. Иди же".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Хвала. Награда ....Не останавливайся на одной победе, [Player Race]".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Айик! Калетуа ар... Наэ. [Player Race]. Аэдир васти". Существо издает своеобразный трескучий звук, прежде чем его голос раздается у вас в голове еще раз. "Я называю его нарушителем. Убийцей. Жмущимся к свету. Куда оно идет?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ты говоришь немного лучше, чем ваш вожак".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Прочь с дороги, или сможешь называть меня убийцей пауков".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Я ищу Хозяина в глубинах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Я просто исследователь. Я не хочу неприятностей. Дай мне пройти, и я пойду своей дорогой".</DefaultText>
+      <FemaleText>"Я просто исследовательница. Я не хочу неприятностей. Дай мне пройти, и я пойду своей дорогой".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Нет. Оно не пройдет. Оно останется здесь на время". Существо испускает высокий, пронзительный свист, и его товарищи движутся к вам. "Прощай, нарушитель".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Это оскорбляет нас. Я вырву память об этом месте из его – оно... Оно говорит с нашим вожаком? Оно посещает гнездо?" Вы чувствуете отзвук тревоги визрака у себя в голове. "...С какой целью?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Это не твое дело".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Оно хочет в рабство?" Существо выпускает раскатистое шипение, возможно, смеясь. "Там нет хозяина. Все мертвы ниже... Ты тоже сейчас будешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Хссс! Не беспокой нас больше, [Player Race]".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Тогда оно не имеет важной цели". Существо испускает высокий, пронзительный свист, и его спутники движутся к вам. "Прощай, нарушитель".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Откуда ты знаешь аэдирский?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Существо издает своеобразный шипящий шум. "Оно думает о редком сокровище, этот нарушитель. Этот пожиратель падали. Я тоже могу питаться падалью, и выбирать любые слова". У вас в голове возникает зудящее чувство. "Его язык..." Он делает паузу. "...отвратителен", говорит он с удовольствием.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Визрак издает раздраженный рык, клацая жвалами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Один из других разведчиков вдруг решается заговорить. "Кесторик... животное говорит разумно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Что оно знает о Бесконечных Путях?" Визрак рычит. "Оно идет по ним совсем недолго... Оно использует обман, чтобы пройти мимо адровых людей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Что? Оно мяучет как детеныш скульдра".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Зачем драться со мной? Я отдам это Тчареку, и мы оба получим, что хотели".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Атаковать и завалить, как шлюху в борделе] "Довольно. Вы хотели бой, вы его получите".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Замахнуться оружием.] "Вы уверены?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Я очень хитер".</DefaultText>
+      <FemaleText>"Я очень хитра".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Визрак какое-то мгновение смотрит на вас, издавая гортанный рык.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Вы чувствуете беспокойство разведчиков. "Кесторик..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Нет. Достаточно. Оно получит то, что хочет". Визрак делает агрессивный жест когтистой лапой. "Оно вернется к Тчареку. Оно оставит нас с миром. Иди".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Визрак долго изучает вас в молчании, черные глаза блестят. Наконец, он разочарованно и шумно шипит. "Я неправильно назвал его. Это вредитель, а не нарушитель".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Иди же. Отнеси эти вещи Тчареку. Это гнусная вещь, и я не хочу смотреть на нее. Оно одержало свою победу. Когда Бесконечные Пути поглотят его во тьме, я одержу свою".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Подожди! Ваш вождь попросил нас собрать адровые образцы для колонии".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Атаковать – грубо, как в подворотне.] "Если хочешь драться, так тому и быть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Визрак припадает на одно колено. Из его горла доносится шипение и бульканье. "Это... подлая, коварная вещь. Я проклинаю его яйца, его семью. Да найдет оно свою смерть во тьме".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Взять пленного.] "Ты так просто не отделаешься. Я забираю тебя с собой в Каэд Нуа".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Как пожелаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Прикончи его, червь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Взять пленного.] "Ты так просто не отделаешься. Я забираю тебя с собой в Каэд Нуа".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

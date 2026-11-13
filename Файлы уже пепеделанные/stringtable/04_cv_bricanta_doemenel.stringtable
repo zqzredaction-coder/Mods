@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_bricanta_doemenel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>46</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Должно быть, ты друг Абрекана".</DefaultText>
+      <FemaleText>"Должно быть, ты подруга Абрекана".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Женщина уже в далеко зрелом возрасте, но на ее лице нет ни одной морщины. Ее большие зеленые глаза внимательно смотрят из-за завесы блестящих черных волос. Она изучает вас. "Не думаю, что мы встречались. Я бы тебя запомнила".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Я бы хотел, чтобы ты уменьшила цену семян горькой тыквы для «Соленой мачты». Считай это специальным одолжением для меня".</DefaultText>
+      <FemaleText>"Я бы хотела, чтобы ты уменьшила цену семян горькой тыквы для «Соленой мачты». Считай это специальным одолжением для меня".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Хорошо. Ты уж точно оказал нам немало услуг". Она подмигивает.</DefaultText>
+      <FemaleText>"Хорошо. Ты уж точно оказала нам немало услуг". Она подмигивает.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Насколько я понимаю, ты контролируешь семена горькой тыквы в Бухте Непокорности. Я бы хотел, чтобы цена для «Соленой мачты» была уменьшена".</DefaultText>
+      <FemaleText>"Насколько я понимаю, ты контролируешь семена горькой тыквы в Бухте Непокорности. Я бы хотела, чтобы цена для «Соленой мачты» была уменьшена".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Она сужает глаза. "Не знаю, кто тебе это сказал, но даже если это было бы правдой, ты просишь об одолжении. А их я делаю только для друзей". 
+
+Она наклоняется ближе, сжимая свои накрашенные губы. "Но мы можем стать друзьями. Только сначала мне нужно кое-что от тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Услугу какого рода ты хочешь получить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Она скрещивает руки и разглядывает вас исподлобья. "Есть одно определенное лицо, которое, возможно, зовут Колфег. Он меня оскорбил. Я хочу, чтобы он стал примером для других ".</DefaultText>
+      <FemaleText>Она скрещивает руки и разглядывает вас исподлобья. "Есть одно определенное лицо, которое, возможно, зовут Колфег. Он меня оскорбил. Я хочу, чтобы он стал примером для других ".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Тот эльф в Даре Ондры? Он уже мертв".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Небольшая улыбка поднимает уголки ее губ. "Считай меня довольным клиентом". Она засовывает мешочек вам под пояс. "Если захочешь, в любое время можешь посмотреть на мои особые товары".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"А что именно мне с ним сделать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Не хотела бы ограничивать твое воображение". Она ухмыляется, морща нос. "Просто сделай так, чтобы он выучил урок".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Думаю, я смогу помочь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Вот и молодец!". Она подмигивает.
+
+"Я знаю, что этот крысеныш прячется где-то в Даре Ондры. Когда разберешься с ним, возвращайся ко мне. У меня есть кое-какие товары, которые я берегу для особых друзей".</DefaultText>
+      <FemaleText>"Вот и умница!". Она подмигивает.
+
+"Я знаю, что этот крысеныш прячется где-то в Даре Ондры. Когда разберешься с ним, возвращайся ко мне. У меня есть кое-какие товары, которые я берегу для особых друзей".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ну, надо – так надо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Звучит весело".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Считай, что уже сделано".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Угрожать: «Поставлю раком – не сядешь»] "Я не выполняю приказы. Я их отдаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ой, надо же". Зрачки ее зеленых глаз расширяются. "Было бы интересно. Если бы в соседней комнате не было моего мужа".
+
+Она проводит длинным ногтем по вашей руке. "Я, конечно, ценю твое предложение, но мне нужна услуга другого рода".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Может быть, позже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Как хочешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Сначала разберись с Колфегом, а потом я посмотрю, что могу сделать для тебя и твоих... друзей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Чем ты здесь занимаешься?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Она оглядывает вас с ног до головы. "Скажем так: я – торговец. Торгую определенными товарами, которые попадаются моим предприимчивым детям и мужу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Но я торгую только с особыми друзьями. А если ты хочешь, чтобы между нами были отношения такого рода, тебе нужно кое-что сделать для меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Уйти, придерживая трусы.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Всегда рада тебя видеть". Голос у Бриканты низкий и мягкий, как мурлыканье кошки. "Чем могу помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Уже вернулся? Вот бы мой муж так быстро возвращался".</DefaultText>
+      <FemaleText>"Уже вернулась? Вот бы мой муж так быстро возвращался".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ну вот, я тебе помог. Сделаешь скидку на семена горькой тыквы для друзей Мэй?"</DefaultText>
+      <FemaleText>"Ну вот, я тебе помогла. Сделаешь скидку на семена горькой тыквы для друзей Мэй?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Это будет справедливо. Никогда не даю повода говорить, что получаю больше, чем отдаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Я разделался с Колфегом".</DefaultText>
+      <FemaleText>"Я разделалась с Колфегом".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Этому я очень рада". Она подносит темно-красный ноготь к губам. "Расскажи мне. До мельчайших подробностей". Она покусывает кончик ногтя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Он мертв".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Я убил этого жалкого глупца".</DefaultText>
+      <FemaleText>"Я убила этого жалкого глупца".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"И, похоже, получил от этого удовольствие. Я знала, что ты хорошо подходишь для такой работы".</DefaultText>
+      <FemaleText>"И, похоже, получила от этого удовольствие. Я знала, что ты хорошо подходишь для такой работы".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"И, похоже, получил от этого удовольствие".</DefaultText>
+      <FemaleText>"И, похоже, получила от этого удовольствие".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Солгать, как шлюха, клянущаяся в верности] "Он мертв".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Небольшая улыбка поднимает уголки ее губ. "Считай меня довольным клиентом". Она засовывает мешочек вам под пояс. "Если захочешь, в любое время можешь посмотреть на мои особые товары".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Я его хорошенько побил. Думаю, он усвоил свой урок".</DefaultText>
+      <FemaleText>"Я его хорошенько побила. Думаю, он усвоил свой урок".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Небольшая улыбка поднимает уголки ее губ. "Считай меня довольным клиентом". Она засовывает мешочек вам под пояс. "Если захочешь, в любое время можешь посмотреть на мои особые товары".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Я избил этого глупца до полусмерти".</DefaultText>
+      <FemaleText>"Я избила этого глупца до полусмерти".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"И, похоже, получил от этого удовольствие. Я знала, что ты хорошо подходишь для такой работы".</DefaultText>
+      <FemaleText>"И, похоже, получила от этого удовольствие. Я знала, что ты хорошо подходишь для такой работы".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"И, похоже, получил от этого удовольствие".</DefaultText>
+      <FemaleText>"И, похоже, получила от этого удовольствие".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Покажи мне, что ты продаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_raed_fampyr</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Пока вы приближаетесь к улыбающейся женщине, стоящей у дороги, вас не отпускает чувство тревоги. Даже издалека заметно, что у нее нездоровый бледный вид, а стеклянные глаза молочно-белого цвета, как у мертвецов. Ей очевидно нелегко сохранять выражение лица.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Я провожу тебя к нему, если хочешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Да. Отведи меня к нему".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Кто ты?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Атаковать – грубо, как в подворотне] "Чудовище, ты умрешь вместе с ним!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Верная служанка, которую господин наградил за хорошую работу. Как и он, я не вернусь в цикл и буду целую вечность бродить по этой земле. Если хочешь получить ответы на свои вопросы, задай их ему".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Уйти, виляя задом] "Не сейчас. Мне нужно подготовиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Тогда пойдем. Он ожидает тебя там". Она указывает на самую высокую башню крепости и ведет вас по разводному мосту.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ты слишком долго откладывал эту встречу. Примешь ли ты вызов моего господина?"</DefaultText>
+      <FemaleText>"Ты слишком долго откладывала эту встречу. Примешь ли ты вызов моего господина?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Лорд Редрик ждет тебя". Улыбка женщина становится еще шире. "Хорошо, что ты не отверг его вызов. Он опасался, что ты можешь оказаться трусом".</DefaultText>
+      <FemaleText>"Лорд Редрик ждет тебя". Улыбка женщина становится еще шире. "Хорошо, что ты не отвергла его вызов. Он опасался, что ты можешь просто струсить".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Что ж, готовься. Но учти, тебе не скрыться от мести Редрика, куда бы ты ни сбежал".</DefaultText>
+      <FemaleText>"Что ж, готовься. Но учти, тебе не скрыться от мести Редрика, куда бы ты ни сбежала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Лорд Редрик ожидает тебя в башне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Значит, это правда. Берас отметил тебя". Бледное создание смотрит вдаль. "Великий герой бога смерти. Бледная Рыцарь в тесных латах, похоже, тебя выбрала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Еще более великий, чем тот, которому я служу". Внезапно она падает на одно колено. "Если вы примите меня, я стану вашей преданной слугой, милорд. Любой приказ, любое поручение – я сделаю для вас все".</DefaultText>
+      <FemaleText>"Еще более великий, чем тот, которому я служу". Внезапно она падает на одно колено. "Если вы примите меня, я стану вашей преданной слугой, миледи. Любой приказ, любое поручение – я сделаю для вас все".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Очень хорошо. Отправляйся в мою крепость в Каэд Нуа".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Взять в услужение ходячего мертвеца? Нет, спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Фамир поднимается и кланяется вам. "Спасибо, мой господин! Я сейчас же туда отправлюсь".</DefaultText>
+      <FemaleText>Фамир поднимается и кланяется вам. "Спасибо, моя госпожа! Я сейчас же туда отправлюсь".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Мы будем исполнять волю Двуликого!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Победа достается сильнейшему".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Понятно". Фамир встает и склоняет голову. "Да благословит тебя Двуликий! А я пойду своей дорогой".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

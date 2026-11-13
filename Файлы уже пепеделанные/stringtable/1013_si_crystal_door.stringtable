@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\1013_si_crystal_door</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Перед вами большая, богато украшенная энгвитанская дверь. По обе стороны расположены крупные кристаллы, светящиеся слабым светом. Вы чувствуете особые перемены в воздухе, как будто кто-то присутствует рядом, но никого нельзя разглядеть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Вы слышите шепот, возникающий из воздуха со стороны двери. Он растет в громкости и численности – множество тихо говорящих голосов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Голоса, кажется, окружают вас, сливаясь в низкий рокот, ощущаемый в груди. Они быстро и грубо говорят на языке, который вы не понимаете. Через несколько секунд они делают паузу, словно ожидая ответа. Но что-то в звуках вызывает зуд в вашем разуме, неотчетливое узнавание, которое скорее похоже на воспоминание, чем на осознанную мысль. Как вы ни пытаетесь сконцентрироваться на нем, это воспоминание ускользает, и вам становится ясно, что для того, чтобы его высвободить, простого усилия недостаточно.
+
+Через несколько мгновений голоса делают паузу, словно ожидая ответа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"... Эй?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Уйти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Произнести фразу, которую говорила баньши: "Карит! Экстер наолус Од Нуа!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Осмотреть дверь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>На обветшалой от времени двери отсутствуют какие-либо средства для ее открытия. Нет ни отверстия для ключа, ни ручки. Кажется, нужно попробовать что-то еще.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Попытаться открыть дверь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Вы толкаете, тянете, пытаетесь вышибить дверь, но она слишком тяжелая, и очевидные способы открыть ее отсутствуют.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Громовой голос произносит строку из слогов, по-видимому, разозлившись.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Внезапно, вас как будто плетью хлещет волна энергии, исходящая от двери. Голос умолкает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Ответа нет. Дверь безмолвно стоит на месте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Поговорить с голосом.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Дверь, откройся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Попробовать что-нибудь еще.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>В момент оно становится хаотичным шипением голосов, твердящих что-то наперебой, стараясь быть услышанными. Но, пока вы прислушиваетесь, голоса начинают звучать ритмично, а затем собираются в слова – фразу, повторяемую всеми одновременно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Я хочу поговорить с Хозяином в глубинах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Пропустите меня!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Под камнем и грузом лет покоится тот, кто уничтожит Смерть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Кто пришел пробудить его?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Я – враг Од Нуа. Мой меч разит его приспешников. Моя душа присягнула этой цели".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Я – слуга Од Нуа. Мой меч будет биться против его врагов. Моя душа присягнула на верность его целям".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Голоса, кажется, затаили дыхание. Вы слышите грохот камня...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>...и дверь открывается. Кристаллы по обе стороны от нее потухли, и вместе со светом ушли голоса, сначала превратившись в тихое бормотание, а затем смолкнув. Путь свободен.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>И снова нестройный рой голосов начинает звучать вокруг вас. Как один, они говорят:</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>И снова нестройный рой голосов начинает звучать вокруг вас. Как один, они говорят что-то на древнем и забытом языке, которого вы не понимаете.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Вы чувствуете особую прохладу в воздухе, и голоса становятся четким и краткими. "Здесь не пройдут предатели".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Внезапно вас настигает хлесткий удар энергии, исходящий от двери. Это резкая, колючая боль, но через несколько мгновений от нее остается только воспоминание. Голоса стихают и исчезают, оставляя вас в покое.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Я – [Player Name], законный правитель Каэд Нуа".</DefaultText>
+      <FemaleText>"Я – [Player Name], законная правительница Каэд Нуа".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Первооткрыватель".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Голоса шепчут и журчат – а затем исчезают, так быстро и неожиданно, что на вас обрушивается последовавшее молчание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Осмотреть дверь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Попытаться открыть дверь силой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>На обветшалой от времени двери отсутствуют какие-либо средства для ее открытия, кроме того, что заставляет ее говорить. Нет ни отверстия для ключа, ни ручки. Кажется, нужно попробовать что-то еще.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Вы толкаете, тянете, пытаетесь вышибить дверь, но она только скрипит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Я ищу Хозяина в глубинах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Ничего не происходит. Кажется, вас не слышат.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[Солгать, скрестив пальцы и ноги.] "Я пришел, чтобы положить конец царствованию Од Нуа".</DefaultText>
+      <FemaleText>[Солгать, скрестив пальцы и ноги.] "Я пришла, чтобы положить конец царствованию Од Нуа".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

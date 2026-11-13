@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\02_defiance_bay_first_fires\02_cv_ropata</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Здоровяк-аумауа вытирает испачканные сажей руки о подол своей туники. Под тканью угадывается такой бугор, что любая женщина на площади невольно задерживает взгляд. "Я тебя раньше в Крепости не видел. Добро пожаловать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Я могу чем-нибудь помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Покажи, что у тебя на продажу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Чем ты здесь занимаешься?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Я подмастерье мастера Данстана. Он обучает меня кузнечному делу, и еще я помогаю ему поддерживать в отличном состоянии оружие и доспехи всех рыцарей Крепости".
+
+"Кроме этого, мне доверили продажу выкованных в Крепости товаров. Купить их, конечно, может не каждый".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ты из Рыцарей?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ты хотел еще о чем-то поговорить?"</DefaultText>
+      <FemaleText>"Ты хотела еще о чем-то поговорить?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Он качает головой. "Я всего лишь новобранец и пока не дослужился до юстициара".
+
+Он ухмыляется. "Конечно, есть новобранцы – и их немало – кто зовет себя рыцарями, но только за стенами Крепости и в отсутствие настоящих юстициаров".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Можно что-нибудь купить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Я не могу тебе ничего продать без разрешения мастера Данстана. Только он решает, с кем могут торговать Рыцари".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

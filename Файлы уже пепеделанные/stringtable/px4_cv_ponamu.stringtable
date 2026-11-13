@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\px4\px4_cv_ponamu</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Я благодарен вам, что вы не прошли мимо, мой друг с запада".
+
+Перед вами стоит аумауа со спутавшимися волосами и в порванной выцветшей одежде. Его лицо изуродовано тонкими шрамами и глубокими ранами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"С возвращением, мой друг с запада! Вы пришли посмотреть на мой товар?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Эй, там! Эй!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Я не видел своих соотечественников с тех пор, как затонул мой корабль. Не думаю, что вы хотите облегчить свой кошелек".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Вы потерпели кораблекрушение?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Что вы продаете?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Покажи мне, что ты продаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Уйти, дрожа коленями] "До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Меня зовут Понаму "Презренная Птица", я летописец народа Хуаны. Странное имя, я знаю. Но мы не выбираем, как нам зваться, не так ли?"
+
+Он усмехается, проводя своей рукой по рубцеватому лицу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Да. Мы перевозили товар из Архипелага Мертвого Огня в Бухту Непокорности, когда шторм сбил нас с курса и нас вынесло сюда. Выжил только я".
+
+Он хмурится, а затем трясет головой, меняя выражение лица.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Вы должны подумать о путешествии на острова Архипелага Мертвого Огня, мой друг. Нет более красивого места в целом мире!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"На судне имеется товар с Архипелага Мертвого Огня и несколько личных вещей, все высшего качества. Я бы не продал их, но как я вернусь домой, находясь на мели?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Конечно".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

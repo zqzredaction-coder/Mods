@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_orico</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Орико ловит ваш взгляд. В его ухе покачивается золотое кольцо, а дорогой подогнанный по фигуре наряд шуршит, когда он скользит вокруг вас. "Ты застал меня врасплох. Как бы мне провести время с таким изумительным созданием?"</DefaultText>
+      <FemaleText>Орико ловит ваш взгляд. В его ухе покачивается золотое кольцо, а дорогой подогнанный по фигуре наряд шуршит, когда он скользит вокруг вас. "Ты застала меня врасплох. Как бы мне провести время с таким изумительным созданием?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ты мне скажи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Сколько?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Уйти, поправляя штаны] "Не в этот раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Он проводит пальцем по идеально ровной бородке. "Что Орико может сделать для тебя?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"О чем ты говоришь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ты не возьмешь с меня денег – и мы квиты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Хватит лести. Я знаю, как это работает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Не сможешь даже в самых отчаянных своих фантазиях".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Уйти, поправляя штаны] "Забудь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Я говорю о твоих волшебных глазах и идеальных губах. Серьезно, с твоей стороны даже иногда закрывать их – преступление".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Он откидывает голову назад и хохочет. "Смышленый парень!"</DefaultText>
+      <FemaleText>Он откидывает голову назад и хохочет. "Смышленая девчонка!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Он прижимает нежную но сильную руку к груди. "Ей-богу! Если любовник ты настолько же страстный, как и оратор, меня ждет тысяча маленьких смертей".</DefaultText>
+      <FemaleText>Он прижимает нежную но сильную руку к груди. "Ей-богу! Если любовница ты настолько же страстная, как и оратор, меня ждет тысяча маленьких смертей".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Тогда я поберегу силы для более приятных занятий".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Чтобы поверить в некоторые вещи, нужно их испытать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"За вечер, который ты запомнишь на всю жизнь, я прошу всего сотню пандов. Спасителю «Соленой мачты» полагаются скидки".</DefaultText>
+      <FemaleText>"За вечер, который ты запомнишь на всю жизнь, я прошу всего сотню пандов. Спасительнице «Соленой мачты» полагаются скидки".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"За вечер, который ты запомнишь на всю жизнь, я прошу всего три сотни пандов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Заплатить 300 мп] "Ну пошли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Заплатить 100 мп] "Ну пошли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"За вечер, который ты запомнишь на всю жизнь, я прошу всего две сотни пандов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Заплатить 200 мп] "Ну пошли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"После такого я с тебя денег не возьму. Возвращайся поскорее!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Приходи, когда захочешь испытать что-то невероятное".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Я разрываюсь между своей страстью и тягой к путешествиям. Я бы отправился странствовать по Дирвуду, но мысль о разлуке с тобой для меня невыносима..." Он прячет лицо в ладонях.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"После такого я с тебя денег не возьму. Возвращайся поскорее!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"После такого я с тебя денег не возьму. Возвращайся поскорее!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Будешь в моих краях – навести меня в моей крепости".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Уйти, пока не потребовали расплатиться телом] "Не беспокойся. Я вернусь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Он улыбается, пока вы подходите ближе. "Я тебя уже заждался. Но время, что я провел, ожидая тебя, дало мне возможность подумать... спланировать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Посмотрим, что у тебя на уме..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Я должен попросить тебя подождать еще немного".</DefaultText>
+      <FemaleText>"Я должна попросить тебя подождать еще немного".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ты видишь самые потаенные уголки моего сердца. Я обязательно зайду".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

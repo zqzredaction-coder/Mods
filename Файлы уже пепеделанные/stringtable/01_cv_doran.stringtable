@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_doran</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>103</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Перед вами на полу лежит связанный и избитый до крови мужчина. Его лицо укрыто кровоподтеками, следы крови видны в нескольких углах комнаты. Мужчина съеживается и всхлипывает при вашем приближении.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Я тебя бить не буду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Оставить его в покое.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Если ты – Пурниск, то кто же тогда внизу?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"С-самозванец! Какой-то маг по имени Нирид. Он ворвался в мой дом и связал меня! П-пытал меня... Теперь он и его люди едят мой хлеб, ломают мою мебель и торгуют свефом – в моем собственном доме!" Он моргает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Так ты торгуешь свефом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Так он просто ни с того ни с сего пришел?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Пурниск отводит взгляд, стараясь не смотреть вам в глаза. "Ну, я мог прикарманить кое-что из денег моего поставщика. Но мне эти деньги нужны были!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Пурниск взвизгивает от страха. "Конечно-конечно! Только не бей! Говори ей, что хочешь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Если думаешь, что я буду помогать мрази вроде тебя, я тебя разочарую".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Мне это не интересно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Пурниск вздрагивает. "Я знаю, это не лучшая профессия. Особенно с учетом всего, что произошло. Но деньги тут хорошие. Даже очень хорошие. И... людям нравятся всякие вещества, правда?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"А что сделал твой поставщик?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Так что случилось?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Он прислал волшебника по имени Нирид. Этого, внизу". Пурниск дергается. "Чтобы вернуть потерянные деньги и, может быть, избить меня – чего два раза ходить? Кажется, уже несколько дней прошло".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"А я что должен делать?"</DefaultText>
+      <FemaleText>"А я что должна делать?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Я сделаю это".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Мне нельзя вниз, пока он там. Я тут лежал связанный боги знают сколько. Пожалуйста, убей его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Он уже мертв".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Так, значит, ты позволишь этим подонкам прикончить меня?" Пурниск опускает голову и печально вздыхает. "Такая у меня судьба".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Пурниск облегченно вздыхает. "Ох, спасибо! Если бы я мог, я бы обязательно пошел с тобой! Но в таком состоянии я только мешать буду. Береги себя!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Снова ты! Умоляю, помоги!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Пурниск изумленно смотрит на вас. "Не верится, что этот ужас закончился!" Он слабо улыбается, а потом будто что-то вспоминает. "Ты так много для меня сделал, но, умоляю, еще одно одолжение!"</DefaultText>
+      <FemaleText>Пурниск изумленно смотрит на вас. "Не верится, что этот ужас закончился!" Он слабо улыбается, а потом будто что-то вспоминает. "Ты так много для меня сделала, но умоляю, еще одно одолжение!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Расскажи, что здесь произошло?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Нирид мертв".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Кайнра меня сюда и послала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Что за одолжение?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Прости, я уже немало потрудился".</DefaultText>
+      <FemaleText>"Прости, я уже немало потрудилась".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Пурниск быстро кивает. "Да, конечно, ты прав. И так более чем достаточно. Спасибо, друг! Если тебе что-нибудь когда-нибудь понадобится, я буду здесь".</DefaultText>
+      <FemaleText>Пурниск быстро кивает. "Да, конечно, ты права. И так более чем достаточно. Спасибо, подруга! Если тебе что-нибудь когда-нибудь понадобится, я буду здесь".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Правда?" Пурниск сияет . "Эта женщина спасла меня, даже не ведая об этом! Пожалуйста, приведи ее домой и скажи, что все снова нормально".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Я найду ее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Я сказал ей продолжать жить без тебя. Она тебя бросила – навсегда".</DefaultText>
+      <FemaleText>"Я сказала ей продолжать жить без тебя. Она тебя бросила – навсегда".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Она мертва".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Все... кончено? Он мертв?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Еще нет. Я вернусь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Спасибо тебе за всю помощь. Если найдешь Кайнру, я отплачу – не пожалеешь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Бросила?.." Пурниск потрясен. "Но мы же должны были пожениться. Не могу..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Пурниск смотрит на вас в ужасе. "Как? Моя Кайнра... Но почему? Что случилось? Быть того не может!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Снова здравствуй! Не знаю, как тебя отблагодарить. Кайнра вернулась ко мне, и с ней я быстро встану на ноги". Он улыбается. "Что-то купишь? Со скидкой, как я и обещал!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Давай посмотрим, что у тебя есть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Пока не надо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Когда вы подходите, Пурниск кашляет. Его щеки ввалились, глаза покраснели. "Снова приветствую. У меня..." Он шмыгает носом. "У меня есть кое-что на продажу, если нужно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Мужчина запинается, глядя на тебя. "Т-ты не из этих? Ох, слава Берасу! Ты не из его людей?" Он бросает нервные взгляды вам за спину. Он вытирает пот со лба и неуклюже поправляет штаны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Наверное, стоит позволить ей самостоятельно принимать решения, а не просто врать ей?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Он бросает взгляд на вас и тут же вновь его отводит. "Я должен найти Кайнру – это моя возлюбленная. Но... после того, что сделал с ней Нирид, боюсь, она не даст мне возможности объясниться". 
+
+"Но, может, тебя она выслушает. Умоляю, она где-то в Копперлейне, это ее единственный дом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"И еще, очень прошу, не рассказывай ей про свеф! И про то, что я делаю. Я отплачу, не пожалеешь. Хочешь скидку?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Да, и, наверное, я не могу заставить тебя хранить тайну. Я просто не хочу потерять ее. После того, что тут произошло, она точно не пожелает иметь дела со свефом. И со мной тоже, если узнает".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Схватить его] "А у меня такое предложение: я расскажу ей, что захочу, а ты все равно дашь мне скидку".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"О боги, хватит!.. Умоляю, хватит! Я больше не могу..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>При вашем возвращении мужчина испуганно всхлипывает и сжимается в клубок, пытаясь защитить себя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Я..." Он качает головой. "Я не знаю, кто ты такой. Меня зовут Пурниск. Это мой дом. Ты должен мне помочь!"</DefaultText>
+      <FemaleText>"Я..." Он качает головой. "Я не знаю, кто ты такая. Меня зовут Пурниск. Это мой дом. Ты должна мне помочь!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Уйти, пока не потребовали расплатиться телом] "Лучше не буду вмешиваться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Что? Стой, не уходи... Не бросай меня здесь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Лучше не буду вмешиваться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Замри, я развяжу тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Н-нет, стой!" Глаза Пурниска расширяются от страха.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Попробую уговорить его уйти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Лучше не буду вмешиваться".</DefaultText>
+      <FemaleText>"Я бы не хотела ввязываться".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Пурниск качает головой. "Ты... ты его не знаешь. Не догадываешься, на что он способен. Сам скоро увидишь".</DefaultText>
+      <FemaleText>Пурниск качает головой. "Ты... ты его не знаешь. Не догадываешься, на что он способен. Сама скоро увидишь".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Не испытывай удачу, Пурниск".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Н-нет, я и не думал, что ты! Ты и так сделал более чем достаточно. Спасибо, друг! Если тебе что-нибудь когда-нибудь понадобится, я буду здесь".</DefaultText>
+      <FemaleText>"Н-нет, я и не думал, что ты! Ты и так сделала более чем достаточно. Спасибо, подруга! Если тебе что-нибудь когда-нибудь понадобится, я буду здесь".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Пойду поговорю с ней".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>[Солгать, как шлюха, клянущаяся в верности] "Конечно. Так и сделаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Спасибо тебе! Ох, моя Кайнра. Мне ее так не хватало!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Я правда не знаю, как тебя отблагодарить! Я так скучал по моей бедной Кайнре!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"У меня... У меня тут кое-какой товар для тебя будет – в любое время! Позаботься, чтобы она была в целости и сохранности, ладно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Столько всего произошло, еще и она меня бросила? Оставь меня. Надо присесть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Еще как может. Я сам ее и убил".</DefaultText>
+      <FemaleText>"Еще как может. Я сама ее и убила".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Солгать, как изменщица, – с честным лицом и мокрыми трусами] "Понятия не имею, что там произошло".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Сожалею о твоей утрате".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Пурниск опускает взгляд на пол. Он убит горем. "Мы же должны были пожениться", – произносит от хриплым голосом, затем садится и охватывает голову руками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Пурниск теряет дар речи на несколько долгих мгновений. "Т-ты..." На его лице ясно читается горечь. "Ты обманул меня. Ты все это время работал на него, да?"</DefaultText>
+      <FemaleText>Пурниск теряет дар речи на несколько долгих мгновений. "Т-ты..." На его лице ясно читается горечь. "Ты обманула меня. Ты все это время работала на него, да?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Пришел сюда, притворился, что поможешь мне – разве это не пытки? О боги, Кайнра..." Он закрывает лицо. "Убирайся! Прочь! Я больше не выдержу".</DefaultText>
+      <FemaleText>"Пришла сюда, притворилась, что поможешь мне – разве это не пытки? О боги, Кайнра..." Он закрывает лицо. "Убирайся! Прочь! Я больше не выдержу".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Пурниск садится на пол, сосредотачивается на своем горе и больше ни на что не реагирует.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Пурниск вздрагивает при вашем приближении. "П-приветствую. Для тебя – все со скидкой, как договаривались. Выбирай, что нужно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Возвращайся, если передумаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Пока не надо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Пурниск кивает. "Т-тогда до следующего раза".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Пока не надо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Пурниск кивает. "Тогда до следующего раза".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"О-о-о-о..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"И с чего мне тебе помогать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Пурниск робеет. "... Н-ну потому что так было бы правильно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Л-ладно, я... Пойми, все мои деньги забрал Нирид. Они все еще у него! Если... если убьешь его – большая часть у него в карманах. Забирай все!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Но разве оно того стоит? Стоит того, чтобы потерять Кайнру?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Мне..." Пурниск кривится. "Мне приходится, прости. Я ничего другого не умею. Ничего, на что можно было бы прокормиться. Когда-нибудь я обязательно брошу это дело. Когда будет достаточно денег".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Кайнра бросила тебя, идиот".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Бросила?.." Пурниск потрясен. "Но мы же должны были пожениться. Я... я все это ради нее затеял!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Из-за тебя ее избили. Это тоже ради нее, да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Уйти от тебя – очень разумно с ее стороны".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Пурниск собирается возразить, но затем мешкает. Он качает головой. "Я просто хотел, чтобы она была счастлива".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Ох, Кайнра. Столько всего произошло, еще и она меня бросила? Оставь меня на пару минут. Надо присесть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Пурниск опускает плечи. "Пожалуйста, оставь меня". Он закрывает лицо руками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Ну, ладно, мне пора".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Пурниск опускает плечи. "Ох, Кайнра... Мне так жаль..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Что ты темнишь? Рассказывай, или я все из тебя выбью".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Моя жизнь была бы проще, если бы ты ничего не скрывал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Погоди-ка, я слышал о тебе..." Он смеется сквозь слезы. "Не знаю, как ты нашел меня, но сегодня, несомненно, мой счастливый день".
+
+"Меня зовут Пурниск, и это мой дом. Ты должен мне помочь!"</DefaultText>
+      <FemaleText>"Погоди-ка, я слышал о тебе..." Он смеется сквозь слезы. "Не знаю, как ты нашла меня, но сегодня, несомненно, мой счастливый день".
+
+"Меня зовут Пурниск, и это мой дом. Ты должна мне помочь!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Пурниск прячет глаза, не решаясь взглянуть вам в лицо. "Ты вычислил меня даже быстрее моего поставщика. Ну, я мог прикарманить пару монет. Но мне нужны были эти деньги!"</DefaultText>
+      <FemaleText>Пурниск прячет глаза, не решаясь взглянуть вам в лицо. "Ты вычислила меня даже быстрее моего поставщика. Ну, я мог прикарманить пару монет. Но мне нужны были эти деньги!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Пурниск качает головой. "Я не сомневаюсь в твоей способности убедить собеседника, но ты... ты его не знаешь. Не догадываешься, на что он способен. Но скоро ты все поймешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Он нервно смеется. "Если я что-то и понял в своей жизни, так то, что не надо спорить с опасными людьми. Если тебе что-нибудь понадобится – все равно что – я буду здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Несколько долгих мгновений Пурниск не может вымолвить ни слова. "Даже ты не..." Его лицо искажается от горя. "Я должен был догадаться, что ты все это время работал на него!"</DefaultText>
+      <FemaleText>Несколько долгих мгновений Пурниск не может вымолвить ни слова. "Даже ты не..." Его лицо искажается от горя. "Я должен был догадаться, что ты все это время работала на него!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>[Уйти, виляя задом] "Посмотрим".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

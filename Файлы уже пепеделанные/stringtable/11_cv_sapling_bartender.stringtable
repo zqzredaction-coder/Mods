@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\11_hearthsong\11_cv_sapling_bartender</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>За стойкой трактира стоит эльф средних лет. У него располагающее открытое лицо, на котором при вашем приближении появляется приятная улыбка.
+
+"Приветствую, добро пожаловать!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Приветствую! Чем могу помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Я всегда рад видеть новое лицо. Присаживайся, где тебе удобно, друг мой. Похоже, что дорога у тебя была длинная. Мы здесь рады всем, а особенно тем, кто приносит с собой интересные истории".</DefaultText>
+      <FemaleText>"Я всегда рад видеть новое лицо. Присаживайся, где тебе удобно, подруга. Похоже, что дорога у тебя была длинная. Мы здесь рады всем, а особенно тем, кто приносит с собой интересные истории".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Покажи мне, что у тебя есть на продажу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Мне нужна комната".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Уйти, покачивая бёдрами.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Конечно. Что-нибудь с хорошим видом, да?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Я бы хотел нанять себе кого-нибудь в помощь".</DefaultText>
+      <FemaleText>"Я бы хотела нанять себе кого-нибудь в помощь".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Расскажи об этом месте".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Кто ты?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Меня зовут Эллитерион «Худые Ботинки» из-за всех моих бесчисленных путешествий и всех изношенных мною ботинок. Но эти дни уже далеко позади. Мои глаза видели многое, а теперь очередь ушей получить свою порцию от путешественников, которые сюда заходят".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Конечно". Эллитерион оживляется. "Я основал трактир много лет назад, но во многих отношениях его история начинается намного раньше – тогда, когда я вернулся после долгого путешествия на юг и услышал историю о дереве, на котором покоится этот трактир".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Как по мне, это хороший способ проводить свои дни".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Сотни лет назад произошло странное событие. Небо было неспокойным в ту ночь – было много падающих звезд. Одна из этих звезд начала падать на Эору. Она приземлилась здесь, попав в молодое деревце и зарывшись в него огненным сердцем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Но дерево выжило. И с годами оно росло – и росло, и росло, став дважды больше своих собратьев за время в два раза меньшее. Так и продолжалось, пока оно не достигло сегодняшнего размера и перестало расти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Услышав историю, я решил узнать правду. А ты видишь ее здесь". Он показывает на большой камень в центре комнаты. "Вокруг сердца этого дерева я построил трактир, чтобы приветствовать всех путешественников, которые захотят на него взглянуть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Кана оглядывается на камень и улыбается. "Хорошая история. Расскажу ее у себя на родине".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Сюда многие приходят в поисках работы. Вот... Я вас познакомлю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Конечно. У нас есть еда и кое-какие припасы. Взгляни".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

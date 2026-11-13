@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_serel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>85</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Слой пудры почти скрывает круги под глазами, а выступающие скулы щедро присыпаны румянами. Несмотря на это, Сирил прекрасна. Она одаряет тебя улыбкой, которую явно заранее отработала... и довела до совершенства. "Привет, незнакомец! Позволь мне позаботиться о тебе".</DefaultText>
+      <FemaleText>Слой пудры почти скрывает круги под глазами, а выступающие скулы щедро присыпаны румянами. Несмотря на это, Сирил прекрасна. Она одаряет тебя улыбкой, которую явно заранее отработала... и довела до совершенства. "Привет, незнакомка! Позволь мне позаботиться о тебе".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Угрожать, ткнув пахом] "Отдай мне энгвитанский медальон!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Уйти, оставив запах секса.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Мне нужно с тобой кое-что обсудить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Она проводит пальце по твоей шее, едва касаясь кожи. "Просто скажи мне, что ты любишь. Учти, если ты захочешь привести кого-то еще, это будет дороже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Она ошарашенно смотрит на мертвых охранников. "Пресвятой огонь, я бы никогда..." Она достает из корсажа медальон, срывает его и швыряет вам, губы ее дрожат. "Держи эту никчемную безделушку! Хель побери Триствина и все его проклятое племя!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Здесь и правда достаточно тепло..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Женщина отшатывается от тебя. "Не прикасайся ко мне!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Меня послал твой старый знакомый Триствин. Ему нужен медальон".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Мне правда очень его жаль. Но спорю на что угодно, сейчас его жизнь намного лучше, чем в то время, когда он жил в Эйр-Гланфате. Я столько времени работала, чтобы уехать и не поддамся только потому, что Триствина внезапно охватили сентиментальные чувства".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Дело тут не в деньгах, а в поисках себя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Угрожать, схватив за горло и прижав к стене] "Так или иначе, но ты отдашь мне медальон".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Забудем про медальон. Мне нужно, чтобы ты помогла мне найти кое-что другое..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Наверное, ты прав". Она достает медальон из корсажа и вкладывает в вашу ладонь.</DefaultText>
+      <FemaleText>"Наверное, ты права". Она достает медальон из корсажа и вкладывает в вашу ладонь.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Взгляд Сирил метнулся к двери.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Охрана!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Ее плечи расслабляются, на лицо возвращается шаловливая улыбка. "Достойно уважения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Зажать ей рот] "Тихо!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Прощай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Вы ждёте, переминаясь и сжимая ягодицы.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Охрана!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Вы слышите ее сдавленные крики и чувствуете тепло ее учащенного дыхания, пока она старается вырваться. Наконец, она вытаскивает из корсажа длинную цепочку. На ее конце покачивается резной медальон из адры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Взять медальон.] "Спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Надеюсь, он думает обо мне в своей хижине, в окружении родственников и друзей". Она поворачивается на каблуках и начинает прибираться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Я уже заплатил за время с тобой. Я не могу просто вышвырнуть эти деньги на ветер".</DefaultText>
+      <FemaleText>"Я уже заплатила за время с тобой. Я не могу просто вышвырнуть эти деньги на ветер".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Может быть, позднее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Сирил смотрит на вас с любопытством. "Вернулся?"</DefaultText>
+      <FemaleText>Сирил смотрит на вас с любопытством. "Вернулась?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ты получил, что хотел. Скажи Триствину, что я не советую ему больше соваться в этот город".</DefaultText>
+      <FemaleText>"Ты получила, что хотела. Скажи Триствину, что я не советую ему больше соваться в этот город".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"И мне нужен". Сирил вздергивает подбородок. "Я предложила ему половину денег, а он отказался". Она скрещивает руки на груди и медленно вас обходит. "Уверена, он рассказывал тебе о своем разоренном клане. А говорил ли он, что только благодаря мне он сегодня тот, кем является?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Я пойду. Настроение пропало".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Как хочешь. Но, боюсь, деньги я тебе вернуть не могу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"А вообще, я тут еще подумал. Почему бы и не остаться – а вдруг оно вернется..."</DefaultText>
+      <FemaleText>"А вообще, я тут еще подумала. Почему бы и не остаться – а вдруг оно вернется..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Я куплю его".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Она смеется. "Он стоит шесть тысяч. Если у тебя есть столько денег, с радостью помогу тебе их потратить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Заплатить 6000 мп] "По рукам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Сирил в изумлении смотрит на мешок с деньгами, потом она бросает на вас быстрый взгляд и достает что-то из корсажа. Она протягивает вам висящий на цепочке резной медальон из адры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Я здесь, чтобы помочь клану Гланфатан".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Она осматривает ваше одеяние. "Любишь игры? Нет проблем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"У нас с тобой осталось незавершенное дело".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Поговорим о Триствине и медальоне".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Триствин не имеет права просить тебя об этом. Я скажу, чтобы он оставил тебя в покое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Она бережно держит мешочек с медяками. "Завтра я могла бы быть в домике в Брэкенбури". Она с надеждой смотрит на медальон в вашей руке. "Я не собираюсь учить тебя делать свое дело, но если ты действительно собираешься отдать это Триствину, это и для меня много значит. Надеюсь, дома он найдет все, что ищет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Я уже заплатил за время с тобой. Хотелось бы использовать его с толком".</DefaultText>
+      <FemaleText>"Я уже заплатила за время с тобой. Хотелось бы использовать его с толком".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>На секунду улыбка Сирил гаснет. "Конечно. В таком случае позволь мне помочь тебе..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Сирил устало вздыхает. "Правда? Учти, я в долгу не останусь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Для начала я хотел бы, чтобы ты отработала мои деньги".</DefaultText>
+      <FemaleText>"Для начала я хотела бы, чтобы ты отработала мои деньги".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Энгвитанские артефакты стоят немало, но подержанных это не касается. Ты не выручишь за это больше четырех тысяч".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Она хмурит бровки. "Пожалуй, ты прав. Если тебе это по карману, то он твой".</DefaultText>
+      <FemaleText>Она хмурит бровки. "Пожалуй, ты права. Если тебе это по карману, то он твой".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Заплатить 4000 мп] "Вот".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"По здравому размышлению... Пожалуй, нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Солгать, невинно хлопая ресницами и пряча чужое бельё] "Совершенно случайно я знаю людей, которых интересуют безделицы вроде этой".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"И ты думаешь, я поверю, что ты собираешься сбыть его для меня?" Она окидывает вас оценивающим взглядом. "Что ж, Триствин контролирует рынки, так что у меня, пожалуй, небольшой выбор". Из глубин корсажа она вытягивает резной медальон из адры. "Если сумеешь продать его дороже, все, что сверх моей цены, можешь забрать себе". Она кладет его вам в руку и внимательно на вас смотрит. "Не подведи меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Она встревоженно смотрит на вас. "Я все ждала, пока ты вернешься. Где мои деньги?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Дать 6000 мп] "Вот".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Пока работаю над этим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Она прикусила губу. "Понятно. Я была уверена, что ты принесешь их..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Ты должен был видеть, как перекосило лица всех этих вельмож, когда я переехала".</DefaultText>
+      <FemaleText>"Ты должна была видеть, как перекосило лица всех этих вельмож, когда я переехала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Я отослал Триствина подальше. Он тебя больше не побеспокоит".</DefaultText>
+      <FemaleText>"Я отослала Триствина подальше. Он тебя больше не побеспокоит".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Сирил опускает глаза. "Я не хотела, чтобы все так обернулось, но спасибо тебе. Надеюсь, он обретет счастье на своем пути, куда бы он ни вел". Ее рука сжимает что-то, спрятанное под корсажем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Боюсь, у меня нет времени на разговоры. В эти дни я занята больше, чем когда-либо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Она вцепилась в свой корсаж. "Забери его сам, ты, трус! Будь я проклята, если отдам свой пропуск к свободе".</DefaultText>
+      <FemaleText>Она вцепилась в свой корсаж. "Забери его сама! Будь я проклята, если отдам свой пропуск к свободе".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Уйти, покачивая бёдрами.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Наконец я свободна от этого места! Мне нужно собраться..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Она снимает с пальца кольцо из лунного камня. "Вот, возьми. Оно помогало мне выжить в этом месте, но теперь все это кончено".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Она снимает с пальца кольцо из лунного камня. "Вот, возьми. Оно помогало мне выжить в этом месте, но теперь все это кончено".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Триствин тебя больше не побеспокоит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Сирил опускает глаза. "Надеюсь, ты не о том, о чем я подумала".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Прости. Я не хотел с ним драться".</DefaultText>
+      <FemaleText>"Прости. Я не хотела с ним драться".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Солгать, невинно хлопая ресницами и пряча чужое бельё] "Он пошел своей дорогой. Вот и все".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Он мертв. Он не отказался бы от этого медальона".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Она зажимает рот ладонью. "Я никогда... я просто хотела выбраться отсюда". Она вытягивает медальон из своего корсажа и смотрит на него. "Он говорил, что эти артефакты, если их забрать из руин, становятся проклятыми. Думаешь, он был прав?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Нет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Есть проклятье или нет, нужно двигаться дальше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Может быть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Понятно". Сирил опускает глаза. "Я не хотела, чтобы все так обернулось, но спасибо тебе. Надеюсь, он обретет счастье на своем пути, куда бы он ни вел". Ее рука сжимает что-то, спрятанное под корсажем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Она медленно кивает, глядя в пустоту. "Наверное, ты прав".</DefaultText>
+      <FemaleText>Она медленно кивает, глядя в пустоту. "Наверное, ты права".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Сирил горько смеется. "Хорошо, что мы оба все понимаем. Как знаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Сирил закатывает глаза и прислоняется к стойке кровати. "Наконец я нашла способ сбежать от этой жизни. Вот что для меня главное".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ты знаешь, что я имею в виду. Оторванный от клана, Триствин никогда не добьется того, чего можешь добиться ты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Не поспоришь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Ее накрашенные глаза распахиваются. "Я должна была догадаться, что ты..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Ее нежные черты искажает гримаса. "Я не верю!"
+
+Она зажимает рот ладонью. "Я никогда... я просто хотела выбраться отсюда". Она вытягивает медальон из своего корсажа и смотрит на него. "Он говорил, что эти артефакты, если их забрать из руин, становятся проклятыми. Думаешь, он был прав?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Ее плечи расслабляются, на лицо возвращается шаловливая улыбка. "Рада, что ты полон энтузиазма..."</DefaultText>
+      <FemaleText>Ее плечи расслабились, а на лицо вернулась шаловливая улыбка. "Рада, что ты полна энтузиазма".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Она бережно держит мешочек с медяками. "Завтра я могла бы быть в домике в Брэкенбури". Она переводит взгляд на вас. "Я не уверена, что смогу отплатить тебе, но спасибо. Наконец, я могу отсюда выбраться".
+
+"Это напомнило мне..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Они камня на камне от Лечебницы не оставили! А я-то Дар считала суровым".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

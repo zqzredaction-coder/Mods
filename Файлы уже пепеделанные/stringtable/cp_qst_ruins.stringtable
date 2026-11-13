@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\critical_path\act_2\cp_qst_ruins</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Основная сюжетная линия – руины</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Отправиться в храм Воедики – застенок госпожи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Найти вход в храм Воедики.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Узнать планы Свинцового Ключа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Основная сюжетная линия – руины</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Храм Воедики расположен в районе Первые Огни в Бухте Непокорности. Мне стоит начать свое расследование деятельности Свинцового Ключа там. Говорят, там не только тайные собрания, но и порка для особых клиентов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Храм Воедики лежит в руинах – по крайней мере, надземная часть разрушена. У меня было видение о душах, спускающихся по разрушенной лестнице в зал под храмом. По лестнице сейчас не пройти, но, возможно, в храм можно попасть через катакомбы под Бухтой Непокорности. Видение было таким: души спускаются по лестнице, голые и дрожащие, – как жертвы, идущие к госпоже на порку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Я нашел подземную часть храма Воедики. Теперь мне нужно ее исследовать и узнать, чем Свинцовый Ключ занимается в Бухте Непокорности. Подземная часть храма пахнет потом и кожей плетей.</DefaultText>
+      <FemaleText>Я нашла подземную часть храма Воедики. Теперь мне нужно ее исследовать и узнать, чем Свинцовый Ключ занимается в Бухте Непокорности. Подземная часть храма пахнет потом и кожей плетей.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Я притворился наемником, которого нанял Свинцовый Ключ, – теперь я могу перемещаться по руинам свободно.</DefaultText>
+      <FemaleText>Я притворилась наемницей, которую нанял Свинцовый Ключ, – теперь я могу перемещаться по руинам свободно.</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

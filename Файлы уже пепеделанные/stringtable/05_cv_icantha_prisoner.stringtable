@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\05_defiance_bay_heritage_hill\05_cv_icantha_prisoner</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ты... ты ведь не один из прислужников Иканты? Прошу, освободи нас, прежде чем она снова проголодается!"</DefaultText>
+      <FemaleText>"Ты... ты ведь не одна из прислужников Иканты? Прошу, освободи нас, прежде чем она снова проголодается!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Что с вами случилось?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Мы здесь просто помогали по хозяйству. Когда начался этот хаос, Иканта предложила нам спрятаться, сказав, что мы сможем спокойно дождаться, пока Рыцари не восстановят порядок".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Но вместо этого она заперла нас здесь. Каждую неделю приходит одно из прислуживающих ей чудовищ и забирает одного из нас".
+
+"Не знаю, что она там делает, но иногда до нас доносятся крики..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Там уже безопасно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Вытащи нас отсюда!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Побудьте пока здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Дорога к воротам в город должна быть безопасна. Идите, давайте!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Солгать, как изменщица в чужой постели] "Вам не выбраться из района, но на вершине башни сейчас безопасно. Алдхельм позаботится о вас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Мне так хочется скорее выбраться из Заветного Холма, но лучше уж в башне, чем здесь. Спасибо!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Спасибо! Мы никогда этого не забудем!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

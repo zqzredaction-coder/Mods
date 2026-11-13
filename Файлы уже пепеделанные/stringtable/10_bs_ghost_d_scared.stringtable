@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\10_od_nua\10_bs_ghost_d_scared</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"А-у? Есть тут кто?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"О, боги, я ничего... ничего не вижу..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Я себя не слышу. Как мне сказать ему? Пожалуйста, пусть тут ничего не будет!"</DefaultText>
+      <FemaleText>"Я себя не слышу. Как мне сказать ей? Пожалуйста, пусть тут ничего не будет!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Пожалуйста... Как же мне отсюда выбраться?" Слышатся сдавленные рыдания. "Вернись! Не ходи дальше! Боги не слышат нас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Я здесь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Кто ты?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Вы смолчали, терпеливо подставив зад.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Я ему говорил. Просил выпустить меня. Выпустите меня. Выпустите!"</DefaultText>
+      <FemaleText>"Я ей говорил. Просил выпустить меня. Выпустите меня. Выпустите!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

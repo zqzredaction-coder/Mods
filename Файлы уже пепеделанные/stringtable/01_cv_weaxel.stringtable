@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_weaxel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Мужчина-орлан отдыхает, положив ноги на стол. Из под косматой гривы сине-зеленых волос видны пятна темно-коричневой кожи. Он и сидящая рядом женщина-орлан шутят и общаются с троицей за столом неподалеку. В руках он крутит кинжал. 
+
+Он следит за вами коричневыми глазами. "Судя по твоему виду, ты пару-тройку ночей в лесу провел. Выпьешь с нами?"</DefaultText>
+      <FemaleText>Мужчина-орлан отдыхает, положив ноги на стол. Из под косматой гривы сине-зеленых волос видны пятна темно-коричневой кожи. Он и сидящая рядом женщина-орлан шутят и общаются с троицей за столом неподалеку. В руках он крутит кинжал. 
+
+Он следит за вами коричневыми глазами. "Судя по твоему виду, ты пару-тройку ночей в лесу провела. Выпьешь с нами?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ты купил кинжал из переходной стали у Играна?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Вы все кто такие?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Уйти, поправляя штаны.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"А, вернулся".</DefaultText>
+      <FemaleText>"А, вернулась".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Меня зовут Двухцветным Викселем. Леди рядом со мной – Кей. Мы сполна насладились экспедицией, а теперь хотели бы отдохнуть в тишине и покое. Следующие пару недель – точно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Мужчина за соседним столом кивает вам.
+
+"Я – Меткий Даэдон, а это – Харди и Ильфа".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Он показывает кинжал на широкой ладони. "Да, и я очень доволен покупкой. Не слышал, чтобы в городе были еще такие. За пределами Крепости Горна, ясное дело".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Я хотел купить его для пацана по имени Горди".</DefaultText>
+      <FemaleText>"Я хотела купить его для пацана по имени Горди".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"За сколько продаешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Забудь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Он поворачивает клинок на свет и восхищенно его рассматривает. "Ну раз на него такой спрос, то сотня пандов – честная цена".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Он моргает и сбрасывает ноги со стола. "Для пацана? Это не игрушка, видишь ли. Найди ему деревянный меч".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Атаковать – грубо, как в подворотне] "И придется. Раньше, чем ты ожидал".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Договорились".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Спрос не такой и большой. Скорее всего, кинжал украли или сняли с трупа одного из Рыцарей. И в этом случае я тебе одолжение делаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Он протягивает вам кинжал рукоятью вперед. "Приятно было иметь с тобой дело".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Он скалится. "Наверное, нынче с законом надо быть осторожнее, особенно орлану. Ладно, продаю его, но не меньше, чем за пятьдесят. По крайней мере, я тут ничего не потеряю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Мы были в разных экспедиционных группах, но понесли потери, и потому решили объединиться". 
+
+Он загибает пальцы. "Чудовища, варвары, биауаки. Опасно нынче наемникам. Но деньги хорошие".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Нужно что-нибудь еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Женщина-орлан наклоняется к нему и толкает его в плечо. "Да ладно, Виксель, наш товарищ хочет заплатить. Что не так?"</DefaultText>
+      <FemaleText>Женщина-орлан наклоняется к нему и толкает его в плечо. "Да ладно, Виксель, наша подруга хочет заплатить. Что не так?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Да все. Пацан себе глаза выколет, скорее всего. Кроме того, я этим кинжалом собираюсь попользоваться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Договорились".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Я хотел бы купить у тебя этот кинжал из переходной стали".</DefaultText>
+      <FemaleText>"Я хотела бы купить у тебя этот кинжал из переходной стали".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Есть сотня пандов?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"А сколько стоит тебя переубедить?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Забудь. Давай сменим тему".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[Атаковать – грубо, как в подворотне] "Я, вообще-то, думал его бесплатно забрать".</DefaultText>
+      <FemaleText>[Атаковать – грубо, как в подворотне] "Я, вообще-то, думала его бесплатно забрать".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Как я и говорил, за что купил, за то и продаю – пятьдесят пандов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"У меня сейчас нет таких денег".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"У меня сейчас нет таких денег".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Тогда он пока побудет у меня".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"То есть, Игран продал тебе его дешевле, чем за сотню? Интересно, чего он так хотел от него избавиться... Либо кинжал украли у Рыцарей... либо он поддельный".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Он смотрит то на вас, то на кинжал. "Он... а, ладно. Но я возьму не меньше, чем заплатил за него". Он стучит по столу кулаком. "Знал же, что пятьдесят – слишком дешево".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>За соседним столом Даэдон поднимает стакан. "Так выпьем за удачные путешествия!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

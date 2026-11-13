@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\07_gilded_vale\07_temple_eothas_ambients</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Я не был здесь... пять или шесть лет. Когда-то тут было красиво. Ярко. Тепло. У порога всегда встречали гостей: мама, обе мои старшие сестры, невеста – каждый гость уходил довольным. Так у нас заведено".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Так странно оглядываться назад. Я ведь вырос здесь. Никто и подумать не мог, что такое случится. Лучше всего помню день свадьбы: невесту поздравляли гости по очереди, а я стоял рядом со свечой. Положено мужу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Нет... свет..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Вы слышите под ногами скрежетание и шум воды.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Вниз, во тьму..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Предатель!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вы проходите сквозь круг из свечей и слышите глухой металлический лязг, потом скрежет камней – и дверь в соседней стене открывается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Приятно, что свечи все еще горят. Я думал, что они давно уже выгорели".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Вы подходите, и пламя свечей начинает трепетать. Над алтарем зияет пустота, обрамленная осколками стекла – вероятно, когда-то там висело зеркало.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Свечи все еще горят. Неплохо для мертвого божества".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Сам алтарь, кажется, не тронут. Камни и потеки воска покрыты толстым слоем пыли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Думаешь, здесь был кто-то еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Задуть свечу.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Уйти, дрожа коленями.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Для чего все это?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Возможно, это знак".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Вы гасите одну из свечей. Над ней тонкой струйкой поднимается дымок. Больше ничего не происходит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Похоже, безрассудство для них оказалось разрушительнее времени".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Искупление. Этот обряд проводят в день свадьбы. Жениху завязывают глаза, берут за руку и ведут куда-то вниз. Условное проживание жизни, полной порока. Тебе не говорят, куда ты идешь. Я, помнится, весь мокрый от пота был". Он подмигивает. "А когда повязку снимают, невеста уже в зале, и первыми ее поздравляют гости – по очереди и по-эотасиански тепло. Традиция. Свеча в окне – знак, что жена свободна.".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Вы налегаете на рычаг. Слышится громкий скрежет и щелчок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Bank Node 23</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Спертый запах долгого разложения... гниющий храм сгнившего бога".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Bank Node 25</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Напомни мне больше никогда не убивать моего бога".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Что это... о, боги".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Помолиться.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Вы вскоре понимаете, что кроме пламени свечей и воспоминаний тех, кто преклонял перед этим алтарем колени до вас, вы здесь ничего не найдете. Ни откровений, ни божественных посланий...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Только тишина.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Тебя приводят вон к тому бассейну, и ты смотришь в него и встречаешься лицом к лицу со своими грехами".
+
+"Потом ты идешь в тот зал, тебе развязывают глаза, а там твоя невеста, и друзья, и родственники – все по очереди ее поздравляют. Мама и сестры тоже подходят к гостям, чтобы было по-честному. Ты зажигаешь свечу, и она горит, как и прочие. Лучший день в моей жизни". Эдер смотрит на свечи, и на мгновение кажется, будто он снова молод, и даже слегка гордится.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

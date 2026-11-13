@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_dyrwood\00_cv_eder_looters</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Эти размалеванные не могут вечно сторожить это место".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Отдохните. Мы пойдем внутрь завтра утром".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Эти руины уже застолбили, дружище. Ступай отсюда".</DefaultText>
+      <FemaleText>"Эти руины уже застолбили, милаха. Ступай отсюда".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Взгляни на его талисман, Пэг". Он указывает на Эдера.
+
+"Эотасианец".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Не беситесь, парни. Мы просто идем мимо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Единственная причина Наследия в том, что у герцога не хватило мужества посмотреть, как вас всех вырежут. Боги хотят, чтобы вы сдохли".
+
+Он хватается за саблю.
+
+"По крайней мере, мы-то с Пэгом точно. Мы славно поработали во время чисток, правда, Пэг?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Эдер еле сдерживает гнев. Он открывает рот, чтобы что-то сказать, но потом снова закрывает. Хмурое выражение на его лице быстро сменяется вежливой улыбкой.
+
+"На самом деле, тело так и не нашли".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ну надо же! Безбожный мешок с дерьмом. В нашем распоряжении проклятый фанатик".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Рукодельницы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Можешь поострить пока. Ни бог, ни родина не отомстят за тебя. Клянусь Магран, это будет непыльная работа. А его жена, поди, давно раздвигает ноги для всех".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Боги тут ни при чем. Только невежество".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ты всегда клянешься своим богом, когда берешься за грязные дела?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Магран благоволит упорству, а не убийствам. Чистки и казни не угодны Магран".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Уверен, боги желают мира между нами".</DefaultText>
+      <FemaleText>"Уверена, боги желают мира между нами".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Мужчина запрокидывает голову и издает скрипучий гогот.
+
+"И каким же это боком богиня войны желает мира?"
+
+"Нет, дружище. Только кровь наших врагов утолит ее жажду".</DefaultText>
+      <FemaleText>Мужчина запрокидывает голову и издает скрипучий гогот.
+
+"И каким же это боком богиня войны желает мира?"
+
+"Нет, подруга. Только кровь наших врагов утолит ее жажду".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Стоик ухмыляется. "Что такое огонь, если не очищение для презренных? А? ВСЕ это – ее работа".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Не имеет значения, во имя кого это делалось. Страна стала лучше после Чисток". 
+
+"Может, стоит начать новую Чистку, прямо здесь". 
+
+Он берется за оружие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ваши недалекие аналогии и самопальные догмы не заменят мудрость писания, тысячелетиями сопровождавшую нас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Не возжигай, но верь в пламя, ибо лишь мудрость Ее вправе вершить суд".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Стоик рычит что-то себе под нос, но не произносит ничего вслух и только сплевывает на землю.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Хорошая мысль".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Это извращенное толкование".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Никакой бог не станет потворствовать такой работе".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

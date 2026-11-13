@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_orimanth</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Вы подходите ближе, и рука мужчины ложится на рукоять цепа. "Чего тебе надо?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Лучше камушки. Их гораздо проще таскать, чем мешки с монетами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Плохие новости, Оримант. Покупатель Баркоцци не придет – похоже, Рыцари будут его допрашивать. Думаю, за этим стоит Агости".
+
+"Так что... а что здесь происходит? Кто это?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Имя Баркоцци тебе что-нибудь говорит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Да. Ты опоздал, а мы не любим ждать. Чтоб это было в первый и последний раз".</DefaultText>
+      <FemaleText>"Да. Ты опоздала, а мы не любим ждать. Чтоб это было в первый и последний раз".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Почем мне знать, вдруг вы просто заберете деньги и оставите меня ни с чем?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Атаковать – грубо, как в подворотне] "Убить тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Так, теперь об оплате. В южной части доков Дара Ондры, рядом с затонувшем кораблем, одна из досок не приколочена. Оставь плату под ней – только самоцветы и монеты. Плата, разумеется, и в натуре.".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"А гланфатанцы не расстроились, поймав тебя за разграблением энгвитанских руин?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"У меня больше нет вопросов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ты опоздал, а мы не любим ждать. Чтоб это было в первый и последний раз".</DefaultText>
+      <FemaleText>"Ты опоздала, а мы не любим ждать. Чтоб это было в первый и последний раз".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Солгать, скрестив пальцы и ноги] "Меня послал местре Баркоцци".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Мы заберем плату и поместим туда же энгвитанские реликвии немного меньшей стоимости. Меньшей, потому что мы вычтем наше вознаграждение. В конце концов, мы делаем всю работу и несем почти все риски".
+
+"Вроде, все объяснил. Есть вопросы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Эльфийка фыркает. "Если нас и замечают – что случается не часто – долго расстраиваться гланфатанцам не приходится. Свидетели нам ни к чему".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"По такой схеме мы работает с местре Фуцилло, местре Росси. Что-то не устраивает? Мы свои услуги не навязываем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Хорошо. Дай нам неделю, и мы достанем что-нибудь для тебя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Он смотрит на вас в упор. "Хороший вопрос".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Неудобно получилось".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Молча смотреть в ответ.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Атаковать – жёстко, без смазки.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Откуда ты знаешь, что из найденного представляет ценность?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Я хорошо знаком с культурой энгвитанцев. Если я говорю, что какой-либо предмет ценный, значит, так оно и есть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Да и Анверион пока не ошибался. Передай своему хозяину, пусть не беспокоится, мусором мы не торгуем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Он слишком много знает. Убейте его!"</DefaultText>
+      <FemaleText>"Она слишком много знает. Убейте ее!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Вам уже удавалось проворачивать подобное дело и выйти сухими из воды?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"А то".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Вайлианский посол, Агости, знает о наших делах и пытается прикрыть лавочку. Но он не так умен, как думает, да и наши покровители в Республиках гораздо влиятельнее его. Нам не о чем беспокоиться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Проклятье".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

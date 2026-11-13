@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\00_dyrwood\00_cv_sleafhota</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Он оголяет остро заточенные зубы. "Возвращайся в свою деревню, эстрамор. Тебе повезло, что Трехклыкий Штельгар сегодня преследует другую дичь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Иду куда хочу. Отойди!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Что ты знаешь о Клиабан Рилаг?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Трехклыкий Штельгар?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Это священное место Строителей, и его камни не должны осквернять ни твои ноги, ни наши. А вот заросли..." Он ухмыляется и приподнимает копье. "...Я бы с удовольствием окропил твоей кровью".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Он щерит зубы еще сильнее. "Крестьяне уже боятся даже упоминать наше имя? Мы – самые беспощадные из шести племен Эйр-Гланфата. И мы охраняем этот монумент".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Я ищу группу людей, которая, возможно, уже вошла в руины".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Мы тоже их ищем". Он проводит большим пальцем по гладкой древесине копья. "Поэтому мы ждем здесь, эстрамор. И поэтому я решил отпустить тебя с миром".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Что вы будете делать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Я ничего не слышал о Строителях".</DefaultText>
+      <FemaleText>"Я ничего не слышала о Строителях".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Он раздраженно щелкает языком. "Невежественные крестьяне называют их по-другому. Это древняя раса, которая построила это место и много других".
+
+"А мы – одно из шести племен, которые охраняют их наследие".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Мы подождем. Если они внутри, то должны выйти наружу. А когда они выйдут..." Он проводит кончиком пальца по острию копья и показывает каплю крови.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Мне пора".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Воин поднимает свое копье. "Еще шаг, и твои внутренности станут кормом для ворон".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Атаковать и завалить, как шлюху в борделе] "Готовься к следующей жизни, собака".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Дай нам пройти. Мы не враги".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Нарушитель! Ты умрешь за то, что осквернил эти камни!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Время разговоров закончено, эстрамор. Уходи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Перед тобой стоит мужчина с покрытым зеленой и охряной красками лицом. Его тело закрывают шкуры и меха, в одной руке он держит копье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Я тебя предупредил, эстрамор".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Я понял".</DefaultText>
+      <FemaleText>"Я поняла".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Поворачивай назад, или мы тебя повернем сами".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Вы, осквернители, никогда нас не слушаете".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Воины поворачиваются, когда вы выходите из руин. На их раскрашенных лицах появляется возмущение и злость.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Осквернитель!" Молодой гланфатанец берется за охотничий рог, висящий у него на шее, и издает ревущий зов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Воины бегут через ручей, разбрасывая в стороны брызги. Их оружия подняты, а окрашенные лица неподвижны и суровы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Bank Node 57</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Трехклыкий Штельгар если и не самое жестокое из гланфатанских племен", – Хиравиас бормочет позади вас, его голос еле слышен, – "то уж точно самое воинственное и необузданное. Они приручают штельгаров и вступают на них в бой. Это все, что тебе нужно знать об их изысканности и инстинкте самосохранения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Они и мои враги тоже. Если ты меня впустишь, я мог бы вывести их к вам".</DefaultText>
+      <FemaleText>"Они и мои враги тоже. Если ты меня впустишь, я могла бы вывести их к вам".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Он смеется. "И позволить, чтобы еще больше эстраморов топтали священную землю? Ни в коем случае".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Bank Node 61</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Один раз ты уже потерпел неудачу. Почему бы не сделать это еще раз за наш счет, когда мы такие добрые?"</DefaultText>
+      <FemaleText>"Один раз ты уже потерпела неудачу. Почему бы не сделать это еще раз за наш счет, когда мы такие добрые?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Вижу, знаменитые математические таланты гланфатанцев не были преувеличены".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Ты упускаешь из внимания факт, что те, кто остался внутри, вероятно, сейчас обчищают место, пока мы разговариваем".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"И не приходите больше сюда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Дай мне пройти. Мы не враги".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

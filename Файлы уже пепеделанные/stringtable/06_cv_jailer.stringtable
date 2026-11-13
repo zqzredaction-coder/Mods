@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_jailer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Приветствую, милорд! Я тут присматриваю за камерами. Будьте уверены — я сумею позаботиться о всех ваших пленниках. И о том, чтобы они не скучали: тут у меня и плеть, и колодки, и койка без белья. Всякий, кто спускается в подвал, рано или поздно выходит с румянцем".</DefaultText>
+      <FemaleText>"Приветствую, миледи! Я тут присматриваю за камерами. Будьте уверены — я сумею позаботиться о всех ваших пленниках. И о том, чтобы они не скучали: тут у меня и плеть, и колодки, и койка без белья"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Здесь покамест пусто, но я не сомневаюсь, что совсем скоро ситуация изменится! Такое место, как это, само просит, чтобы в нем кого-нибудь держали. И не только держали".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Какие будут указания, мой господин? Что вы собираетесь делать с этими узниками — пороть, вешать или сдавать внаем по ночам?"</DefaultText>
+      <FemaleText>"Какие будут указания, моя госпожа? Что вы собираетесь делать с этими узниками — пороть, вешать или сдавать внаем по ночам?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Покажи им, кто здесь хозяин! Хочу, чтобы их всех регулярно пороли — и чтобы каждый вечер кто-нибудь из них стоял у моей двери на коленях и ждал, пока я соизволю обратить на него внимание".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Я хочу освободить одного пленника".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Уйти, пока не потребовали расплатиться телом] "В данный момент мне ничего не нужно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ну, и кто же этот счастливчик?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Освободи Айорна".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Отпусти Нирида".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Выпусти Эфри".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Я хочу освободить Грамфреля".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Я хочу освободить Кесторика".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Я хочу освободить Нэльде".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Отпусти Эсмара".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Милорд... Это пойманное вами существо, Кесторик... От него сплошные неприятности. Только не те, о которых вы думаете: он всю ночь стонет так, что стража не может уснуть. Что прикажете с ним делать?"</DefaultText>
+      <FemaleText>"Миледи... Это пойманное вами существо, Кесторик... От него сплошные неприятности. Только не те, о которых вы думаете: он всю ночь стонет так, что стража не может уснуть. Что прикажете с ним делать?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Покажи ему, что бывает, когда кто-то перечит воле лорда Каэд Нуа".</DefaultText>
+      <FemaleText>"Покажи ему, что бывает, когда кто-то перечит воле хозяйки Каэд Нуа".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Покажи ей, что бывает, когда кто-то перечит воле лорда Каэд Нуа".</DefaultText>
+      <FemaleText>"Покажи ей, что бывает, когда кто-то перечит воле госпожи Каэд Нуа".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Покажи ей, что бывает, когда кто-то перечит воле лорда Каэд Нуа".</DefaultText>
+      <FemaleText>"Покажи ей, что бывает, когда кто-то перечит воле хозяйки Каэд Нуа".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Слушаюсь, мой господин... Насколько суровым должно быть наказание? И можно ли мне... эээ... присутствовать?"</DefaultText>
+      <FemaleText>"Слушаюсь, моя госпожа... Насколько суровым должно быть наказание? И можно ли мне... эээ... присутствовать?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Приветствую, милорд! Решили посетить темницы? Или, может быть, заглянуть в свободную камеру? Я там как раз прибрал".</DefaultText>
+      <FemaleText>"Приветствую, миледи! Решили посетить темницы? Или, может быть, заглянуть в свободную камеру? Я там как раз прибрал"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Милорд, у меня к вам срочное дело!"</DefaultText>
+      <FemaleText>"Миледи, у меня к вам срочное дело!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Милорд... От этого Нирида сплошные неприятности. Он уже вторую ночь подряд рассказывает страже, как его тут будут „пользовать", и стража, представьте, слушает. Что прикажете с ним делать? Что прикажете делать"?</DefaultText>
+      <FemaleText>"Миледи... От этого Нирида сплошные неприятности. Он уже вторую ночь подряд рассказывает страже, как его тут будут „пользовать", и стража, представьте, слушает. Что прикажете с ним делать"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Милорд... От Нэльде сплошные неприятности. Она обещает страже такое, что те начали мыться. Что прикажете с ней делать?"</DefaultText>
+      <FemaleText>"Миледи... От Наэльде сплошные неприятности. Она обещает страже такое, что те начали мыться. Что прикажете с ней делать?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Решай сам. Это не моя забота — но если кто-нибудь из них останется без задницы, я хочу об этом знать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Три удара плетью — и чтобы считали вслух. Мне нравится, когда считают вслух".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Сломать руку! А потом — то, до чего она дотянется".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Отсечь несколько пальцев!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Как пожелаете, мой господин! В этом доме всегда так: кто-то приказывает, а кто-то стоит раком и ждет".</DefaultText>
+      <FemaleText>"Как пожелаете, моя госпожа! В этом доме всегда так: кто-то приказывает, а кто-то стоит раком и ждет"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ваше слово — закон, милорд! Прошу меня извинить: пойду принесу плеть, ту, что с узелками".</DefaultText>
+      <FemaleText>"Ваше слово — закон, миледи! Прошу меня извинить: пойду принесу плеть, ту, что с узелками"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Ладно, не надо! Глаз с них не спускать — и, если кто начнет капризничать, зовите меня. Я всегда найду, чем их занять".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Слушаюсь, милорд".</DefaultText>
+      <FemaleText>"Слушаюсь, миледи".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Слушаюсь!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Будет сделано!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ну, если вы так хотите... Никогда не любил расчлененку... — он облизывает губы, — но с задницей-то оно как-то привычнее, верно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Сию минуту, милорд!"</DefaultText>
+      <FemaleText>"Сию минуту, миледи!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Сию минуту, милорд!"</DefaultText>
+      <FemaleText>"Сию минуту, миледи!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Ну... раз вы уверены, милорд".</DefaultText>
+      <FemaleText>"Ну... раз вы уверены, миледи".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Сию минуту, милорд!"</DefaultText>
+      <FemaleText>"Сию минуту, миледи!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Сию минуту, милорд!"</DefaultText>
+      <FemaleText>"Сию минуту, миледи!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Сию минуту, милорд!"</DefaultText>
+      <FemaleText>"Сию минуту, миледи!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Сию минуту, милорд!"</DefaultText>
+      <FemaleText>"Сию минуту, миледи!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Не важно. Спускайтесь вниз, если захотите посмотреть на что-нибудь живое".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>На лице надзирателя распускается кривая усмешка. "Мне действительно не нравится быть одному. Я бы с радостью делил ночь с кем-нибудь из узников — да вот беда, они все смотрят на меня так, будто я их собираюсь есть. А я ведь только пошутить хотел".
+
+"Что-то еще?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

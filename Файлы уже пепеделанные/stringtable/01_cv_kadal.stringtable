@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_kadal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Перед вами вырастает молодой парень. Он дрожит от возбуждения. "Эй! Я видел тебя с Ламдалой. Возле амфитеатра. Так вот, я не знаю, что у тебя с ней за дела, но с меня хватит неприятностей. Я заскочил, чтобы забрать вещи. А теперь ухожу, хорошо?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Лучше тебе объясниться, и поскорее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Сделай вдох и успокойся. Расскажи, что тут происходит, и, может, я смогу помочь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"А что? Что там «Ярмарка Звезд» задумала?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Он облизывает губы. "И раз уж я помог тебе, пообещай, что ты не будешь нигде упоминать мое имя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Кадал следит за залом. "Быстрее, пока она не пришла".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Что ты от меня хочешь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Солгать, облизнув губы и пообещав отсосать] "О тебе – ни слова".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Тогда ты отсюда не выйдешь". Парень трясущейся рукой достает с пояса кинжал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Отобрать у Кадала оружие и наставить ему на горло.] "А если подумать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ну если по-другому никак, то ладно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Атаковать – жёстко, без смазки] "Это будет просто".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Размять костяшки] "Уверен? Хорошо подумал?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Просто уходи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Кадал обхватывает голову руками. "Данрид Роу?! О, боги! И как мы не догадались, что они заинтересуются нами..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Рано или поздно они тебя найдут, Кадал. Пока можешь, сделай что-нибудь хорошее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Кадал качает головой, запустив пальцы в волосы. "Я уже и так слишком много рассказал. Умоляю, пообещай, что не сдашь меня им".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Кадал медленно тянется к сумке и достает небольшой ключ. "Он отпирает дверь у тебя за спиной. Там проход вниз, прямо к... театру". Он содрогается. "Лучше сам посмотри".</DefaultText>
+      <FemaleText>Кадал медленно тянется к сумке и достает небольшой ключ. "Он отпирает дверь у тебя за спиной. Там проход вниз, прямо к..." Он содрогается. "Лучше сама посмотри".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Кадал медлит в нерешительности, кинжал в его руке дрожит. Он переводит взгляд с лезвия на вас и обратно. Наконец он бросает кинжал на пол. "П-прости меня! Пожалуйста, не бей!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Кадал поднимает руки вверх. Его сильно трясет. "Прости! Умоляю, не убивай!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Рассказывай, что знаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Тогда выкладывай все".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Он кивает и делает глубокий вдох. "С-спасибо. Но времени мало. Ламдала за мной охотится, и мне надо валить отсюда. Возможно, убираться из города".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Ладно, ладно! У нас и так мало времени, пока Ламдала нас не нашла".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Не могу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Кадал закрывает глаза и вздыхает. "Слава Берасу". Он тянется к сумке и достает небольшой ключ. "Он отпирает дверь у тебя за спиной. Там проход вниз, прямо к..." Он содрогается. "Лучше сам посмотри".</DefaultText>
+      <FemaleText>Кадал закрывает глаза и вздыхает. "Слава Берасу". Он тянется к сумке и достает небольшой ключ. "Он отпирает дверь у тебя за спиной. Там проход вниз, прямо к..." Он содрогается. "Лучше сама посмотри и обнимает его".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Кадал закрывает глаза и сглатывает. "Ключ у тебя. Иди, пока она не вернулась".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Нет, конечно. Ты в этом участвовал, и тебе придется ответить за последствия".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Все не так просто!" Кадал разочарованно и испуганно качает головой. "Но если ты не слушаешь..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"С-спасибо. И... удачи". Он старается не встречаться с вами взглядом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Бросай-ка этот кинжал, пацан, или я тебе его скормлю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Кадал медлит в нерешительности, кинжал в его руке дрожит. Он переводит взгляд с лезвия на вас и обратно. Наконец он бросает кинжал на пол. "П-прости меня! Пожалуйста, не бей!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Он печально опускает голову. "Я пробовал уйти. Честно. Но ты не знаешь, на что она способна".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Он хныкает и закрывает глаза. "Простите меня". Непонятно, к кому он обращается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Давай, ты сначала расскажешь, что знаешь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Спорим, ты в первый раз его держишь в руках?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"О тебе – ни слова".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Мне нужно только прекратить все эти исчезновения. Что ты натворил раньше – мне не интересно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Парень подходит к вам и тихо говорит, не сводя глаз с других актеров. "Встретимся в доме Ламдалы. Я знаю, что происходит".
+
+Он хлопает и свистит остальным актерам. "Чудесно! Просто замечательно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Прости, не могу сейчас разговаривать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Нельзя здесь разговаривать – Ламдала что-то заподозрит".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Сагани смотрит на Кадала глазами, полными отвращения. "Иди за стервятниками и точно набредешь на падаль".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Впервые вижу актера, который не желает афишировать свое имя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Похоже, коротышка хочет сдать всю шайку... Это будет интересно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Алот склоняется к вам. "Не думаю, что нам стоит тратить время на этого дурачка. Нужно остановить Ламдалу, пока она не пронюхала о нас". Он надменно поправляет мантию на бедрах. "К тому же у такого дурачка в штанах, скорее всего, одна жалкая соломинка. Я не трачу время на мелочь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Он не первый, кто ступил на путь тьмы под влиянием темной души... И если он поможет нам, возможно, стоит выполнить его просьбу".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

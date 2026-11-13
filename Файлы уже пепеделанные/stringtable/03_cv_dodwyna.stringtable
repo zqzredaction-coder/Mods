@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_dodwyna</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Войдя в комнату, вы видите группу людей. Они настороже и вооружены, но их снаряжение не чета оружию Рыцарей Горна. В центре круга женщина с цепом связывает другую. Она рычит на съежившуюся фигуру.
+
+"У тебя тут бумаги с исследованиями. Хочешь, чтобы я поверила, что это пустые каракули?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Атаковать, рыча как течная сука] "Я положу этому конец".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Я, пожалуй, пойду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Я клянусь, это только мои записи!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Вы слышите резкий хлопок, когда женщина отвешивает оплеуху пленнице. "Мы знаем, что ты встречалась с Рыцарями Горна. Ты думаешь, вся власть в городе принадлежит им? Нас не просто так зовут Дюжиной. Итак, еще раз…"
+
+Один из мужчин покашливает, женщина оборачивается и видит вас.
+
+С прищуром, она говорит: "Тебе здесь не место".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Отпустите ее и сделаем вид, что ничего не было".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Оставьте ее в покое!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Что здесь происходит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Слишком поздно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Она вскидывает цеп и бросается на вас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Она сжимает цеп. "Это не твое дело".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

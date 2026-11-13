@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\01_defiance_bay_copperlane\01_cv_hamor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ты уже у меня просил, и я сказал – нет, пока не вырастешь и не станешь более ответственным. Забыл уже?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Горди опустил взгляд на землю. "Помню, отец".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"И вот я вижу, что ты тут играешься с кинжалом, который ЯВНО принадлежит Рыцарям. В чем проблема – понятно?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Я не крал его, честное слово! Я обменял его на секрет". Он указывает на вас. "Спроси его!"</DefaultText>
+      <FemaleText>"Я не крал его, честное слово! Я обменял его на секрет". Он указывает на вас. "Спроси ее!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Хамор оборачивается к вам. "Мой сын правду говорит?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Он хочет стать Рыцарем Горна. Мне показалось, так ему можно помочь встать на этот благородный путь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Солгать, скрестив пальцы и ноги] "Впервые этого мальчика вижу".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Правду, конечно. А что, проблемы?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Он лжет! Это он..."</DefaultText>
+      <FemaleText>"Она лжет! Это она..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ты совсем уже берегов не видишь, да? Знаешь, что? Будешь чистить ночные горшки в «Гусе и лисе» следующие три недели".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Это нечестно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Четыре недели! Хочешь, до пяти добавлю? Скажи еще что-нибудь, давай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Он смотрит на вас несколько мгновений, затем качает головой. "Что ж, я все равно не хочу, чтобы у моего ребенка было оружие, но я рад, что он не вор".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Кинжал можешь оставить, но он будет у меня, пока ты не попадешь в оруженосцы к Рыцарям".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Пойдем, Горди. Хватит весь день без дела слоняться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Только раскрыв рот, он тут же передумывает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Да, правду".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Он же просто мальчишка, понимаешь? Что тебе в голову взбрело, когда ты ему такой кинжал дал? Больше к нему не подходи".</DefaultText>
+      <FemaleText>"Он же просто мальчишка, понимаешь? Что тебе в голову взбрело, когда ты ему такой кинжал дала? Больше к нему не подходи".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Горди сглатывает, но не произносит ни слова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Правильно. Теперь дуй в трактир. Ты наказан с этой самой секунды".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Прошу прощенья за то, что мой сын хотел втянуть тебя в неприятности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Горди всегда был упрямым и своевольным".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

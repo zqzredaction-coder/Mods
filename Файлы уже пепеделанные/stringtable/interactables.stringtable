@@ -1,0 +1,5556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\interactables</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>1096</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Светящийся столб</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Труп женщины наклонен вперед, будто она наблюдает за тем, как вместе с кровью утекает жизнь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Руки мужчины распороты от локтя до запястья.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Кровь сгустилась под перерезанным горлом этого трупа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Дыба покрыта пятнами крови и исцарапана ногтями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Похоже, это запачканное и смятое одеяло недавно использовали.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Змеящиеся по полу и потолку кабели подключены к светящейся стеклянной камере.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Густая жидкость бурлит в резервуаре, источая сильный запах. В смеси кружатся пятнышки сущностей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Саркофаг украшает витиеватый герб. Имя на крышке зацарапано до неузнаваемости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Между мерцающими свечами расставлены маленькие плетеные статуэтки с черными камнями вместо глаз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Пещера завалена черепами и костями различных зверей и представителей разумных рас. Они раздроблены, исцарапаны, обглоданы и пробиты клыками толщиной с палец аумауа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Стол, как и другие, изготовлен из поперечного среза одного ствола.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Похоже, что толстая шкура, растянутая на раме, принадлежала штельгару. Вещества для сушки и защиты от влаги, которыми она обильна натерта, источают тяжелый запах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Такое впечатление, что голова скульдра – ровесник трактира. Ее грубая кожа потрескалась и выцвела за годы, которые она была выставлена на показ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>От бочек исходит тяжелый сладкий запах. На стыках досок видны темно-коричневые и тускло-пурпурные пятна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Деревянные чаны заполняют красители. Они воняют перегноем и растениями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>На этой картине изображены просторные подножья холмов близ гор Белого Перехода.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>На натюрморте представлена композиция из фруктов и цветов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Эта картина изображает лесистый овраг где-то в Живых землях.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Стекло этого окна разбито. Оно забито искореженными сучковатыми досками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Этот альков украшен изображениями ряда бледных камней, окружающих доспех. Из камней что-то перетекает в доспех, наделяя его золотым свечением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Из центрального столба растет адра, которая будто стекает по ступеням. В ниспадающей мягкими складками адре видны вложения в виде ярких камней яйцевидной формы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Четыре яйцевидных камня лежат на низких узких пьедесталах. Все они направлены к алтарю в центре комнаты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>К этой доске приколоты изображения различных людей вместе с заметками, написанными неразборчивой скорописью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>На карте показаны окружающие Бухту Непокорности земли. Флагами обозначены стратегические точки доступа в город.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Примечания написаны не поддающейся расшифровке скорописью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Высушенные веточки лаванды и розмарина наполняют кухню ароматом свежести.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Свитки надежно закреплены в шкафах. На внешней поверхности каждого из них начертано имя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Мрамор у основания отполирован сотнями ног.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Эта бесценная картина таверны в Старой Вайлии защищена крепким стеклом в дюйм толщиной.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Это шедевр известного аэдирского художника.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Ножи нагрелись от жара печи. Они выглядят неимоверно острыми.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Смоленая бочка"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Картина с зеленой лесистой долиной действует удивительно успокаивающе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Стол покрыт различными листовками и брошюрами с названиями наподобие "Практические преимущества анимансии" и "Настройка хорошо отлаженной души".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Каменная фигура женщины-воина со взглядом, направленным на поднятую руку. В руке ничего нет, но ладонь и пальцы почернели.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Статуя смотрит на горящий на ладони огонь. Жар, исходящий от мерцающего пламени, греет вам лицо.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>В повестке дня описано собрание по поводу растущего числа беженцев в Бухте Непокорности. Судя по протоколу и вопросам о порядке ведения собрания, дискуссия была бурной и продолжительной.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Дно ванны покрывает толстый слой грязи. От перекинутого через его край полотенца исходит ужасная вонь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Это символ Абидона – огромный кузнечный молот на фоне шестеренки. Он отполирован с маслом до блеска. Кузнецы Арсенала шутят, что на символе нарисован не молот, а тот самый «инструмент», который у Абидона всегда готов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Языки пламени лижут кузнечный горн, с шипением испуская горячий, как дыхание дракона, дым.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Кладбище Заветного Холма</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Заветный Холм</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Первые Огни</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Эти склепы уже вскрыты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>На поверхности склепа выделяются идущие крест-накрест борозды от когтей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Гробница плотно закрыта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>На флаге изображен символ Вайлианских Республик – корабль, плывущий под светом пяти ярких звезд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Камни этой древней башни почернели от пожаров, бушевавших несколько столетий назад. Вокруг растут полевые цветы, и башня выглядит как памятник.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Повозку заполняют глиняные черепки, зачерствелые припасы и вазы, которые когда-то были бесценными, а теперь потрескались и покрылись сколами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>В темноте между досками угадываются какие-то резкие движения и доносится шарканье. Из дома тянет чем-то протухшим.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>На маленькой табличке у основания написано: "Свобода превыше всего – Адмес Хадрет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Аптечная лавка Хендины</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Оружейная лавка Уинфрита</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>На этом надгробии аккуратно сложены отполированные черепа. На нем начертано: "Тут покоятся верные последователи Бераса. Приведены к концу одного пути..." Особо верные жрицы Бледной Рыцарши до сих пор приходят сюда ночью – оставляя на плите отпечатки груди.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>От свечей, расставленных среди черепов, исходит приятный мускусный аромат. На надгробии есть надпись: "...Направлены на новый путь. Так восстают верные последователи Бераса". Запах от свечей – тёплый, как женская кожа после ночи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Ящики забиты записями о взятых и возвращенных книгах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Хоть это и невозможно, но нарисованный глаз, кажется, поворачивается каждый раз, когда вы от него отворачиваетесь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Символы на этих страницах извиваются и меняются. От взгляда на них кружится голова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>На вас смотрит несчетное количество черепов, вмурованных в стену.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>На столе лежит книга. Ее страницы исписаны какой-то неразборчивой тайнописью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Среди ручейков воска последователи разложили различные ключи со спиленными бородками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Дар Ондры – портовой бордель</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Первые Огни</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Сибриз Роу</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Район Копперлейн</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Соленая мачта"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Доки</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Барнакл Роу</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Район Копперлейн</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Свисающие с крана веревки покачиваются от океанского бриза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Корпус этой выброшенной на берег лодки покрывают ракушки. Что-то – скорее всего, острые выступы адры – прорезало глубокие борозды в дереве. Тот, кто пытался через них проплыть, был либо отчаянным, либо неопытным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Кажется, что эта женщина возникла из отвесной скалы. От нее остался только обернутый в мантию скелет, а взгляд ее прикован к массивному проходу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Мужчина-мертвец смотрит на путь в гору. Одна из его лишенных плоти рук поднята, а другой он указывает на дверь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Трактир "Дракоген"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>На столе разложен мрачный ассортимент ржавых клинков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Пыль и нити паутины сметены в сторону, обнажая различные алхимические приспособления. Несмотря на то, что они покрыты ржавчиной и грязью, похоже, что их недавно использовали.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Разбросанные лихорадочные заметки описывают ритуалы и процедуры некромантии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Высеченные из светящейся адры мужчина и женщина выливают содержимое вазы к своим ногам.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Толстая паутина слегка колеблется на ветру в пещере. В ней запутаны высохшие останки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"...неожиданные результаты. Собака-носитель была вялой и неактивной, но дальнейшие исследования показали, что дело было в имплантированной кошачьей душе. Вид клубка ниток привел к значительному оживлению".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>На первой странице книги вайлианских любовных сонетов есть надпись: "Моей ненаглядной Кайнре".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Похоже, что кто-то в спешке перерыл этот неровный ряд книг.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>На склянках много сколов и трещин, будто они упали на пол, а затем их вернули на место.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Кто-то соорудил из простыней и полотенец подобие постели. Помятая ткань затвердела от крови и пота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Одна сторона перевернутой вазы запачкана чем-то алым.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>На столе лежит открытая бухгалтерская книга. В ней перечислены суммы за покупку и продажу различных алхимических ингредиентов и смесей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Мельница медленно перемалывает зерно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Надпись под пустой нишей: "Эмило Вальтас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Надпись под пустой нишей: "Изель Мерис, леди Вальтас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Надпись на гробнице: "Валерио Вальтас, лорд дома Вальтасов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Древние, крошащиеся кости – все, что осталось от несчетного количества жертв.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Мухи кружат вокруг гниющей головы огра, роясь над мертвыми глазами и отвисшей челюстью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Деревянные леса сгнили и обрушились под собственным весом. Вокруг видны признаки раскопок. Очевидно, они уже давно заброшены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Несмотря на то, что надписи на нишах частично стерты временем, на многих видны аэдирские фамилии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Стену украшает ржавый щит, декорированный деревом со множеством листьев. На его нижней части выгравирована маленькая надпись: "Эрл Йенвуда".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Эти большие кости обглоданы начисто, а некоторые расколоты, чтобы можно было добраться до костного мозга. На всех видны следы зубов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Ниши устланы соломой и пучками перьев и шерсти. В воздухе висит мускусный запах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Саркофаг разграблен, его содержимое вынесено. Скелет внутри практически разрушен, его череп расколот на несколько частей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Статуя Магран, богини войны и пламени. На камне у ее ног выцарапаны дюжины имен жаждущих ее благосклонности. Подол ее одеяния задран, а на мраморных бедрах кто-то выцарапал: «Бери меня, пока горит».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Похоже, эти гнезда были заброшены и заселены пауками. В некоторых из них лежат кости и останки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>На вас смотрят восемь сверкающих глаз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Эти большие гнезда сплетены из толстого крепкого шелка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>В задней части гнезда съежился маленький паук. Он шипит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Камни и кирпичи привязаны к старой ржавой тележке толстыми нитями паутины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Испорченный непогодой и покрытый тусклым налетом, этот искусно высеченный столб выглядит намного старше окружающей его конструкции.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Даже на расстоянии чувствуются странные запахи, исходящие от этих бутылок и банок. В мутной жидкости плавают маленькие причудливые предметы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Адра покрывает стены пещеры как мох. Как это ни странно, она кажется теплой на ощупь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Эти останки старые и хрупкие. Судя по фрагментам, разбросанным по полу пещеры, их сюда притащили.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>На столе лежит потрепанная книга. Ее страницы исписаны какими-то бессмысленными каракулями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>От полусъеденного фрукта исходит приторный запах гниения.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Вокруг древних костей выросли деревья и кусты, скрыв под своими листьями этот монумент в честь Галавэйна. Охотники оставляют у статуи кости, а охотницы – бельё: Галавэйн любит любую добычу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Труп на краю бассейна, скручен в муках своей последней агонии. Гниющие костлявые руки все еще тянутся к горлу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Ксаурипы сложили в кучу монеты, поломанные ювелирные украшения и разбитые части изысканно украшенного оружия и доспехов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>В вязкой смеси крови и хрящей покачиваются конечности и органы. Кровавое месиво периодически колыхается в порывах ветра из туннеля над ним.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Здесь покрывающая стену адра тусклая на вид и холодная на ощупь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>В документе оценивается поток беженцев за последние три месяца. Их количество растет с каждой неделей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>На стене развешаны клещи, зубила, молотки, чеканки и пробойники. Они выглядят тяжелыми и крепкими, но закоптившиеся поверхности свидетельствуют о частом использовании.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Множество взбитых подушек, наполненных пухом. Должно быть, у спящего здесь действительно крепкий сон.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Свиток заполнен именами сверху донизу. Возле каждого указана сумма платежа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Стол уставлен тарелками с серебряной каймой и золотыми подсвечниками. Очевидно, преступником быть выгодно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>От обугленных скелетов поднимаются клубы дыма. Вонь тошнотворная.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Исходящая от этого чана жара может сжечь кожу с вашего лица.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Над плитой витают запахи жареной рыбы и устриц. Стойка заляпана жиром.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Выцветшие сатиновые простыни покрыты пятнами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Под эти простыни кто-то засунул дополнительную подкладку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Несмотря на то, что эта кровать много использовалась, она выглядит удобной.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Кровать чистая и покрыта самыми гладкими шелками. Матрас на ощупь легкий как пух.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Недопитые кружки с элем и бутылки вина оставили влажные кольца на стойке. На покрытых жиром тарелках, которые разбросаны вокруг, лежат рыбьи кости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Струйки красно-коричневой крови и клочки плоти заполнили мелкие бороздки камня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Со шкафа свисает венок из соломы, в который вплетены кости животных.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Эта потрескавшаяся скорлупа похожа на кожу, но ломкая. Большая часть истоптана в мелкую пыль мелкими когтистыми лапами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Трещины и щели этого скелетообразного рельефа заполняет вековая пыль.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Столб дергается, чувствуя вашу сущность. Через нее проходят импульсы самого мироздания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>В древней адре еще остался след тысяч душ, разломанных на ней. Ваша душа горит от воспоминания о страданиях.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Сломанные стулья, перевернутые столы и разбитые вазы перекрывают лестницу. Незакрепленные расколотые доски покачиваются.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Из-за карты исходит слабый свет. За ней видно ведущее наружу отверстие с неровными стенками. Такое впечатление, что кто-то его прорыл вручную.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Ящик</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Винный стеллаж</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Лестница расколота и покрыта таким количество трещин, что ее использование не представляется возможным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>От зерна исходит тошнотворный запах. Оно мягкое и покрыто зелеными пятнами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Эта потрепанная книга с загнутыми уголками называется "Путешествия по морю Целдглас". На обложке тисненое изображение гигантского морского чудища.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Эти обвалившиеся камни покрыты норами и узкими трещинами. Следы костей и помет обозначают места прохода зверей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Трава все еще примята там, где проехали колеса повозки. Бочки с кабачками, картофелем и капустой перевернуты и брошены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>В грязи валяются расколотые части ящика и несколько запачканных овощей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Стол</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Полка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Свиток потрепан и потерт, чернила на нем потускнели. "В это тяжелое время... настолько же мы должны верить в себя самих..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Энгвитанские символы потускнели и выветрились со временем, но слова выглядят знакомо: "Долг превыше себя".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Труп</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Выдвижной ящик</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Саркофаг</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Книжная полка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Футляр для свитка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Большой шкаф</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Шкаф</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Ящик</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Бочка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Кучка монет</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Эта перевернутая телега ощетинилась арбалетными болтами. Темные пятна крови покрывают растрескавшиеся деревянные планки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Мусор</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Восходящее солнце и три рассветных звезды – символ Эотаса. Под символом принято оставлять свечу – в знак того, что хозяин дома готов принимать гостей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Тот, кто сидел здесь, ушел в спешке. Свиток запачкан чернилами, скрывшими то, что на нем написано.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Куча мебели с подпалинами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Красно-коричневые мазки отшелушиваются под носком вашего ботинка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Сильный запах специй исходит от одной из этих тарелок. Другие заполнены яркими красителями и зерном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>Грызуны вычистили все тарелки, но по столу все еще разбросаны темно-зеленые участки плесени.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>На стволах некоторых деревьев вырезаны странные символы, красные и неровные, похожие на коросту.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Неподвижные темные воды выглядят как черное зеркало.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>На краях этого углубления держатся осколки зеркала.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Его Милости – пишу я, чтобы просить..." Продолжение этого письма зачеркнуто в нескольких местах, а дальше оно оставлено незаконченным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Эти плотно скрученные свитки содержат выцветшие тексты молитв Эотасу. Многие из них разорваны и растоптаны. Многие свитки склеены давно засохшей спермой – видно, и молитвы читали с пользой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Символы отражают свет лампад. "Вознесем хвалу тем, кто отдал свои жизни во славу Энгвита". 
+
+Бледные камни в комнате выглядят тускло и безжизненно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>Символы на стене отражают остатки света, исходящего от адровых кристаллов, и гласят: "Мы восстанем как один".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Собравшиеся здесь свидетельствуют о твоих сильных сторонах и стремлениях. Встреть вызов с достоинством и знай, что ты возвысишься в смерти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Не в нашей природе прощать. Ищущие искупления вступают на длинный и извилистый путь. На дорогу, которая ведет нас к самым глубинам нашей души и требует, чтобы мы задумались о разбитых частях собственной сущности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>Кокон</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Вода</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>На кирпичах возле дверных петель видны едва различимые царапины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Часть золотых листьев на этих реликвиях откололись и обнажили дерево под ними. На одной из мисок видны следы зубов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Стойка качается на своем основании. Похоже, механизм сломан.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Сундук</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Песок</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Ваза</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>Урна</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>Путь извивается по дну узкого ущелья, обратно к тому месту, откуда вы пришли. Сотни прошедших по дороге караванов оставили в дороге глубокие борозды.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>В странном устройстве мерцает и пульсирует сущность.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>Скрытый сейф</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Души, связанные в вечности".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>Стойка с доспехами</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Стойка с оружием</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Разбитая керамика</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Тело</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Упавшее дерево не поддается. Из рваной раны в стволе течет сок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>Следы вокруг костра едва различимы. Наверное, прошло несколько дней, а то и больше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>Похоже, дверь заблокирована с другой стороны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Деревянный ящик</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>Эта фреска, очевидно, древняя, но цвета все еще яркие и насыщенные. На ней показана процессия энгвитанцев с представителями всех разумных рас: аумауа, эльфами, орланами, гномами и людьми. Они идут среди столбов, похожих на те, что стоят в этом зале, с пламенем на вершине каждого.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Зелья</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>Каменный ящик</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>На север – Каэд Нуа 
+На запад – Бухта Непокорности</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Стол исцарапан и запачкан – он использовался десятилетиями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>По столу разбросаны грязные тарелки и полупустые бутылки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>Это портрет мужчины и женщины, одетых в аэдирскую одежду, которая могла считаться стильной столетие назад. Массивная рама помята, а табличка, на которой когда-то было написано имя заказчика, исцарапана.
+
+Фигуры страстно обнимаются, что противоречит изображенному на их лицах отвращению.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>Мертвый вайлианец</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Нижний уровень руин заблокирован упавшими камнями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>Незакрепленная плита</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Оставив их тела, чтобы предложить души, и забыв слабость
+
+Плоти и хрупкость костей. Безбожные варвары, наконец, уступили".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Время было пеленой для безбожных. У них не было благословений, которые они могли пожать, и милостей, которые они могли посеять".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Воины в железе, непреклонные и яростные. Они стоили тысячи врагов".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Эта массивная конструкция состоит из камня, адры и меди. Она покрыта странными символами, а воздух вокруг вибрирует необычной энергией.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Счет продаж Туатану. Страницы практически пустые.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>Склеп</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>Тело</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>Языки пламени танцуют среди разбросанных подношений. Ключи, монеты и крошечные черепа птиц и мышей впечатаны в расплавленный и затвердевший воск.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>Шкура штельгара покрыта толстым слоем пыли и молью. На табличке под ней написано: "Девственные Водопады, 2682".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Эрол Леви загадочно смотрит с холста.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>Череп</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>Полка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>Владелец собрал солидную коллекцию бутылок со всего света, от терпких аэдирских красных вин до сладких летних вин Рауатай.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>Экземпляры сценария и декорации спектакля "Грустная история Фавии и Берната".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>Все тарелки и столовые приборы отполированы до безупречного состояния. Бокалы на тонких ножках мелодично звенят при ударе ногтем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>На винном стеллаже стоят вина различных годов со всей Эоры. Все они очень, очень дорогие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Трактир "Дракоген"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>(Строка не найдена)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Кузня "Черный молот"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Трактир "Черная гончая"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"Гусь и лиса"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Небесные саженцы"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"Смоленая бочка"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Мертвый приключенец</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>Сон рабочего</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Гордость Дирвуда</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>Пристанище купца</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>Лисья нора</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>Чудеса мира</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>Пристанище лучника</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>Гнездо вирма</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>Укрытие дрейка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>Логово дракона</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>Убежище злодея</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>Покои вельможи</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>На запад – Позолоченная Долина
+На юг – Компас Анслойга
+На восток – Черный луг</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>Пристанище скитальца</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>Небесные апартаменты</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>Широкий луч</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>Блестящая жемчужина</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Соленая мачта"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>Аптечная лавка Хендины</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>Оружейная лавка Уинфрита</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Пристанище Адмеса"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>Бонус мастерской</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>Бонус ботанического сада</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>Бонус капеллы</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Бонус оружейной</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>Бонус форума</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>Бонус лабиринта</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Бонус библиотеки</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>Бонус башен</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>Бонус тренировочной площадки</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>Бонус сторожки</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>Бонус лесных троп</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>Бонуса нет</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>Брайтхоллоу</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Воин должен вызвать двух свидетелей, и они должны занять места возле эмблем, чтобы свидетельствовать о качествах его души. Воин должен подняться на помост с сосудом для души в руке, чтобы пройти превращение".
+
+"Неся свой сосуд для души и оружие с сердцевиной из адры, воин затем должен подойти к урне. Таким образом, он создаст оружие, достойное его навыков и стремлений".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>Оружейная</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>Лавка редкостей</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>Капелла</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>Кровь, еще влажная, стекает с перерезанного горла женщины, впитываясь в простыни.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>Алтарь</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>На север – Хватка Герэйна 
+ На юг – Позолоченная Долина</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>Припасы Хеодана</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>Тело холодное, и от него идет отвратительный гнилой запах. На простой льняной одежде застыло темное пятно крови.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>Товары Ринатто</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>Травы Алархи</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>Заморские товары Ранета</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>Припасы Масдена</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>Оружие и доспехи Дервин</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>Меха и кожа Тамры</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>Травы Корена</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>Мешки практически полностью сгнили.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>На пожелтевших и выцветших картах залива возле Дара Ондры показаны пути через шлюзы между дамбами, которые удерживают океан. На полях – пометки борделей и их цены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>Обе половины древка переломанного копья покрыты замысловатой гланфатанской резьбой. На влажном дереве видны покрытые зеленым мхом вмятины, возникшие, возможно, от ударов о речные камни.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>Ловушка "Иней и мороз"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>Это кожаный рюкзак, содержимое которого смыто потоком реки, блестит как мокрый камень.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>Труп покрыт глубокими порезами. Несмотря на окружающую влагу, на них видна застывшая кровь. Остатки сущности парят над изуродованной плотью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>Ботинок наполовину зарыт в ил на речном берегу, будто его принесло течение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>На камне выцарапаны руны и символы. Вы не знаете, как их прочитать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>Нишу покрывают изображения мужчин и женщин, которые размахивают молотками и плавят железо над горном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>На иероглифах, покрывающих колонну, изображены мужчины и женщины, по очереди спускающиеся в бассейн. Фигуры, которые возникают под ним, стоят с распростертыми руками и торжественно умиротворенными выражениями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>Изображения в этой нише показывают процессию, шагающую к алтарю. На алтаре лежит одинокая фигура мужчины, и один из участников процессии вонзает в его сердце нож. Что-то перетекает из умирающего в белый камень, расположенный над алтарем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>На колонне над этой нишей высечена серия пиктограмм, простых, но понятных. В верхней части колонны изображены фигуры мужчин и женщин с поднятыми руками. В нижней части высечены доспехи в том же положении.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>На этой колонне показаны сцены из боя. Армия мужчин в набедренных повязках и шкурах сбилась в месте, подавленная дюжиной огромных доспехов, которые над ними нависают. В последовательности идущих вниз изображений доспехи уничтожают армию.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>Этот столб покрывают руны. Вы не знаете, что они означают.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"Как могут добродетельные сопротивляться богохульству и беззаконию?
+
+Где может вяз пустить корни, чтобы их не вымыли бури?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>"Вечно жаждущие народов и золота. Они были беспощадными и бесстрашными".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>"Дикари собрались у ворот со своими стрелами, и мечами, и копьями,
+
+Жаждущие завоеваний и добычи. Их вожди и воины не боялись ни
+
+Отмщения богов, ни гнева своих врагов. Смерть не была для них наказанием".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"Пикос не мог договориться с их вождями. Может ли народ достичь порядка, если
+
+Закат приносит темноту, но не дает карты в небесных звездах?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"Народ опущенных глаз никогда не заботится о душе, а только о плоти".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>Мертвый приключенец</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>Сокровищница</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>У статуи отбито почти все лицо и части рук.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>Кто-то снял с этого орлана кожу и повесил его труп. Высушенная плоть стала жесткой и грубой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>Чучело сделано из нескольких кривых палочек, связанных грубой бечевкой. Оно отбрасывает зловещую дрожащую тень на стену.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>К деревянному чучелу прикреплены черепа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>Мазками чего-то похожего на кровь на холсте нарисован неровный символ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>На столе лежит мужчина в окровавленной мантии. Вокруг его рта и глаз толстой коркой застыла кровь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>Шкаф искусно изготовлен из ценной породы дерева темного оттенка. Многие полки сломаны из-за годов активного использования.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>Этот потрепанный и выцветший ковер когда-то мог выглядеть уместно в крепости вельможи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>Элегантная ваза, покрытая трещинами и сколами. Похоже, это антиквариат из Аэдира.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>Внутренности оленя кишат червями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>В озерце, оставленном отливом, теснятся крабы и мелкая рыба.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>Ваше отражение искажается и перекручивается в живой сияющей адре.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>Страницы тома блестят под толстым слоем инея.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>Вода в этом колодце превратилась в лед, поймав в ловушку мелкую рыбу из озера под храмом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>Отраженный свет покрывает пятнами ледяное зеркало за статуей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>Изо льда тщательно высечена каждая линия и морщина обветренного лица воина с хмурым взглядом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>С краев ниши капает вода.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>Несмотря на то, что кандалы холодные, они не покрыты льдом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>Бронзовые кандалы блестят от инея.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>На коже шатра остались большие клочья шерсти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>Несмотря на прохладу, внутри постелей тепло.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>От стула исходит неестественный, пронизывающий до костей холод.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>Книги покрывает иней со следами рук.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>Лед твердый и прочный как камень.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>Такое впечатление, что блестящая стена льда высасывает все тепло из комнаты. Холод обжигает вашу кожу, и вы отдергиваете руку, не успев ее коснуться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>Морозный Раскол бездействует. Теперь это не более чем идеально гладкая стена льда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>Кривое чучело грубое связано из бревен, чешуйчатых шкур и костей. Его верх украшает человеческий череп.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>Расколотый и обуглившийся камень закрывает проход в Солнце в Тени.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>Вы видите записку, адресованную домашней прислуге:
+
+"Прошу вас позаботиться о том, чтобы семейный склеп был подметен, а мрамор – отполирован. Ключ висит, как всегда, в кухне возле плиты".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>Похоже, это тот крючок, о котором говорилось в письме, но ключа от мавзолея на нем нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>Это массивное лицо каким-то образом сформировано из живой адры. Все его грани гладкие и прямые.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>Большая часть этих книг почернела и рассыпается, став жертвой плесени и гниения. Текст, который удается разобрать, написан на староаэдирском.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>*temp*</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>Мастерская</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>Марчено свисает с бушприта. Его глаза и язык набухли и вздулись.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>Вязкая жидкость с острым металлическим запахом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>Кровь, пролившаяся из этого ведра, въелась в камень. Привязанная к корзине веревка выглядит достаточно длинной для спуска в яму.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>Камни на краю пропасти скользкие и покрыты каплями влаги.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>Ведро наполнено кровью. От нее исходит едкий запах. Поверхность жидкости покрывает темная пленка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>На карте из кожи шпильками из костей отмечен ряд точек вдоль гланфатанского берега реки Бейл.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>Собрание рукописей</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>Загадочные товары Лоры</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>Оружейная лавка Играна</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>Крупный песок нельзя назвать мягким. Он пересыпается и вздыхает под ногами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>Всякая всячина Нармера</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>Товары Перегунд</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>Оружейная Крепости Горна</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>Пучки рыжеватой шерсти и смятых трав устилают небольшую нишу в задней части пещеры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>Из глубин поднимается густой и теплый туман.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>Несмотря на очевидно грубую конструкцию, углы покрытой дерном крыши идеально симметричны. Она гудит и дрожит от кипящей внутри деятельности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>Из этого дома просачиваются запахи древесного дыма и тех, кто там находится.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>Тень пьедестала стелется возле помоста.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>На высоте более сотни футов блоки и опоры исчезают в ветвях огромного вяза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>Жаркий и влажный ветерок исходит из пещеры в голове чудовища. С каменных зубов капает осевшая влага.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>Заросший мхом камень покрыт отметинами древних скульпторов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>Над замерзшим озером висит прохлада, которая высасывает тепло из окружающего воздуха.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>Аптека Пурниска</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>Аптека Пурниска</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>Аптека Пурниска</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>Душный воздух насыщен потом и дымом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>Кора теплая на ощупь. Такое впечатление, что корни обвивают вашу руку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>Падающие с деревьев золотые листья сверкают и блестят.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>Аптека Пурниска</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>Простые товары</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>Ведро наполнено кровью. От нее исходит едкий запах. Вы узнаете "Слезы Моджи", сильный яд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>По столу разбросаны потрепанные куски веревки и несколько осколков кремня.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>На этом пыльном участке растут только сорняки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>Изгородь растет неровными участками, пронизанными сорняками и высокой травой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>Деревянные ящики заполнены спутанными проводами и поломанными шестернями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>В сорняках лежат шкуры ящериц, кости и зубы различных размеров.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>Тайный люк сильно поврежден дождем, ветром и прочими стихиями. Единственный результат, который вам удается получить, подергав за ржавую рукоятку, – громкий грохот.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>От одной из разбитых бочек все еще исходит едва заметный запах эля, давно вытекшего в грязь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>Воздух наполняют кислые запахи прогорклого зерна и испорченных фруктов. Стойка с ржавой утварью покрыта пылью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>Шкафы трещат под весом книг. Многие из обложек покрыты плесенью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>Смотрители Камня</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>Остатки разломанного перегонного куба, потресканной ступы и множества разбитых бутылок и баночек на столе покрыты паутиной.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>Каменный Куст</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>Рассеченные Стрелы</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>Трехклыкий Штельгар</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>Журавль-рыболов</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>Ведомый Компас</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>Стена исцарапана почти неразличимой вереницей бранных слов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>Коричневый от возраста череп дракона отполирован до блеска.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>В пустых полках поселились пауки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>На карте изображены старые границы колоний Дирвуда. На месте сегодняшней Бухты Непокорности отмечено селение под названием "Новый Данрид".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>В голове скульдра недостает одного стеклянного глаза и нескольких зубов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>Сияющая адра</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>Энгвитанский механизм</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>Зелья и ингредиенты Бледы</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>Оружейная Крепости Горна</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>Кожевенная мастерская Тригила</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>Стекло стало полностью непрозрачным от грязи и соли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>Корка грязи и мертвых ракушек доходит почти до потолка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>На столбе высечены имя "Мервит" и ряд пронумерованных зарубок. Нижняя зарубка отмечена цифрой "4", а верхняя – "17".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>Череп дрейка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>Смеси и жидкости в этих бутылках отстоялись, разделившись на слои.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>Маленькие белые камни выступают из скалы. Кажется, что они прочно закреплены, но, судя по выемке, один из них был вынут.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>Поверхность покрывают потускневшие, неразличимые руны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>"Вайлианская торговая компания"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>Мерцающая стена энергии перекрывает этот проход как занавесь. Она противодействует движению с неестественной силой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>Мерек</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>Драфден</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>Травы Ивен</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>Куча костей</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>Скелет</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText>"Вайлианская торговая компания"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>Черный рынок</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>Пустотелая книга</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>Дом Доменелов</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>Из трупа торчат грубо сделанные стрелы с ярким оперением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>Длинные и мелкие борозды ведут на восток. Они запачканы кровью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>Приблизившись к алтарю Ваэля, вы слышите пронзительный звон. Другого ответа не возникает. Это Ваэль подсматривает за вами со стен: вам кажется, что кто-то уже раздел вас взглядом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>При приближении к алтарю Воедики ничего не происходит. Воедика, как и положено госпоже, молчит и ждёт, пока вы опуститесь на колени.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>Криви</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>"Пристанище Адмеса"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>Товары Урвы</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>На одной из сторон этого столба выгравированы сотни гребней и завитков. Адра блестит даже под слоем грязи и мха.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>Припасы Клыков</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>Старая конюшня</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>Булыжник в центре кольца из острых камней отбрасывает на песок длинные тени.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>В центре этого пьедестала есть цилиндрическое углубление, которое едва шире древка копья.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>Следы и пятна крови ведут дальше на восток.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>Палатка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>"Забранная силой сущность может поддерживать одного, но сущность, которая отдана добровольно, наделяет силой многих..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>От шкур исходит тяжелый маслянистый запах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>Мелкослойная древесина щитов тщательно отполирована.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>Фрукты, спелые и сочные, немного поддаются при нажатии большим пальцем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>От полок исходит мускусный запах странных трав и кореньев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText>Камни сглажены от столетий воздействия ветра и дождя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>Общая комната</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>Каждая планка на входе подогнана идеально.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText>Темный проход перегораживают железные прутья. Они не поддаются, а механизма для подъема снаружи рядом не видно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>Надпись под семейным гербом: "Вальтас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>Похоже, кто-то разбил семейный герб этой усыпальницы молотком. Надпись под ним неразличима.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>В покрывающем кирпичную кладку угольно-черном пепле видны слабо различимые силуэты представителей разумных рас.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>По всей длине поломанных столбов идут фрагменты выцветших энгвитанских рун.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>Табличка под витриной:
+
+"Легендарный Золоченый клинок Лорна, способный умертвить любого противника одним ударом. Поломан в Битве Сторожевой башни".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>Свитки с молитвами покрыты толстым слоем грязи и пыли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>Под слоем адры видны толстые медные вены, играющие роль скелетоподобного каркаса. Они выступают над поверхностью как кости из гниющей плоти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>Изысканно украшенные каменные гробы отделаны адрой. Покрытую драгоценными камнями полусферу в центре крышки окружают необычные руны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>Руны и гравировка на этом знакомом механизме неестественно хорошо сохранились. Сам механизм остается неподвижным и безжизненным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>Поверхность адры стала бледно-алой. Большие куски отвалились от стен и потолка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>По тому, что осталось от статуи, можно предположить, что она изображала молодого воина. Время стерло детали одежды, оставив только неразборчивые очертания.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>По тому, что осталось от статуи, можно предположить, что она изображала молодого воина. Вдоль основания начертаны руны, и у ног статуи указано имя: "Марос".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>541</ID>
+      <DefaultText>Треснувший доспех анимата</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>Сломанный механизм</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>Кристалл</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>"Соленая мачта"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText>Странные механизмы потрескались в нескольких местах, а некоторые их детали сняты. Очевидного способа их запустить нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>Адра вросла в трещины этих повидавших виды уступов как плесень, пробираясь в обход камня и меди.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>Такое впечатление, что высокие столбы, будто сделанные из зеленого стекла, проросли из-под земли. Внутри танцуют тени, отброшенные мерцающим огнем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText>Спокойные воды немного пахнут отбросами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText>На воде покачиваются хлебные крошки и разорванные объявления.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText>Это здание, грубое и функциональное, запачкано грязью и миазмами суетливого и быстро растущего города.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText>Щиты побиты и исцарапаны в боях, которые остались в далеком прошлом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>Скамейки засорены куриными костями, разбитыми бутылками и жирными клочками бумаги.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>Между влажными потрескавшимися кирпичами здания прорывается канализационный газ.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>Постель покрыта грязными отпечатками ног и пятнами эля.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>На этой картине пейзаж сада наискось пересекают длинные неровные порезы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>В углу сложено несколько походных постелей и запасных туник.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>На крепких койках лежат тонкие одеяла и еще более тонкие матрасы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>Из таза поднимается тошнотворный запах. Тарелки наверху кучи усеяны кусочками мяса и сыра. Лежащие в нижней части покрыты липкой плесенью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>Все, что осталось после длительного штудирования, – пролитый чай, пустые чернильницы и подробный рисунок огнедышащего гнома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>Кто-то оторвал этикетки с бутылок. Они наполнены темной неприятной гущей с едким запахом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText>Из простынь и подушек сооружена пара импровизированных кроватей. Ткань запачкана потеками какой-то темной жидкости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>Кастрюли закупорены коркой какой-то непонятной гущи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>564</ID>
+      <DefaultText>Тлеющий огонь забросан тем немногим, что осталось от недавней трапезы, – рыбьими костями, заплесневелой коркой сыра и хлебными объедками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText>Маленькая шаткая палатка еще чудом не упала.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>566</ID>
+      <DefaultText>В зеленой жиже корчатся жирные личинки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>На дне канавы осталась вязкая вонючая грязь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>568</ID>
+      <DefaultText>Гном и орлан по другую сторону занавески поглощены философскими дебатами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText>На картине изображены гланфатанские руины. Холст покрыт широкими мазками талантливого художника-любителя. "Колодец Ибрел, 2665 г.".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>Эскиз дракона, нарисованный углем. Судя по толстым неровным линиям – и едва различимому запаху серы, – художник делал этот набросок в спешке. "Скалистый дракон. Белый Переход. 2685".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>571</ID>
+      <DefaultText>Среди работ с такими названиями, как "Флора Живых земель", "Единство в разобщении: история Архипелага Мертвого Огня" и "Трактаты о народе Кулкина", лежат полдюжины журналов путешествий, перевязанных бечевкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText>Такое впечатление, что этот адровый столб вырвался из-под пола, поглотив темную нечеткую фигуру.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>573</ID>
+      <DefaultText>"Старая Вайлия, южное побережье, ок. 2670 г. по И.К."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>574</ID>
+      <DefaultText>Страницы этих старых книг хрустят и пахнут солью морского бриза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText>Местоположения энгвитанских руин обозначены кинжалами. В примечаниях, прикрепленных к карте, перечислены ставки на текущие экспедиции.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>576</ID>
+      <DefaultText>Лезвия этих мечей затуплены для тренировок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>577</ID>
+      <DefaultText>На этом чучеле кто-то начертил мелом "Командор Клайвер".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>578</ID>
+      <DefaultText>Внешние кольца этой мишени изрешечены несчетным количеством дырок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>579</ID>
+      <DefaultText>"Стрелы предназначены ТОЛЬКО для тренировок в Зале экспедиций. Приобретайте оружие для личного использования у Сонильды. БЕЗ ИСКЛЮЧЕНИЙ. – Осрик"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>580</ID>
+      <DefaultText>Книги на полках содержат сведения по истории и мифологии Старой Вайлии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>Все названия связаны с гланфатанской математикой и геометрией.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>"Путешествия Эрола Леви, 2662 – 268?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>Полки уставлены различными пьесами со всего мира.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>Между жестяными шлемами и нагрудниками скрывается кучка кинжалов, которые слишком острые для бутафории.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>На картине изображена известная сцена из "Света зари", в которой путешественник и призрак встречают умирающего от голода мужчину.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>Это официальная эмблема Свободного палатината Дирвуд – голова оленя в центре и шестиконечная звезда в углу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText>Тут, где по траве никто не ходит, она выросла сочной и густой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>588</ID>
+      <DefaultText>На картине изображена шеренга воинов, стоящих на стенах Бухты Непокорности, и уплывающие аэдирские корабли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>589</ID>
+      <DefaultText>Это перечень действующих патрулей и учтенных преступлений в Даре Ондры. Количество вторых значительно превышает количество первых. Среди преступлений – измены, проституция и торговля жёнами; патрулей значительно меньше.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText>Клинки острые как бритва.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>Деревянный стул выглядит надежным, хоть и не совсем удобным. Обшивка стала плоской в ходе несчетного количества слушаний, а на ощупь оказывается, что на грубой древесине множество зазубрин, о которые можно распороть одежду.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>В предложении подробно описаны условия сотрудничества дирвудских и вайлианских анимансеров.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>593</ID>
+      <DefaultText>В заметках с двумя разными стилями письма описан ряд уступок и встречных предложений в сделке по блокированию запроса на финансирование анимансии от другого делегата.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>То ли по замыслу, то ли из-за мерцания света свечей, лицо статуи в капюшоне практически не видно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>На столе разложены планы разрабатываемой торговой сделки между торговой компанией из Республик и дирвудским объединением, поставляющим шерсть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText>На объявлениях указаны текущие цены на ряд товаров, а также текущий курс обмена для вайлианского люша.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText>В скрученных счетах и чеках записаны суммы, выплаченные тем, кто работает на Мэй, а также ее затраты на эль, рыбу и постельное белье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText>Это весьма непристойное признание в любви кому-то по имени "Сирил".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>Вблизи они выглядят более удобными, чем можно ожидать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>Похоже, игра в данридский покер закончилась внезапно – по столу разбросаны карты и трубки с блаксоном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>Удивительно, но между этими подушками мелочи не нашлось.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>Душа Таоса, висящая в душном воздухе, вертится и извивается, будто пытаясь остаться.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText>В путевом листе перечислены грузы "Принчипа ме Циамена" – четыре сотни акульих шкур из Рауатай, двадцать связок черного дерева из Живых земель и шесть дюжин бочек аэдирского эля.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>Свернутые морские навигационные карты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>606</ID>
+      <DefaultText>"Для немедленно перевозки в Барду. ХРУПКОЕ. ОСТОРОЖНО."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>607</ID>
+      <DefaultText>"Огнеопасно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>608</ID>
+      <DefaultText>"Живые образцы – не открывать!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>"Высокочтимый Местре Верцано!
+
+Несмотря на то, что ваши амбиции достойны любого сына Республик, этого нельзя сказать о ваших методах. Герцоги однажды попросили вас позаботиться о деловых интересах всех Республик. Они не привыкли просить дважды.
+
+Висент Агости"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>Под грязным тряпьем и изъеденными молью полотенцами скрутилась неподвижная фигура.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText>Поверхность одной из булок заселила бледно-зеленая плесень.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText>Дерево, из которого изготовлены эти бочки и ящики, вздулось и покоробилось будто от воды.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText>Из окна видна небольшая часть залива за Даром Ондры. Над увенчанными гребнями волнами кружат чайки и проплывают облака. Из окна видно и бордель, из которого доносятся стоны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>Толстое стекло этих столбов холодное на ощупь. Внутри ничего не светится.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>615</ID>
+      <DefaultText>Дюжина крошечных существ извивается в горшке с рисом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
+      <DefaultText>Кровать твердая как доска. Похоже, изношенные грязные покрывала могут разойтись на части при стирке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>Под покрывалом с черными пятнами спрятаны липкие бумажные пакеты со свефом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>618</ID>
+      <DefaultText>Под кроватью кто-то спрятал несколько засаленных карт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>619</ID>
+      <DefaultText>Круглые отпечатки на простынях формой и размером подходят под трех сидящих.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>620</ID>
+      <DefaultText>Обернутая вокруг стула веревка ужасно колючая.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>621</ID>
+      <DefaultText>Вода в ведре помутнела от крови.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>На нижней поверхности стола есть ручка – его изготовили из старой двери. При малейшем давлении он начинает покачиваться на бочках.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>623</ID>
+      <DefaultText>Грязные окна заклеены бумагой изнутри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>624</ID>
+      <DefaultText>Крыша с искривленной и частично отсутствующей черепицей напоминает щербатую улыбку борца-профессионала.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>625</ID>
+      <DefaultText>Вокруг лодки разбросаны доски – неясно, была ли она покинута в процессе строительства или разобрана на древесину.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>626</ID>
+      <DefaultText>Под ногами хлюпает грязь. Из-под мусора разбегаются крабы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>627</ID>
+      <DefaultText>К кирпичам и доскам прикрепились моллюски. Их раковины настолько острые, что могут порезать плоть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>628</ID>
+      <DefaultText>Эти очаровательные окна укреплены железными прутьями и стеклом двойной толщины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>629</ID>
+      <DefaultText>Мрамор прохладный и идеально гладкий. Статуи покрыты каплями кристально прозрачной воды.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>630</ID>
+      <DefaultText>На апельсинах нет и пятнышка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>631</ID>
+      <DefaultText>К стене прикреплены зацепки по делу, которое, очевидно, связано с караваном, пропавшим по пути в Новый Хеомар.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>632</ID>
+      <DefaultText>Либо эти записки написаны шифром, либо у автора чрезвычайно скверный почерк.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>633</ID>
+      <DefaultText>Некоторые из этих марочных вин даже старше Бухты Непокорности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>634</ID>
+      <DefaultText>Ряд записок, в которых строятся предположения насчет личностей участников и местоположения тайной секты в Бухте Непокорности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>635</ID>
+      <DefaultText>"Что твоя душа пытается тебе сказать"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>636</ID>
+      <DefaultText>Похоже, это зарисовки энгвитанских руин и артефактов, сделанные на месте.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>637</ID>
+      <DefaultText>Прутья клетки обгрызаны и исцарапаны когтями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>638</ID>
+      <DefaultText>Странный механизм, который, кажется, гудит от заключенной в нем энергии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>639</ID>
+      <DefaultText>Медные провода и проводники блестят. Устройство теплое на ощупь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>640</ID>
+      <DefaultText>В резервуаре что-то бурлит и пузырится.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>На искореженных досках видны глубокие борозды. Судя по расстоянию между ними, их могли процарапать ногти человека или эльфа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>642</ID>
+      <DefaultText>Ведро воняет требухой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>643</ID>
+      <DefaultText>Цепи стонут от возросшего веса. Края койки покрыты серпообразными следами укусов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>644</ID>
+      <DefaultText>Поверхность стола покрыта подсчетами, спешно начертанными мелом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>645</ID>
+      <DefaultText>Этикетки, аккуратно повернутые наружу, украшают ряд марочных вин. Впрочем, все названия скрыты под слоем пыли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>646</ID>
+      <DefaultText>Кожура такая яркая и красная, будто кто-то потратил время на то, чтобы тщательно отполировать каждый фрукт.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>647</ID>
+      <DefaultText>В бухгалтерскую книгу записаны различные количества зерна, меди и шерсти. Судя по глубокому сгибу, идущему вдоль корешка, книга постоянно открыта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>648</ID>
+      <DefaultText>Такое впечатление, что яблоки не настоящие – настолько они красные.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>649</ID>
+      <DefaultText>Диван изящной работы на поверку оказывается жестким и неудобным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>650</ID>
+      <DefaultText>На ощупь похоже, что покрывало сделано из заморского аэдирского шелка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>651</ID>
+      <DefaultText>Хоть у автора этого пейзажа есть определенный талант, но мазки, очевидно, нанесены в спешке. Такое впечатление, что художник больше времени потратил на свою подпись, "А. Доменел", чем на все остальное.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>652</ID>
+      <DefaultText>Искусную передачу цвета на этой панораме затеняет огромная подпись вдоль нижней кромки холста: "Абрекан Доменел".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>653</ID>
+      <DefaultText>Печь пахнет жареной дичью и свежеиспеченным хлебом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>654</ID>
+      <DefaultText>Похоже, эта карта Дирвуда и Эйр-Гланфата составлена до открытия некоторых руин на востоке. На ней стоит подпись картографа: "А. Скеррион".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>655</ID>
+      <DefaultText>На карте показаны маршруты, идущие через Белый Переход.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>656</ID>
+      <DefaultText>Кувшин для воды из Иксамитля, изготовленный из белой глины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>657</ID>
+      <DefaultText>Эта пепельница окрашена цветными волнами и завитками в стиле Рауатай.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>658</ID>
+      <DefaultText>Друг с другом соседствуют сорта виски бледно-желтого цвета из Дирвуда и виски насыщенных янтарных оттенков из Живых земель.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>659</ID>
+      <DefaultText>Фляги со знаменитым "выжигателем души" с Архипелага Мертвого Огня примостились возле совершенно прозрачных алкогольных напитков нааситаков и гламфелленов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>660</ID>
+      <DefaultText>Отсюда особняк выглядит заброшенным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>661</ID>
+      <DefaultText>Адровый механизм, после того, как из него была выпущена сущность, стал неподвижным и тихим.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>662</ID>
+      <DefaultText>Матрас комковатый и пахнет старой соломой, но тот, кто спал на нем последним, аккуратно его застелил.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>663</ID>
+      <DefaultText>При хлопке по старому шершавому покрывалу в воздух поднимается пыль. Эту кровать никто не использовал уже несколько недель.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>664</ID>
+      <DefaultText>Пульсирующая, тянущая энергия механизма здесь кажется еще сильнее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>665</ID>
+      <DefaultText>В свитке пером и тушью изображена схема адрового механизма, который пронизывает башню. Несмотря на многочисленные измерения и тщательно прорисованные детали, на назначение механизма в нем ничего не указывает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>"День 2. Мы закончили наши измерения механизма (благодаря юношеской живости Триндига!). Чтобы выявить его предназначение, нам потребуются дальнейшие исследования".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>"День 7. Прошла неделя исследований, а мы не приблизились к разгадке назначения этого устройства. Триндиг все еще настроен оптимистично – не знаю, что бы я делал без его задора".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>668</ID>
+      <DefaultText>"День 10. Покровители становятся нетерпеливыми из-за отсутствия ощутимых результатов. Пусть попробуют вытащить себя из уюта своих особняков и проведут несколько ночей здесь, если думают, что это так просто".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>669</ID>
+      <DefaultText>"День 11. Наконец-то выбрались из башни, чтобы освежиться. Чтоб этих покровителей твари взяли! Мы закончим исследования на наших собственных условиях и потратим столько времени, сколько посчитаем нужным. Как раз тогда, когда я это говорил Триндигу, небо заиграло бесконечными молниями. Я сказал, что это хороший знак, но бедный парень испугался. Единственное лекарство от этого – хорошо выспаться".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>670</ID>
+      <DefaultText>"Работы энгвитанцев – полное руководство"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>671</ID>
+      <DefaultText>Находиться возле устройства – все равно что стоять посреди жестокого шторма. Каменные ступени гудят от энергии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>672</ID>
+      <DefaultText>Нити паутины покачиваются на сквозняке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>673</ID>
+      <DefaultText>Эти склепы закрыты наглухо и облеплены паутиной.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>674</ID>
+      <DefaultText>Среди свечей разбросаны мелочи, образующие импровизированный семейный мемориал – вайлиансие люши, камея с выгравированной женщиной в пышном наряде и бирюзовое ожерелье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>675</ID>
+      <DefaultText>Брошенная картошка покрыта влажными зловонными пятнами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>676</ID>
+      <DefaultText>Этот черствый хлеб стал твердым как камень.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>677</ID>
+      <DefaultText>Что-то – или кто-то – разломало этот подсвечник на две части.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>678</ID>
+      <DefaultText>На печи бурлит ароматная и сытная похлебка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>679</ID>
+      <DefaultText>От новых шкафов исходит насыщенный запах свежей древесины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>680</ID>
+      <DefaultText>По разломанной лестнице снуют крысы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>681</ID>
+      <DefaultText>Окно на другой стороне шторы выходит на спутанные ветви оставленной без ухода живой изгороди.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>682</ID>
+      <DefaultText>Окно на другой стороне шторы выходит на идеально ровные ряды лабиринта из живой изгороди.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>683</ID>
+      <DefaultText>Толстая шерсть мягкая и теплая на ощупь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>684</ID>
+      <DefaultText>За домом бурлит жизнь диких земель Дирвуда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>685</ID>
+      <DefaultText>Тут стоит новая бутылка вина с прикрепленной запиской:
+
+"В следующий раз, когда будешь в Брэкенбури, мы откроем такую бутылку вместе.
+
+За твое здоровье.
+Абрекан"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>686</ID>
+      <DefaultText>Тут стоит новая бутылка вина с прикрепленной запиской:
+
+"В честь нашего нового союза я заказал доставку одного из лучших марочных вин из нашего погреба и от моего бесполезного сына. Выпьем за благополучное будущее!
+
+Искренне ваш,
+Г. Доменел"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>687</ID>
+      <DefaultText>В ящике спрятана записка с ярко-красным отпечатком губ. От нее исходит сильный запах приторных духов.
+
+"Благодарю тебя еще раз за помощью с Колфегом. Так приятно иметь друга, который знает, что делать. Приходи ко мне в любое время.
+
+Бриканта"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>688</ID>
+      <DefaultText>Серые и коричневые шкурки мышей мелькают между досками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>689</ID>
+      <DefaultText>Цепи жаровни затвердели от ржавчины.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>690</ID>
+      <DefaultText>Внутри бочек блестят серебристые следы слизняков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>691</ID>
+      <DefaultText>Стена покрыта рядом коротких, аккуратных линий, сделанных мелом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>692</ID>
+      <DefaultText>Кто-то прочертил спирали и ступени в каком-то веществе, которое выглядит и пахнет как экскременты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>693</ID>
+      <DefaultText>Поверхность койки жесткая и шероховатая из-за торчащих щепок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>694</ID>
+      <DefaultText>Такое впечатление, что эту старую хрупкую кучу удерживает вместе только паутина.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>695</ID>
+      <DefaultText>Какое-то существо сделало себе гнездо из старой соломы и обивки матраса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>696</ID>
+      <DefaultText>Под покрывалом спрятаны три засаленных игральных карты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>697</ID>
+      <DefaultText>Под подушку засунут набросок молодой эльфийки с большими глазами и маленьким острым носиком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>698</ID>
+      <DefaultText>Книга о бурном романе отважной молодой женщины-анимансера и немногословного мускулистого гланфатанца. На обратной стороне обложки сделана надпись:
+
+"Увидела это, когда перебирала книжные полки, и сразу подумала о тебе (не в том смысле). Подумала, что в пути у тебя найдется время, чтобы получить удовольствие от чтения этого романа. Друг мне сказал, что он интересный. Сама я его не читала. Честно.
+
+Недин"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>699</ID>
+      <DefaultText>На этих полках есть несколько новых книг. Между ними зажата записка от Этельмоера:
+
+"На память о Лечебнице Брэкенбури. Относись к этим книгам бережно – большая их часть все еще запрещена в Аэдирской империи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>700</ID>
+      <DefaultText>В этом полевом дневнике есть зарисовки корня Адмеса, диркапа и других распространенных растений.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>701</ID>
+      <DefaultText>"Пусть последователи Магран преобразятся благодаря ее испытаниям. И пусть Магран возьмет их, как сочтет нужным – и сколько захочет раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>702</ID>
+      <DefaultText>"Пусть верные Берасу найдут в каждом конце новое начало. И пусть Бледная Рыцарь прижмет к себе каждого, кто устал жить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>703</ID>
+      <DefaultText>"Пусть свет Эотаса вновь озарит его приверженцев. И пусть чужие свечи горят в чужих окнах, а мужья гордятся этим светом".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>704</ID>
+      <DefaultText>"Пусть Безмолвный Раб направит и скроет планы его последователей".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>705</ID>
+      <DefaultText>"Да будут ищущие Ваэля направлены вопросами и озадачены ответами – и подглядывать за ними".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>706</ID>
+      <DefaultText>"Пусть боги направят и защитят всех, кто ищет их благословения".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>707</ID>
+      <DefaultText>Ящики на витрине заполнены сушеными фруктами, вяленым мясом и различными орехами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>708</ID>
+      <DefaultText>В ящике звенят пружины, шестеренки и провода.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>710</ID>
+      <DefaultText>Сцепленные кольца покрыты необычными символами. Они проскальзывают друг мимо друга с тихими щелчками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>711</ID>
+      <DefaultText>Это похоже на аэдирскую игру с выпивкой, в которой несколько склянок наполняется водой, а одна – крепкой настойкой на соннреде.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>712</ID>
+      <DefaultText>"Трюфели из споровика – попробуй бесплатно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>713</ID>
+      <DefaultText>В этих бутылках мерцает сущность.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>714</ID>
+      <DefaultText>Из горлышек этих бутылок торчат дюжины паучьих лапок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>715</ID>
+      <DefaultText>Сложенные сорочки легкие и мягкие на ощупь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>716</ID>
+      <DefaultText>Огненно-оранжевая обложка выделяется среди остальных. Название на корешке гласит: "Воины Магран". На испачканной элем первой странице есть надпись:
+
+"Тут допускается ряд вольностей в боевых сценах, но произошедшее в Цитадели Халгот описано хорошо. Мой друг написал это несколько лет назад, но не смог даже продать экземпляр этому проклятому архивариусу герцога. Вот еще один признак того, насколько глубоко Рыцари Горна запустили свои когти.
+
+Венан" Внизу чья-то рука приписала: «Лучшие бои – в постели, и каждая воительница это знает».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>717</ID>
+      <DefaultText>На стойке закреплен церемониальный меч Рыцарей Горна. Это подарок от командора Клайвера.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>718</ID>
+      <DefaultText>На стойке закреплен кузнечный молот Рыцарей Горна. Это подарок от Данстана.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>719</ID>
+      <DefaultText>Эта грязь, вязкая и маслянистая, липнет ко всему, что ее касается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>720</ID>
+      <DefaultText>В паутине застряли летучие мыши величиной с курицу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>721</ID>
+      <DefaultText>Судя по размерам этих балок и опор, они сделаны из ребер и позвоночника дракона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>722</ID>
+      <DefaultText>Из палатки доносится запах жареного мяса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>723</ID>
+      <DefaultText>Палатка пустая, за исключением пары запачканных коек и вони немытых тел.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>724</ID>
+      <DefaultText>Возле огня висят покрытые грязным коричневатым жиром ложки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>725</ID>
+      <DefaultText>На этих тарелках застыла какая-то коричневая похлебка. Судя по запаху, она подгорела.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>726</ID>
+      <DefaultText>Доски пола стали липкими от пятен, которые никто не вытирал.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>727</ID>
+      <DefaultText>Кости покрыты следами крошечных зубов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>728</ID>
+      <DefaultText>За книгами спрятан рисунок, изображающий Эотаса и лорда Редрика в компрометирующем положении: Эотас стоит в углу со свечой, а лорд Редрик, голый, берет его жену. Подпись: «Рассвет для всех».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>729</ID>
+      <DefaultText>Тараканы в панике разбегаются из-под ящиков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>730</ID>
+      <DefaultText>Меха выдыхают в печь, и угли разгораются еще ярче.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>731</ID>
+      <DefaultText>Эти мечи затуплены и покрыты зазубринами – им пора на обработку в кузне.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>732</ID>
+      <DefaultText>Угли засыпаны раковинами и панцирями крабов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>733</ID>
+      <DefaultText>В похлебке перемешана рыба и пучки морских водорослей, ставших ярко-зелеными от жары. На вкус она приятно солоноватая.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>734</ID>
+      <DefaultText>Кости покрыты одеялом из мха и плесени. Они пахнут влажной землей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>735</ID>
+      <DefaultText>Мыши бегают сквозь глазницы и по костям.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>736</ID>
+      <DefaultText>С ветки на ветку прыгают белки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>737</ID>
+      <DefaultText>Потрепанный конец веревки качается в течении реки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>738</ID>
+      <DefaultText>Под кровать засунут заполненный мешок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>739</ID>
+      <DefaultText>За мешками копошатся крысы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>740</ID>
+      <DefaultText>Эта бутылка соннреда наполовину пустая.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>741</ID>
+      <DefaultText>На стволах некоторых деревьев вырезаны охранные символы, красные и неровные, похожие на коросту.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>742</ID>
+      <DefaultText>Резьба блестит свежим соком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>743</ID>
+      <DefaultText>Несмотря на дожди, стебли на ощупь сухие и твердые как оболочка саранчи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>744</ID>
+      <DefaultText>Под вьющимися стеблями просматривается грубо высеченное изображение восходящего солнца над тремя звездами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>745</ID>
+      <DefaultText>Окна затуманены слоем осевшего дыма и кухонного жира.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>747</ID>
+      <DefaultText>Среди корней разбросаны браслеты из бус, засохшие цветы и практически стертые дождями записки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>748</ID>
+      <DefaultText>Стыки обрамлены ржавчиной. Эмблема на нагруднике – дерево с широкими листьями в форме сердца.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>749</ID>
+      <DefaultText>Под подушкой лежит деревянный медальон с выгравированным изображением солнца и трех звезд. Он привязан к кожаному ремешку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>750</ID>
+      <DefaultText>Серебряные ножи и вилки покрыты матовой пленкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>751</ID>
+      <DefaultText>От запеченной козы только немного пахнет дымом и горелым жиром. Из холодной туши вырезаны куски мяса.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>752</ID>
+      <DefaultText>В старых пыльных бухгалтерских книгах записаны налоги, выплаченные фермерами Позолоченной Долины. Самые ранние записи датированы 2632 годом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>753</ID>
+      <DefaultText>Почерневшие страницы скручиваются в огне. Кожаная обложка с тисненым изображением восходящего солнца и трех звезд едва просматривается сквозь языки пламени.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>754</ID>
+      <DefaultText>"Тысяча ипостасей Двуликого Бога"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>755</ID>
+      <DefaultText>"О поклонении Берасу Молчаливому" Автор, по слухам, имел в виду «молчаливое» не божество, а своё собственное положение – с кляпом во рту.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>756</ID>
+      <DefaultText>В коробках под алтарем хранятся благовония со сладким мускусным запахом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>757</ID>
+      <DefaultText>На сидении с годами образовались гладкие выемки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>758</ID>
+      <DefaultText>Спинка скамьи треснута.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>759</ID>
+      <DefaultText>Заношенные одеяния в шкафу пахнут ладаном.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>760</ID>
+      <DefaultText>Оковы покрывают корка крови и частички высохшей крови.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>761</ID>
+      <DefaultText>Бак теплый на ощупь. Стекло дрожит от бурления заключенной внутри жидкости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>762</ID>
+      <DefaultText>Очертания размазанной по стене крови напоминают буквы. То, что тут было написано, закрыто темно-красным отпечатком руки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>763</ID>
+      <DefaultText>Из грязи торчат несколько окровавленных ногтей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>764</ID>
+      <DefaultText>Следы укусов на этих костях, судя по размеру, могли оставить зубы человека или эльфа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>765</ID>
+      <DefaultText>Край крышки покрыт выемками и царапинами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>766</ID>
+      <DefaultText>Над неподвижной водой стоит тяжелый запах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>767</ID>
+      <DefaultText>В бочке плещется кишащая крошечными личинками дождевая вода.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>768</ID>
+      <DefaultText>Банки наполнены влажным комковатым порохом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>769</ID>
+      <DefaultText>Нижние доски бочек темные, но сухие. То, что было в этих бочках, вытекло уже давно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>770</ID>
+      <DefaultText>Воздух в конюшне насыщен запахом помета летучих мышей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>771</ID>
+      <DefaultText>Мертвый вор</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>772</ID>
+      <DefaultText>Полевки разбегаются, юркнув между зубами зверя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>773</ID>
+      <DefaultText>В палатке лежит скрученная постель, но там никого нет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>774</ID>
+      <DefaultText>На бревне кто-то высек инициалы "ТРС".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>775</ID>
+      <DefaultText>По дну ящика перекатываются жирные куриные кости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>776</ID>
+      <DefaultText>С готовой обвалиться крыши с грохотом падает черепица.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>777</ID>
+      <DefaultText>Этот влажный камень оброс мхом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>778</ID>
+      <DefaultText>Ящерица поспешно скрывается под камнем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>779</ID>
+      <DefaultText>Залив внизу неспешно катит свои волны к Бухте Непокорности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>780</ID>
+      <DefaultText>Конец идущего в глубины туннеля не виден. Кристальные воды абсолютно прозрачны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>781</ID>
+      <DefaultText>Край пещеры почернел от сажи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>782</ID>
+      <DefaultText>Разбитый кристалл трещит и звенит под ногами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>783</ID>
+      <DefaultText>Кости частично сгнили. Они покрыты толстым слоем слизи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>784</ID>
+      <DefaultText>Под кроватью лежит костыль.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>785</ID>
+      <DefaultText>Несмотря на огонь, по ветхому дому гуляют холодные сквозняки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>786</ID>
+      <DefaultText>На дне глиняного кувшина кружится винный осадок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>787</ID>
+      <DefaultText>Под постелью спрятана своеобразная реликвия – раковина, перевязанная морскими водорослями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>788</ID>
+      <DefaultText>Между двумя наклонными балками приютилось гнездо воробья.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>789</ID>
+      <DefaultText>Тепло поднимается волнами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>790</ID>
+      <DefaultText>Кости расколоты и измельчены крупными зубами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>791</ID>
+      <DefaultText>Кости на ощупь твердые как камень, но при этом удивительно легкие.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>792</ID>
+      <DefaultText>Это старая аэдирская страшилка о званом ужине с привидениями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>793</ID>
+      <DefaultText>Над нишей вырезаны простые иероглифы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>794</ID>
+      <DefaultText>Шипы кажутся насколько острыми, что ими можно расколоть кость.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>795</ID>
+      <DefaultText>Череп откинут в гримасе агонии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>796</ID>
+      <DefaultText>Нити паутины, похожие на веревки, блестят от влаги.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>797</ID>
+      <DefaultText>От светящихся грибов исходит тяжелый мускусный запах земли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>798</ID>
+      <DefaultText>Из отверстия волнами выходит теплый воздух.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>799</ID>
+      <DefaultText>Адровый ноготь такой же гладкий и твердый как стальной башенный щит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>800</ID>
+      <DefaultText>Адра настолько гладкая, что на ней почти не чувствуются следы долота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>801</ID>
+      <DefaultText>Вы погружаете руку по плечо, и все равно не дотягиваетесь до дна кучи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>802</ID>
+      <DefaultText>Вам слышится слабый шепот, идущий от черепов, но слова неразличимы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>805</ID>
+      <DefaultText>Ловушка "Огненный шар"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>806</ID>
+      <DefaultText>Ловушка "Веер огня"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>807</ID>
+      <DefaultText>Ловушка "Ноголомы"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>808</ID>
+      <DefaultText>Путь перекрывают плотно переплетенные ветви колючего кустарника. Стебли подергиваются и извиваются.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>809</ID>
+      <DefaultText>Печь все еще пахнет свежеприготовленной дичью. Закоптившиеся кирпичи запачканы пятнами жира.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>810</ID>
+      <DefaultText>По полу разбросаны зерна и шелуха.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>811</ID>
+      <DefaultText>Край этого шкафа испачкан птичьим пометом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>812</ID>
+      <DefaultText>Постель с расстеленными на комковатом соломенном тюфяке покрывалами из шкур оказывается удивительно мягкой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>813</ID>
+      <DefaultText>Высушенные травы крошатся между вашими пальцами, испуская сладкий цветочный аромат.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>815</ID>
+      <DefaultText>Вода прохладная и прозрачная.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>816</ID>
+      <DefaultText>Холодный ветерок шевелит листья.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>817</ID>
+      <DefaultText>Кровать качается вместе с плавным покачиванием дерева.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>818</ID>
+      <DefaultText>От этого необычного камня исходят волны тепла.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>819</ID>
+      <DefaultText>Что-то прорыло маленькую нору в куче золота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>820</ID>
+      <DefaultText>Потемневшие края костей легко крошатся.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>821</ID>
+      <DefaultText>За годы использования стол покрылся царапинами и пятнами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>822</ID>
+      <DefaultText>В ящиках можно найти несколько необходимых для гланфатанских путешественников вещей – меха и одеяла, надежную кожаную одежду и дары из резной адры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>823</ID>
+      <DefaultText>Несмотря на то, что на этих простых клинках нет украшений, они изготовлены из острой и хорошо закаленной стали.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>824</ID>
+      <DefaultText>"Кровь жертвоприношений орошает земли Эйр-Гланфата".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>825</ID>
+      <DefaultText>"Храбрейших из сынов и дочерей сражают не мечи эстраморов, а кинжалы их собратьев".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>826</ID>
+      <DefaultText>"Сущность изнутри питает плоть, а сущность снаружи ее укрепляет".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>827</ID>
+      <DefaultText>Кости и сплетенные тростники покрылись копотью от костра.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>828</ID>
+      <DefaultText>От огня исходит густой насыщенный запах горящего торфа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>829</ID>
+      <DefaultText>Прозрачная вода на вкус сладкая и освежающая.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>830</ID>
+      <DefaultText>Каждая морщинка и прыщик на статуе Воедики выглядят до боли знакомыми. Скульптор, похоже, лепил статую со своей жены-доминантки – и жена об этом знает.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>831</ID>
+      <DefaultText>Огромное каменное существо холодное и склизкое от произрастающего на нем грибка. Его рога такие острые, что, кажется, ими можно пилить дрова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>832</ID>
+      <DefaultText>Город простирается до горизонта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>833</ID>
+      <DefaultText>Обугленные кусочки костей крошатся между вашими пальцами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>834</ID>
+      <DefaultText>Из глубин поднимается сильный вихрящийся ветер.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>836</ID>
+      <DefaultText>Статуя теплая на ощупь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>837</ID>
+      <DefaultText>Механизм дрожит от энергии тысяч душ. У вас кружится голова, когда вы стоите рядом с ним.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>838</ID>
+      <DefaultText>На восток – Крепость Редрика
+На запад – Позолоченная Долина</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>839</ID>
+      <DefaultText>На восток – "Соленая мачта"
+На юг – Доки</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>840</ID>
+      <DefaultText>На север – Первые Огни
+На юг – "Соленая мачта"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>841</ID>
+      <DefaultText>Грязь</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>842</ID>
+      <DefaultText>Тело Калиски</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>843</ID>
+      <DefaultText>На камне грубо высечены волны. Они тянутся к возлюбленной луне Ондры как скрученные пальцы. Волны тянутся к луне так, как тянутся к хозяйке в течке – с влажным нетерпением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>844</ID>
+      <DefaultText>Мертвый пилигрим</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>845</ID>
+      <DefaultText>Старшие архивы</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>846</ID>
+      <DefaultText>Надписи на этом алтаре, почти неразличимые под толстым слоем мха, посвящены Хайлии. Рядом лежат женские косметические принадлежности – верные жрицы ждут «гостей».</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>847</ID>
+      <DefaultText>Облака над утесами Нортвельда отражаются на переливчатой поверхности этого адрового столба.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>848</ID>
+      <DefaultText>Плачущая баньши</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>849</ID>
+      <DefaultText>Мантия</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>850</ID>
+      <DefaultText>Толстые, ржаво-красные вены мертвой адры червями извиваются по кисти статуи и уходят в темноту за ней.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>851</ID>
+      <DefaultText>Трактир "Черная гончая"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>852</ID>
+      <DefaultText>Кузня "Черный молот"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>853</ID>
+      <DefaultText>Статуя</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>854</ID>
+      <DefaultText>Незакрепленный кирпич</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>855</ID>
+      <DefaultText>Походная постель</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>856</ID>
+      <DefaultText>Мешок</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>857</ID>
+      <DefaultText>Лечебница</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>858</ID>
+      <DefaultText>Эти осколки когда-то были частями одной таблички, разбитой о каменный стол.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>859</ID>
+      <DefaultText>Пиво</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>860</ID>
+      <DefaultText>Рынок Хартсонга</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>861</ID>
+      <DefaultText>"Небесные саженцы"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>862</ID>
+      <DefaultText>Что-то в эфире отдается гулом и жужжанием на ваших зубах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>863</ID>
+      <DefaultText>В глубоких и длинных ранах кишат мухи – этот крупный штельгар мертв уже некоторое время.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>864</ID>
+      <DefaultText>Вайлианское посольство</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>865</ID>
+      <DefaultText>Клетка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>866</ID>
+      <DefaultText>Адровый диск вложен в неглубокую выемку в скале. На его поверхности светятся руны.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>867</ID>
+      <DefaultText>Лавка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>868</ID>
+      <DefaultText>Рыбная ферма Сталварта</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>869</ID>
+      <DefaultText>Тайник</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>870</ID>
+      <DefaultText>Бутылки</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>871</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>872</ID>
+      <DefaultText>Трактир "Привал Грейва"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>873</ID>
+      <DefaultText>Такое впечатление, что шахту специально обрушили.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>874</ID>
+      <DefaultText>Эти печи уже давно не использовались.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>875</ID>
+      <DefaultText>Товары Идрана</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>876</ID>
+      <DefaultText>Привал Грейва</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>877</ID>
+      <DefaultText>Древко каждого копья расколото и сломано, а части удерживаются вместе только туго натянутыми кожаными ремнями.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>878</ID>
+      <DefaultText>Эти ожерелья сделаны из зубов и когтей различных хищников – волков, медведей и львов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>879</ID>
+      <DefaultText>Судя по большому отверстию за жабрами, можно смело предположить, что эту рыбу застрелили из пистолета, а не поймали сетью или на крючок.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>880</ID>
+      <DefaultText>Похоже, дверь забаррикадирована изнутри. Она не поддается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>881</ID>
+      <DefaultText>На вас смотрят тусклые мертвые глаза окуней, железнозубой щуки и морозного нырка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>882</ID>
+      <DefaultText>Вонь этой жареной рыбы – значительная составляющая резкого запаха, которым пропитана рыбная ферма.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>883</ID>
+      <DefaultText>Видимо, эта изношенная сеть отложена в сторону для починки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>884</ID>
+      <DefaultText>На этом большом камне высечено изображение молотка и зубила, но надпись под ним настолько потертая, что стала неразличимой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>885</ID>
+      <DefaultText>Под слоем ножей и топоров видны поблекшие очертания рисунка углем, который, похоже, должен символизировать лицо. Для ясности кто-то добавил подпись: "Мэр Цинехед".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>886</ID>
+      <DefaultText>Полки уставлены покрытыми пылью бутылками. По датам на бутылках видно, что многие вина разлиты еще до Войны Непокорности.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>887</ID>
+      <DefaultText>Медный карп</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>888</ID>
+      <DefaultText>Серебряный сом</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>889</ID>
+      <DefaultText>Золотой кит</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>890</ID>
+      <DefaultText>Старый череп на ощупь холодный и твердый, как камень. Слезы из воска капают из глазниц.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>891</ID>
+      <DefaultText>Кристалл испускает туманное янтарное свечение. От него исходит едва заметное тепло.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>892</ID>
+      <DefaultText>В щите пробито отверстие в форме пушечного ядра.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>893</ID>
+      <DefaultText>На карте показан пик горы с отметками высоты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>894</ID>
+      <DefaultText>Зубы отшлифованы и подготовлены к нанесению фигурной резьбы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>895</ID>
+      <DefaultText>Столы, щиты и обвалившиеся камни были собраны в кучу, образовав непроходимую преграду.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>896</ID>
+      <DefaultText>Пустотелое бревно</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>897</ID>
+      <DefaultText>Камни почему-то кажутся теплыми на ощупь. Большую часть рун разобрать невозможно, но некоторые из них похожи на имена.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>898</ID>
+      <DefaultText>Внутренняя часть вагонетки покрыта почерневшей смазкой. Она пахнет горелым жиром.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>899</ID>
+      <DefaultText>Записка, прикрепленная к двери, гласит: "Занят. Вернусь позже, если сильно нужен. – Гальвино"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>900</ID>
+      <DefaultText>Крысиное гнездо</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>901</ID>
+      <DefaultText>Оледенелый труп</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>902</ID>
+      <DefaultText>В истоптанной кровавой слякоти вокруг перевернутой повозки вы находите следы, ведущие обратно на юг по дорожке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>903</ID>
+      <DefaultText>Ящик пуст, но сильно пахнет рыбой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>904</ID>
+      <DefaultText>Трещина</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>905</ID>
+      <DefaultText>Моруг</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>906</ID>
+      <DefaultText>Некоторое время дорога еще идет вверх, а потом резко поворачивает вниз в ущелье.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>907</ID>
+      <DefaultText>Приподняв угол брезента, вы видите мешанину из ржавого металла и дров.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>908</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>909</ID>
+      <DefaultText>"Запрещается брать снаряжение из оружейной без разрешения привратника Марунн или капитана Грегура".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>911</ID>
+      <DefaultText>Франческа</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>912</ID>
+      <DefaultText>Уголь</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>913</ID>
+      <DefaultText>У некоторых оледенелых трупов нет пальцев. Кроме того, у многих из ляжек и туловищ вырезаны куски плоти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>914</ID>
+      <DefaultText>Тарагер</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>915</ID>
+      <DefaultText>В этих свитках перечислены объемы руды и минералов, добытых в шахтах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>916</ID>
+      <DefaultText>Из-под накрытых решеткой проходов снизу поднимаются потоки раскаленного воздуха.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>917</ID>
+      <DefaultText>Кости скелетов раздроблены огромными каменными плитами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>918</ID>
+      <DefaultText>Всего несколько костей торчат из груды камней, и все они переломаны, словно хворост.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>919</ID>
+      <DefaultText>Через разрушенную стенку струится морозный сквозняк. Похоже, в этом месте что-то снаружи проломилось внутрь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>920</ID>
+      <DefaultText>Жар, идущий с нижнего уровня, покалывает вам кожу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>921</ID>
+      <DefaultText>Что-то горит под вами, но вы не видите, что именно.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>922</ID>
+      <DefaultText>Бронзовая статуя Абидона стоит над пеплом, оставшимся от благовоний, и заржавевшими металлическими монетами. Среди монет – пара медных колец: подарки кузнецам от их любовниц.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>923</ID>
+      <DefaultText>Поверхность наковальни гудит от скрытой в ней силы. Она теплая на ощупь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>924</ID>
+      <DefaultText>Внутренняя часть кузни выложена темным рифленым камнем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>925</ID>
+      <DefaultText>Из отверстия Белой Кузни исходит жар, от которого слезятся глаза.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>926</ID>
+      <DefaultText>На этот глобус Эоры нанесены различные поселения паргрунов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>927</ID>
+      <DefaultText>Книги и страницы, покрытые уравнениями и различными измерениями количества сущности, разбросаны по столу, словно кто-то спешно ушел и оставил их здесь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>929</ID>
+      <DefaultText>Оледенелый труп</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>930</ID>
+      <DefaultText>Лужа</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>931</ID>
+      <DefaultText>Сугроб</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>932</ID>
+      <DefaultText>Заросли</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>933</ID>
+      <DefaultText>Пустотелое дерево</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>934</ID>
+      <DefaultText>Снежная насыпь</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>935</ID>
+      <DefaultText>Куча камней</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>936</ID>
+      <DefaultText>Груда камней</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>937</ID>
+      <DefaultText>Куча костей</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>938</ID>
+      <DefaultText>Скопление грибов</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>939</ID>
+      <DefaultText>Рудная жила</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>940</ID>
+      <DefaultText>Вагонетка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>941</ID>
+      <DefaultText>Горные инструменты</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>942</ID>
+      <DefaultText>Витрина</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>943</ID>
+      <DefaultText>Олень</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>944</ID>
+      <DefaultText>Верхняя секция стены башни обрушилась, заблокировав вход.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>945</ID>
+      <DefaultText>Это отверстие уходит глубоко в камень. Его края потемнели и покрыты сажей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>946</ID>
+      <DefaultText>Под пропитанным кровью покрывалом лежит труп. Он воняет гнилью и заразой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>947</ID>
+      <DefaultText>Холодный ветер с юга</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>948</ID>
+      <DefaultText>Дошел до Старой Вайлии на западе</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>949</ID>
+      <DefaultText>И унес наших предков на восток</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>950</ID>
+      <DefaultText>Искать Белую Кузню на севере.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>951</ID>
+      <DefaultText>Существо в резервуаре не шевелится, но его глаза следят за вашим приближением.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>952</ID>
+      <DefaultText>Существо неподвижно парит в жидкости резервуара.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>953</ID>
+      <DefaultText>Судя по виду, башня высечена из камня утеса. Вход разрушен и запечатан льдом, но вы предполагаете, что из нее открывается впечатляющий вид на долину внизу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>954</ID>
+      <DefaultText>Склон утеса обрывается на тысячу футов к долине внизу. Сталварт кажется маленьким далеким пятнышком среди моря деревьев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>955</ID>
+      <DefaultText>Куча свитков</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>956</ID>
+      <DefaultText>Механизм</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>957</ID>
+      <DefaultText>Решетка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>958</ID>
+      <DefaultText>Манекен</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>959</ID>
+      <DefaultText>Из глубин мутной вязкой похлебки поднимаются пузыри. Несколько костей в котле обглоданы начисто и плавают среди кружащих по поверхности сгустков жира.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>960</ID>
+      <DefaultText>На всех этих щитах видны следы сражения – от пятен крови до глубоких борозд в дереве.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>961</ID>
+      <DefaultText>На столе беспорядочной кучей рассыпаны суставы механических пальцев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>962</ID>
+      <DefaultText>В этих ящиках хранится несчетное количество выброшенных металлических петель, лицевых пластин и конечностей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>963</ID>
+      <DefaultText>Похоже, это грубая зарисовка гор, окружающих Арсенал Дургана.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>964</ID>
+      <DefaultText>Это громоздкое приспособление гудит от заключенной в нем силы. Приблизившись к нему на расстояние нескольких футов, вы чувствуете зубами характерное жужжание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>965</ID>
+      <DefaultText>Голова этого манекена практически полностью испепелена каким-то неизвестным заклинанием. Дерево покоробилось и покрылось ямками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>966</ID>
+      <DefaultText>На дне этого разбитого механизма образовалась желеобразная зеленая пленка.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>967</ID>
+      <DefaultText>К блюду на тарелке даже не притронулись – оно стало заманчивой пищей для мух.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>968</ID>
+      <DefaultText>Полки уставлены впечатляющим ассортиментом бутылок с вином. Похоже, большинство из них – это коллекционные вина из Вайлианских Республик.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>969</ID>
+      <DefaultText>По рабочему столу разбросаны всевозможные металлические обломки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>970</ID>
+      <DefaultText>Эти пустые полки покрывает толстый слой пыли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>971</ID>
+      <DefaultText>В резервуаре покачивается существо размером с аумауа. Его плоть сморщилась и посерела. Видно, что у существа между ног ещё осталось нечто весомое – привет от того, кому доверили охрану этого резервуара.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>972</ID>
+      <DefaultText>Кожа трупа отогнута назад и удерживается толстой вязкой паутиной.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>973</ID>
+      <DefaultText>В стеклянных банках на полках хранятся мозги различных размеров.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>974</ID>
+      <DefaultText>Мастерская</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>975</ID>
+      <DefaultText>Капли воды стекают по блестящим столбам и ледяным копьям. Между ними выглядывает несколько камней.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>976</ID>
+      <DefaultText>С паром поднимается неприятный сернистый запах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>977</ID>
+      <DefaultText>Жаровня кажется достаточно большой, чтобы вместить сигнальный огонь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>978</ID>
+      <DefaultText>Отложения железа и меди забрызганы кровью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>979</ID>
+      <DefaultText>Застывшие пальцы женщины все еще вонзаются в землю. Ее побитый доспех сжимает напухшие конечности. В рваной ране на ее спине кишат извивающиеся черви.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>980</ID>
+      <DefaultText>На том месте, где должна быть голова трупа, торчит окровавленный молот. Куски костей и высохшие ошметки мозга прилипли к траве.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>981</ID>
+      <DefaultText>Единственной оставшейся рукой труп держится за собственные внутренности, которые волочатся за ним. Вонь разложения почти невыносима.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>982</ID>
+      <DefaultText>Требушет пахнет свежесрубленной хвоей и коноплей, из которой сделаны канаты. Его балки еще липкие от древесного сока.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>983</ID>
+      <DefaultText>Над мутной, потянутой ряской водой жужжат комары. Что-то блестит прямо под поверхностью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>984</ID>
+      <DefaultText>Уголь</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>985</ID>
+      <DefaultText>Книга содержит список имен, большая часть которых зачеркнута. Вы узнаете четыре имени, которые еще ничем не отмечены: Сейбел, Пелден, Таносс и Уарики.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>986</ID>
+      <DefaultText>Глиняная табличка древняя, и большинство написанных на ней символов разобрать не удается.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>987</ID>
+      <DefaultText>Это карта шахт, но разные туннели и узкие проходы обозначены стрелками и крестиками. Похоже, это составленный в спешке план боя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>988</ID>
+      <DefaultText>Каждая кость в этом скелете разломана пополам или на несколько частей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>989</ID>
+      <DefaultText>Раскрошенные скелеты лежат распростертыми перед алтарем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>990</ID>
+      <DefaultText>У ног этой статуи сложены мечи и шлемы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>991</ID>
+      <DefaultText>Что-то тяжелое пробилось через перила и вырвало кусок из моста.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>993</ID>
+      <DefaultText>Стена разбита на большие зазубренные осколки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>994</ID>
+      <DefaultText>Эти каменные плиты разбились, словно глиняная посуда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>995</ID>
+      <DefaultText>Нагрудники и набедренники так разбиты или изогнуты, что их дальнейшее использование не выглядит возможным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>996</ID>
+      <DefaultText>По полу разбросаны куски тяжелого бронзового доспеха, разорванного на части.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>997</ID>
+      <DefaultText>Камни закрывают отверстие туннеля, словно он обвалился – или специально был обрушен – некоторое время назад.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>998</ID>
+      <DefaultText>Многие из этих костей были перемолоты на мелкие кусочки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>999</ID>
+      <DefaultText>Грудная клетка скелета разбита на куски.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1000</ID>
+      <DefaultText>Этот туннель перегораживают помятые вагонетки и кучи камней.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1001</ID>
+      <DefaultText>Большинство этих ящиков и бочек пусты, а несколько из них перевернуты. Похоже, их опустошали в спешке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1002</ID>
+      <DefaultText>Поверхность этой большой квадратной наковальни совершенно гладкая. Вы чувствуете, что адровый столб посередине притягивает вашу сущность.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1003</ID>
+      <DefaultText>Древние свитки были выдернуты с полок и оставлены на полу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1004</ID>
+      <DefaultText>Книги по истории паргрунов брошены открытыми на полу. В некоторых не хватает страниц.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1005</ID>
+      <DefaultText>Кто-то разобрал этого конструкта на части, словно детскую игрушку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1006</ID>
+      <DefaultText>Эта стена была с ярд толщиной и состояла из цельного массива камня, но что-то через нее пробилось.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1007</ID>
+      <DefaultText>Булыжники и каменные глыбы в беспорядке обрушились с разрушенной стены. На то, чтобы подвинуть хотя бы один из них, понадобится не меньше дюжины аумауа.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1008</ID>
+      <DefaultText>Эти щипцы, молотки и шила изготовлены для обработки металла. С них хлопьями осыпается сухая кровь, похожая на ржавчину.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1009</ID>
+      <DefaultText>С центра стола звездой расходится трещина, словно пробитая молотом или булавой. Из-под него торчат руки трупа, превратившегося в скелет.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1010</ID>
+      <DefaultText>Пол под полками усыпан разорванными свитками и книгами с переломленными корешками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1011</ID>
+      <DefaultText>Треснутые черепа и расколотые кости лежат беспорядочной кучей. Большая часть останков перемолота в пыль.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1012</ID>
+      <DefaultText>Кости, надколотые, но относительно целые, сметены в кучу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1013</ID>
+      <DefaultText>Похоже, когда-то тут сложили в кучу скелеты, но когда соединительные ткани сгнили, они рассыпались.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1014</ID>
+      <DefaultText>В этой куче костей разбросано несколько мелких предметов – грязные монеты и потрепанные ленты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1015</ID>
+      <DefaultText>В ряд выложено несколько скелетов. Их ноги и ребра переломаны, но среди них оставлена помятая статуэтка Абидона. Подношения у статуэтки – набор детских игрушек и пара старых плёток.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1016</ID>
+      <DefaultText>Похоже, этот валун пробил башню, забрав с собой часть стены.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1017</ID>
+      <DefaultText>На этом поблекшем знамени изображены два пересекающихся круга над заснеженной горной вершиной.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1018</ID>
+      <DefaultText>От земли поднимаются трубки из твердой замерзшей грязи. Когда вы заглядываете внутрь одной из них, ваше лицо обдувает поток теплого воздуха. Внутри видны блестящие острые осколки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1019</ID>
+      <DefaultText>Вы прослеживаете стершиеся очертания и формы на этих панелях. Похоже, когда-то это была серия рельефов, но изображения стерлись со временем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1020</ID>
+      <DefaultText>Эти панели так изношены, что их поверхность стала практически гладкой. Вам удается только различить очертания меча на одной из них, а на другой – коренастое тело гнома.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1021</ID>
+      <DefaultText>Полка покрыта надрезами и зарубками по всей длине.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1022</ID>
+      <DefaultText>С подвешенного скелета капает жидкий металл.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1023</ID>
+      <DefaultText>В чане что-то бурлит и шипит. Его металлические стенки настолько горячи, что при прикосновении к ним можно получить ожог.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1024</ID>
+      <DefaultText>Когда вы касаетесь книги, она обжигает вашу руку.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1025</ID>
+      <DefaultText>Роскошная ткань на ощупь нежная, словно овчина, и мягче большинства кроватей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1026</ID>
+      <DefaultText>Когда вы приближаетесь, слова на этом свитке блекнут и исчезают.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1027</ID>
+      <DefaultText>Ржаво-красные символы на этом свитке выглядят так, будто они написаны кровью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1028</ID>
+      <DefaultText>Несмотря на долгие годы без ухода, этот шлем, в отличие от шлемов на других доспехах в комнате, которые стали тусклыми и неказистыми, выглядит ярко и блестит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1029</ID>
+      <DefaultText>Этот доспех установлен в боевой стойке за широким щитом, толстым и крепким, как городские ворота.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1030</ID>
+      <DefaultText>Меч в руках доспеха покрыт мелкими узорами, выполненными значительно искусней тех, что нанесены на сам доспех.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1031</ID>
+      <DefaultText>От этих полок исходит резкая вонь какого-то консерванта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1032</ID>
+      <DefaultText>"Размышляй о тех, кто был до тебя,
+И тех, кто будет после тебя.
+Вспомни первым отца своего,
+А последним – младшего брата своего,
+Но знай, что все паргруны – твоя семья".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1033</ID>
+      <DefaultText>Эту каменную табличку покрывают трещины. Края сношены за столетия использования. На табличке написано:
+
+"Мы, стоящие плечом к плечу среди старейших империй, отправляем тебя в путь.
+Почитай нас, а мы будем тебя помнить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1034</ID>
+      <DefaultText>Уголки таблички отколоты, но в остальном она находится в хорошем состоянии. На табличке написано:
+
+"Мы растем в незнакомой и дикой земле, но помним наши корни.
+Мы далеки друг от друга, но знай, что мы все равно друг другу родные".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1035</ID>
+      <DefaultText>Буквы на этой табличке вырезаны четко и глубоко, словно только недавно. На ней написано:
+
+"Хоть наши башни окружены коралловыми вратами,
+Мы все равно паргруны. Высеките наши имена в своих залах и в своих сердцах".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1036</ID>
+      <DefaultText>Операционный стол</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1037</ID>
+      <DefaultText>Дневник</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1038</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1039</ID>
+      <DefaultText>По проводам и пластинам этого механизма пробегают искры, с каждой вспышкой освещая внутренности устройства.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1040</ID>
+      <DefaultText>К металлическим пластинам шлема приклеились клочки волос. Вы замечаете темные пятна на гранях кандалов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1041</ID>
+      <DefaultText>Тягучая зеленая жидкость вытекает из трещины в стеклянном резервуаре. От нее исходит резкий химический запах, который при вдыхании едва не вызывает боль.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1042</ID>
+      <DefaultText>Обугленные останки</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1043</ID>
+      <DefaultText>На ящиках установлены замки, сложность которых увеличивается сверху донизу. Рядом лежат несколько сломанных отмычек.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1044</ID>
+      <DefaultText>Под снегом лежит куча покусанных костей, с которых была сорвана плоть.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1045</ID>
+      <DefaultText>Эта статуя Абидона покрыта пятнами ржавчины, но видно, что каждый винтик и заклепка изготовлены самым тщательным образом. Говорят, мастер вытачивал каждую заклёпку на статуе, представляя размер собственного хуя.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1046</ID>
+      <DefaultText>Вам кажется, что вы замечаете проблески движения в этом потускневшем мутном зеркале.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1047</ID>
+      <DefaultText>Свежая могила</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1048</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1049</ID>
+      <DefaultText>Крошечные пауки поселились в этой станции по выплавке ядер.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1050</ID>
+      <DefaultText>На карте показаны горные хребты и маршруты, проходящие в окрестностях Арсенала Дургана. Вы видите круги потускневших красных чернил, которыми обведены узкие проходы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1051</ID>
+      <DefaultText>Заглянув в трещину, вы видите, что падение вниз может быть очень долгим.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1052</ID>
+      <DefaultText>Эти пушки покрыты толстым слоем вонючей слизи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1053</ID>
+      <DefaultText>Эта поломанная панель заржавела так, что ее уже не починить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1054</ID>
+      <DefaultText>По окружности холодных как лед стволов пушек начертаны угловатые орнаменты и молитвы Абидону. Молитвы Абидону здесь перемежаются с пошлыми приписками, оставленными солдатами гарнизона.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1055</ID>
+      <DefaultText>В этих дурно пахнущих гнездах разбросаны мелкие ветки, тряпки и наполовину обглоданные кости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1056</ID>
+      <DefaultText>Вдоль стены стоят пальники, шомполы, банники и прочие припасы для пушек.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1057</ID>
+      <DefaultText>Лавка Хамонда</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1058</ID>
+      <DefaultText>На гравировке изображено путешествие паргрунов к Белому Переходу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1059</ID>
+      <DefaultText>От труб внизу поднимается жар. Пушка теплая на ощупь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1060</ID>
+      <DefaultText>Пушка заморожена и неподвижна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1061</ID>
+      <DefaultText>В отверстии вы видите ступени и приглушенный блеск других пушек.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1062</ID>
+      <DefaultText>Полки забиты свитками и документами с записями о продажах железной руды и серы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1063</ID>
+      <DefaultText>Разломанные рельсы лежат под обрушившимся туннелем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1064</ID>
+      <DefaultText>Обвалы открыли проходы наружу. Камни вверху присыпаны снегом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1065</ID>
+      <DefaultText>В неглубоких норах поблескивает множество глаз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1066</ID>
+      <DefaultText>Сталагмиты сверкают в свете, исходящем от какого-то неразличимого источника внизу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1067</ID>
+      <DefaultText>Тяжелый, странный запах пота и серы поднимается откуда-то снизу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1068</ID>
+      <DefaultText>Сталагмиты сверкают в сиянии, исходящем от какого-то неразличимого источника внизу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1069</ID>
+      <DefaultText>Груды необработанной руды мерцают в свете лампы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1070</ID>
+      <DefaultText>Эта старая рыбацкая лодка лишилась деревянных планок на носу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1071</ID>
+      <DefaultText>Гнездо</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1072</ID>
+      <DefaultText>Юрта пуста, за исключением нескольких толстых одеял.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1073</ID>
+      <DefaultText>С крыши этой юрты капает ледяная вода, скапливаясь в лужу в очаге.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1074</ID>
+      <DefaultText>Похоже на вид Сталварта со стороны дороги на Дирвуд.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1075</ID>
+      <DefaultText>Эти похожие друг на друга фигурки Абидона изготовлены одинаково плохо. Фигурки топорны, но у каждой – слишком выпирающий кусок металла между ног.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1076</ID>
+      <DefaultText>Кровавый отпечаток пальца остался на месте, где кто-то стянул кусок хлеба.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1077</ID>
+      <DefaultText>Кто-то вырвал несколько страниц, оставив кровавые следы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1078</ID>
+      <DefaultText>Огонь угас, оставив пригоршню мерцающих углей.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1079</ID>
+      <DefaultText>Наволочка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1080</ID>
+      <DefaultText>Этот алтарь, посвященный Абидону, гладкий и блестящий, словно его изготовили недавно. Алтарь так отполирован, что в нём можно увидеть собственное отражение – и то, как вы стоите на коленях.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1081</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1082</ID>
+      <DefaultText>Эти мечи выкованы недавно и нуждаются в заточке.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1083</ID>
+      <DefaultText>Утонувший ондрит Малой Воды На шее у него остались следы губной помады – кто-то хорошо попрощался.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1084</ID>
+      <DefaultText>Тонкая пленка переливающейся пыли покрывает неподвижную поверхность вод, скрывая их глубину.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1085</ID>
+      <DefaultText>От пробки в этой бочке исходит насыщенный химический запах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1086</ID>
+      <DefaultText>Этот требушет разобран, но не сломан.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1087</ID>
+      <DefaultText>В это глубоком котле зловеще колышется горячая смола.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1088</ID>
+      <DefaultText>При легком постукивании раздается гулкий звук. Эта бочка почти пуста.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1089</ID>
+      <DefaultText>На этом надгробии, как и на соседних, нет ничего, кроме спешно нацарапанного имени.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1090</ID>
+      <DefaultText>Пол псарни выстелен кусками овечьих шкур и соломой. Все вокруг воняет собаками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1091</ID>
+      <DefaultText>Эти постели недавно постирали. На грязи под ними видны еще более темные пятна.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1092</ID>
+      <DefaultText>Под парусиновым покрытием оказываются бочки, в которых, судя по отметкам, хранится порох.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1093</ID>
+      <DefaultText>На деревянных бревнах уборной какими-то личностями с богатой фантазией грубо вырезаны различные фигуры.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1094</ID>
+      <DefaultText>Густая похлебка из мяса и морковки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1095</ID>
+      <DefaultText>В палатках практически ничего нет. Вы замечаете ботинки, высыхающие туники, а изредка на глаза попадаются книги.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1096</ID>
+      <DefaultText>Полоса уничтоженного леса тянется почти до горизонта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1097</ID>
+      <DefaultText>Недалеко внизу вы видите темную поверхность воды.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1098</ID>
+      <DefaultText>Массивный кристалл прорезает купол, его острые грани переливаются неземным сиянием. Странный камень тщательно обложен мозаикой и плиткой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1099</ID>
+      <DefaultText>Вода течет вверх из тонкой щели, прорезавшей плитки пола. Вода вскипает и уплотняется при касании, образуя упругий барьер, который сопротивляется любым попыткам пересечь его.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1100</ID>
+      <DefaultText>Глубоко во льду вы различаете размытые очертания застывшего Безглазого.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1101</ID>
+      <DefaultText>Мешок зерна</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1102</ID>
+      <DefaultText>Палатка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1103</ID>
+      <DefaultText>Похоже, заключенные под лед массивные кости медного цвета, – это часть бедер гигантского скелета.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1104</ID>
+      <DefaultText>Тонкий слой инея искрится на этих запасах хлеба и капусты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1105</ID>
+      <DefaultText>Из глубин этой ямы поднимается едкая вонь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1106</ID>
+      <DefaultText>Несмотря на ледяной блеск, покрывающий эти паутины, их нити начинают дрожать при малейшем воздействии.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1107</ID>
+      <DefaultText>Под слоями льда лежат скелеты в потрепанных синих одеждах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1108</ID>
+      <DefaultText>В щелях каменной кладки проросли пучки мха, замерзшие под слоем скользкой зеленой слизи.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1109</ID>
+      <DefaultText>За дверью в темноте мелькают какие-то очертания. Из закрытых залов периодически доносится едва различимое эхо шепота и завываний.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1110</ID>
+      <DefaultText>Из глубин этой расселины слабо доносится беспокойное бормотание.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1111</ID>
+      <DefaultText>Мертвая упряжная собака</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1112</ID>
+      <DefaultText>Дверь надежно заперта.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1113</ID>
+      <DefaultText>Камни этой кафедры не запачканы ни единой каплей чернил.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1114</ID>
+      <DefaultText>Стог соломы</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1115</ID>
+      <DefaultText>Внутренние стенки этого котла покрыты остатками остывающей смолы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1116</ID>
+      <DefaultText>Вагонетка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1117</ID>
+      <DefaultText>Не считая нескольких частичек сажи, припасы в этой тележке остались нетронутыми.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1118</ID>
+      <DefaultText>Угли все еще тлеют в этих почерневших развалинах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1119</ID>
+      <DefaultText>На столе лежат различные карты ближайших проходов, ведущих к Арсеналу Дургана. Вы видите круги потускневших чернил, которыми обведены узкие проходы и открытая местность.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1120</ID>
+      <DefaultText>Этот бледный, грубый камень не напоминает ни одно другое образование в районе.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1121</ID>
+      <DefaultText>Остатки воды на дне этого корыта замерзли.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1122</ID>
+      <DefaultText>"Усадьба Вимарка. Посторонним вход запрещен!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1123</ID>
+      <DefaultText>"К Обзорным Водопадам и Сталварту"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1124</ID>
+      <DefaultText>Тело Самета распростерто на спине. Вы видите, что у него разорвано горло, а на лице глубокие раны. Руки покрыты пятнами светло-желтого цвета.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1125</ID>
+      <DefaultText>Тело Самета распростерто на спине. Вы видите, что у него разорвано горло, а на лице глубокие раны. Руки покрыты пятнами светло-желтого цвета.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1126</ID>
+      <DefaultText>Камни почему-то кажутся теплыми на ощупь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1127</ID>
+      <DefaultText>Пустотелый пьедестал</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1128</ID>
+      <DefaultText>Верхняя поверхность этой гравированной плиты сглажена руками путников, которые касались ее на удачу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1129</ID>
+      <DefaultText>Участок со снегом</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1130</ID>
+      <DefaultText>Корни Светящегося споровика проросли в этот ход, полностью его перекрыв.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1131</ID>
+      <DefaultText>Горло визрака разорвано, а лицо сильно поцарапано.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1132</ID>
+      <DefaultText>Свет от этих грибов освещает зависшую в воздухе пыль и густые облака спор. Вы чувствуете напряжение в носу при дыхании.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1133</ID>
+      <DefaultText>Минералы из сталактита наверху сконденсировались на этой маленькой паутине. Чистая вода капает с нее и собирается внизу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1134</ID>
+      <DefaultText>По паутине взад-вперед носятся полчища крошечных пауков.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1135</ID>
+      <DefaultText>Вы видите маленькие заостренные яйца визраков, завернутые в паутину. Время от времени они пульсируют от движения внутри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1136</ID>
+      <DefaultText>Маленькие коконы свисают с тонкого шпиля, связанные нитями паутины. Вы можете различить несколько темных очертаний, свернувшихся внутри.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1137</ID>
+      <DefaultText>Несмотря на огромный размер этих грибов, вы видите еще более крупные очертания на болоте за полосой деревьев.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1138</ID>
+      <DefaultText>В зазорах между камнями оказывается пустое пространство, покрытое птичьими гнездами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1139</ID>
+      <DefaultText>Под мутной поверхностью воды в иле покоятся истертые надписи и древние камни.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1140</ID>
+      <DefaultText>Простые, но крепкие, эти платформы и хижины соединены веревочными лестницами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1141</ID>
+      <DefaultText>У струй газа, исходящих из этих отверстий, сильный едкий запах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1142</ID>
+      <DefaultText>Куча шестерней</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1143</ID>
+      <DefaultText>Желтый желеобразный осадок покрывает дно разрушенной трубы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1144</ID>
+      <DefaultText>Целая гора снега сошла на торговый путь, полностью его заблокировав.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1145</ID>
+      <DefaultText>От этого грубого нагромождения рогов, костей и палок исходит сильный рыбный запах.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1146</ID>
+      <DefaultText>Когда вы стоите у пьедестала, вам слышится низкий, глухой звук, словно камень установлен над колодцем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1147</ID>
+      <DefaultText>Груда камней</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1148</ID>
+      <DefaultText>Толстые отростки коралла обвили старые, истрепанные реликвии, заключив их в живую тюрьму.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1149</ID>
+      <DefaultText>Несмотря на тепло от близлежащих костров, на этих припасах образовался тонкий слой льда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1150</ID>
+      <DefaultText>Статуя с изысканными очертаниями изготовлена слишком искусно, чтобы эта работа принадлежала рукам простого смертного.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1151</ID>
+      <DefaultText>Узоры выступающих рудных жил покрывают стены туннелей шахты.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1152</ID>
+      <DefaultText>Поверхность бочек покрывают пятна желтого порошка. В воздухе стоит вонь серы.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1153</ID>
+      <DefaultText>Этот проход перегораживает барьер, гудящий странной энергией. Вы не находите очевидного способа пройти свозь него.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1154</ID>
+      <DefaultText>Из этих решеток время от времени вырывается желтоватый пар, наполняя воздух вокруг резкой вонью.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1155</ID>
+      <DefaultText>Припасы Хэрлы</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1156</ID>
+      <DefaultText>Неподвижный туман, защищенный от ветров наверху, скрывает глубины этой пропасти.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1157</ID>
+      <DefaultText>Порывы ветра отражаются от острых камней, поднимаясь вверх, чтобы ледяным касанием дотянуться до вашего лица.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1158</ID>
+      <DefaultText>Останки скелетов, словно брошенные в пропасть, в хрупком равновесии лежат на краях утеса, сколько хватает глаз.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1159</ID>
+      <DefaultText>Злой ветер свистит вокруг замороженных пальцев гигантского скелета.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1160</ID>
+      <DefaultText>Лед заполнил все пространство между костями руки скелета, образовав скользкий склон, ведущий на острые скалы внизу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1161</ID>
+      <DefaultText>Из боковой поверхности скалы торчит что-то похожее на громадную тазовую кость, заключенную в тюрьму из камней и льда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1162</ID>
+      <DefaultText>Медная поверхность огромной бедренной кости переливается всеми цветами радуги под налипшими слоями льда.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1163</ID>
+      <DefaultText>Эта огромная кисть резко заканчивается, не оставляя никаких подсказок о местоположении остальной руки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1164</ID>
+      <DefaultText>Похоже, конструкция за этой огромной грудной клеткой построена вокруг нее.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1165</ID>
+      <DefaultText>Странные кристаллы на этой скале, уцелевшие даже после столкновения с толстыми костями этого гигантского черепа, кажется, излучают тепло.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1166</ID>
+      <DefaultText>Судя по расстоянию до черепа, огромная сила вырвала этот позвоночник из гигантского тела.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1167</ID>
+      <DefaultText>Судя по трещинам на челюсти, ее вырвал из черепа мощный удар.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1168</ID>
+      <DefaultText>"Припасы Корбала"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1169</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1170</ID>
+      <DefaultText>Эти иероглифы похожи на те, что вы видели в Арсенале, но они слишком затерты, чтобы их можно было разобрать.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1171</ID>
+      <DefaultText>Зал перекрывают тяжелые камни.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1172</ID>
+      <DefaultText>Запачканные жиром кастрюли и грязные чашки сложены возле записки: "Я ГОТОВЛЮ, ТЫ МОЕШЬ".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1173</ID>
+      <DefaultText>Среди красных отпечатков рук на полосе густой свернувшейся крови висит клок волос.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1174</ID>
+      <DefaultText>Сочащийся влагой корень дерева</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1175</ID>
+      <DefaultText>Вы узнаете это затвердевшее тело с посиневшей кожей – это труп Гамеля, шахтера.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1176</ID>
+      <DefaultText>Наковальня</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1177</ID>
+      <DefaultText>Под подушкой лежат неуклюжие детские рисунки углем.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1178</ID>
+      <DefaultText>От этой койки пахнет дымом. Она испачкана порохом и пеплом.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1179</ID>
+      <DefaultText>На дне кастрюли бурлит теплый жир.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1180</ID>
+      <DefaultText>Вокруг разбросаны колеса и рычаги от тележек.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1181</ID>
+      <DefaultText>"Порох – обращаться осторожно!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1182</ID>
+      <DefaultText>Среди углей разбросаны рыбные кости.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1183</ID>
+      <DefaultText>Кто-то вырезал на скамейке полумесяц с завитками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1184</ID>
+      <DefaultText>В этой юрте воняет стоялым потом. Внутри лежит только одно одеяло.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1185</ID>
+      <DefaultText>Этот изогнутый нагрудник все еще теплый от кузни.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1186</ID>
+      <DefaultText>Судя по виду, эта гладкая наковальня практически не использовалась.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1187</ID>
+      <DefaultText>В щитах вы видите собственное отражение.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1188</ID>
+      <DefaultText>Нижняя полка уставлена дешевыми духами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1189</ID>
+      <DefaultText>Тележка доверху засыпана железной рудой.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1190</ID>
+      <DefaultText>На дне печи лежит свежий уголь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1191</ID>
+      <DefaultText>Красивые крошечные снежинки поднимаются и улетают вдаль, уносимые невидимым ветерком.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1192</ID>
+      <DefaultText>Трава раскачивается и поднимается, словно бок дышащего животного.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1193</ID>
+      <DefaultText>Маленькие рыбки мелькают между камнями – в воде появляются и быстро исчезают маленькие цветные крапинки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1194</ID>
+      <DefaultText>Вы смотрите на поверхность камня и видите в нем свое отражение с горящими, словно звезды, глазами.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1195</ID>
+      <DefaultText>Тотем что-то бормочет, когда вы проходите мимо, но слишком тихо, чтобы разобрать слова.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1196</ID>
+      <DefaultText>Каждое бревно в этом доме покрыто мелкими волосками.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1197</ID>
+      <DefaultText>Вы приближаетесь к тлеющим углям и чувствуете холод воздуха вокруг вас. По рукам у вас начинают бегать мурашки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1198</ID>
+      <DefaultText>В деревьях мелодично воет ветер, напоминая свист флейты. Но вы не чувствуете дуновения на своей коже.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1199</ID>
+      <DefaultText>Где-то под вашими ногами слышится низкий, гулкий бой барабанов.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1200</ID>
+      <DefaultText>Ловушка</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1201</ID>
+      <DefaultText>Спасение Архипелага Мертвого Огня</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

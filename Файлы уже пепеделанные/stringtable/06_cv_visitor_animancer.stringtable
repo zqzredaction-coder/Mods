@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_animancer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>53</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Меня зовут Гейда. Я занимаюсь исследованиями в области анимансии. Мне бы не помешала помощь, если соизволите выслушать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Я занимаюсь проблемой биауаков, то есть теми силами, что могут отделять души от их носителей. Работаю над чем-то вроде защиты от этих сил".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Хорошо. Я слушаю".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Уйти, покачивая бёдрами] "До свидания".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Вы подзываете своих товарищей и даете знак, чтобы посетительница изложила свою просьбу.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Мне нужна твоя помощь. Мы уже многих потеряли из-за этих биауаков. Представь, как было бы здорово, если бы можно было предупреждать такие вещи".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Может, для твоих испытаний подойдут не только представители разумных рас?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"У меня в подземелье полно пленных. Выбирай любых".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Я бы хотел обсудить это с моими товарищами".</DefaultText>
+      <FemaleText>"Я бы хотела обсудить это с моими товарищами".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Сейчас я не могу помочь тебе с этим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Я бы с радостью проводила свои исследования на других подопытных, если можете кого-то предложить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ага! Думаю, они подойдут... Что вы хотите взамен за этих... подопытных?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Да, конечно! Я отойду".
+
+Гейда учтиво отходит назад, чтобы не слышать ваш разговор.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Дьявол, следуй за Гейдой. Как доберешься до ее лаборатории, убей ее и уничтожь все результаты исследований".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Алот, следуй за Гейдой до ее лаборатории. Уничтожь все результаты исследований, но ее саму не тронь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Подозвать своего гостя обратно.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"В Эстернвуде есть носители. Разве нельзя ставить опыты на них?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Животные тоже подойдут. Сходи на Маграново распутье или на Черный луг – там как раз случки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Хотя, наверное, я передумал".</DefaultText>
+      <FemaleText>"Хотя, наверное, я передумала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Быстро вы посовещались. Решение принято, я полагаю?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Благоразумный выбор, [Player Name]".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Будет сделано". Она уходит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Подозвать своего гостя обратно.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Решение принято, я полагаю?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Дьявол из Карока поможет тебе найти несколько подопытных экземпляров, я уверен".</DefaultText>
+      <FemaleText>"Дьявол из Карока поможет тебе найти несколько подопытных экземпляров, я уверена".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Алот поможет тебе найти несколько подопытных экземпляров, я уверен".</DefaultText>
+      <FemaleText>"Алот поможет тебе найти несколько подопытных экземпляров, я уверена".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Превосходно! Думаю, я быстро найду средство спасения от этих штормов – и все благодаря вам! Спасибо большое!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Конечно, но... Работа с носителями – опасное дело".
+
+Она с тревогой сжимает руки.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"С животными же столько проблем... Попробуй поймать и удержать их".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Дать 2000 мп] "Вот, заплати наемникам".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Эдер поможет. У него такое хорошо получается".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Может, у вас есть еще идеи?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Дать 2000 мп] "Вот. Найми себе охотников для этого".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Ну, трусам в науке не место. У тебя все получится".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Родители мной очень гордятся".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Д-да... Вы правы, конечно. Этот вариант точно более гуманный... Посмотрю, удастся ли что-нибудь выяснить. Спасибо вам, лорд! Вы очень помогли".</DefaultText>
+      <FemaleText>"Д-да... Вы правы, конечно. Этот вариант точно более гуманный... Посмотрю, удастся ли что-нибудь выяснить. Спасибо вам, леди! Вы очень помогли".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Эти средства будут как нельзя кстати! Благодарю! С хорошим отрядом удастся заполучить несколько подопытных, я уверена. Спасение уже близко!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Превосходно! Думаю, я быстро найду средство спасения от этих штормов – и все благодаря вам! Спасибо большое!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Тысяча пандов – в самый раз".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Пяти сотен пандов будет достаточно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Забирай их за так. С глаз долой – из сердца вон".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Конечно! Ваша помощь просто неоценима. Даже не знаю, смогу ли я вас отблагодарить".
+
+Она закусывает губу. "Теперь надо как-то перевезти этих... опасных пленников в лабораторию".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Эээ... Это немного дороговато... Может, обсудим?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Такая сумма мне по карману. Благодарю вас, лорд! Ваша помощь неоценима! Буду приниматься за работу!"</DefaultText>
+      <FemaleText>"Такая сумма мне по карману. Благодарю вас, леди! Ваша помощь неоценима! Буду приниматься за работу!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Это мое последнее слово".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Что ж, выбора у меня нет. Эти подопытные мне очень нужны. Благодарю за ваше великодушие, лорд! Я воспользуюсь этой возможностью по максимуму... Как только придумаю, как этих узников перевезти..."</DefaultText>
+      <FemaleText>"Что ж, выбора у меня нет. Эти подопытные мне очень нужны. Благодарю за ваше великодушие, леди! Я воспользуюсь этой возможностью по максимуму... Как только придумаю, как этих узников перевезти..."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"[Player Name]? Мне бы не помешала ваша помощь".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Проблема в том, что, когда исследуешь феномен отделения душ от тел, нужны... сами души. Мне пока не удалось раздобыть ни единого подопытного".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Заветный Холм кишмя кишит носителями. Если ты чуть проредишь их, люди в Бухте Непокорности будут только благодарны".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Такая сумма мне по карману. Благодарю вас, лорд! Ваша помощь неоценима! Буду приниматься за работу!"</DefaultText>
+      <FemaleText>"Такая сумма мне по карману. Благодарю вас, леди! Ваша помощь неоценима! Буду приниматься за работу!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\04_defiance_bay_brackenbury\04_cv_messenger</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Прошу прощения. У меня есть для вас сообщение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Вас приглашают в Дом Хадрета, где леди Вебб хочет встретиться с вами как можно быстрее".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Как ты узнал, где меня найти?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ну, это... леди Вебб знает все".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Расскажи мне о леди Вебб".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Вы что, не знаете леди Вебб? Она... ну, никто не ВИДЕЛ ее, вообще-то, уже давно, но она руководит Данрид Роу. Уже так долго, что никто и не помнит, с каких пор".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Уйти, виляя задом] "Хорошо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Прошу прощения. У меня есть для вас сообщение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Прошу прощения. У меня есть для вас сообщение".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Где Дом Хадрета?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Он вон там, милорд. Юго-западный угол Брэкенбури. Леди ждет вас наверху".</DefaultText>
+      <FemaleText>"Он вон там, миледи. Юго-западный угол Брэкенбури. Леди ждет вас наверху".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"В Брэкенбури, милорд. Юго-западный угол района. Леди ждет вас наверху".</DefaultText>
+      <FemaleText>"В Брэкенбури, миледи. Юго-западный угол района. Леди ждет вас наверху".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Он приостанавливается, с подозрением провожая взглядом прохожего. Понизив голос, он продолжает. "Она старая. Старше всех. И она никогда не выходит из комнаты. Говорят, она уже умерла, и осталась только куча костей, движимая черной магией".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Она все еще занимается своим делом. Узнает всякое, охраняя нас. А еще дергает за ниточки, управляя троном. Ей помогает сеть сайферов, которая рассказывает про все происходящее". 
+
+"Если причинишь зло в этой стране, прежде чем просить прощения у богов, лучше сначала попроси его у леди Вебб".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Что такое Данрид Роу?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Это целая куча сайферов, которыми управляют из Дома Хадрета. Они занимаются поддержанием мира, но любят делать это незаметно".
+
+"Проблемы в этом городе нередко исчезают сами по себе, и когда это происходит, можно с достаточной уверенностью назвать причину".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Мне поручили ответить на любые вопросы, которые у вас возникнут".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Глава сети шпионов Данрид Роу". Она прищуривает глаза. "Зачем ей тебя искать?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Говорят, она как древний паук, который оплел своей паутиной весь город". Он настороженно на вас смотрит. "Если она хочет тебя увидеть, то это либо очень хорошо, либо очень плохо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"А я-то думал, что местные слухи о Данрид Роу преувеличены. Похоже, твое имя прозвучало на каких-то важных встречах. Надеюсь, его там не прокричали".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"В этих краях мало что можно сделать без ведома леди Вебб. Ну, так всегда говорят. Наверное, это правда".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\03_defiance_bay_ondra_gift\03_cv_iqali</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Золотые глаза на бледном лице эльфийки горят, как зимний закат. Она гладит вас по щеке, и вы чувствуете прохладу ее руки. "Похоже, твое странствие было долгим. Позволь мне помочь твоему сердцу отдохнуть".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Поведай мне о себе".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Сколько?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Уйти, подмигнув] "Нет, спасибо".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Я пришла в Бухту Непокорности из ледяных земель на самом юге мира. Мало кто из нашего народа заходит так далеко на север, но зато никто лучше нас не знает, как согреть в холодную ночь". Ее кожа, кажется, пылает в темноте бара.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ты одарил нас тишиной и покоем, и, кажется, мы должны отблагодарить тебя. Для тебя – всего две сотни".</DefaultText>
+      <FemaleText>"Ты одарила нас тишиной и покоем, и, кажется, мы должны отблагодарить тебя. Для тебя – всего две сотни".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Она поджимает губки. "Всего пять сотен за тесное знакомство с секретами южанки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Заплатить 200 мп] "Отлично".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Заплатить 500 мп] "Отлично".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Она поджимает губки. "Всего три сотни за тесное знакомство с секретами южанки".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Заплатить 300 мп] "Отлично".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Эти залы красивы, но так холодны. Согреем их?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Боюсь, после тебя все любовники покажутся мне лишь бледными тенями". Она смотрит на вас, и ее золотые глаза блестят. "И все же я давно собираюсь покинуть жаркую и пыльную Бухту Непокорности". Она вздыхает. "Но я плохо знаю Дирвуд".</DefaultText>
+      <FemaleText>"Боюсь, после тебя все любовницы покажутся мне лишь бледными тенями". Она смотрит на вас, и ее золотые глаза блестят. "И все же я давно собираюсь покинуть жаркую и пыльную Бухту Непокорности". Она вздыхает. "Но я плохо знаю Дирвуд".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Мне никогда не было так хорошо. Ты должен навестить меня еще".</DefaultText>
+      <FemaleText>"Мне никогда не было так хорошо. Ты должна навестить меня еще".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Мне никогда не было так хорошо. Ты должен навестить меня еще".</DefaultText>
+      <FemaleText>"Мне никогда не было так хорошо. Ты должна навестить меня еще".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Мне никогда не было так хорошо. Ты должен навестить меня еще".</DefaultText>
+      <FemaleText>"Мне никогда не было так хорошо. Ты должна навестить меня еще".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Приходи, если в тоскливый вечерок тебе захочется дружеского тепла".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Знаешь, у меня есть крепость, вдали от городской суеты. Буду рад видеть тебя там."</DefaultText>
+      <FemaleText>"Знаешь, у меня есть крепость, вдали от городской суеты. Буду рада видеть тебя там."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Уйти, придерживая трусы] "Еще увидимся, я зайду позже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Давай".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Может, позже".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Заманчивое предложение. Возможно, я загляну на огонек".</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\06_stronghold\06_cv_visitor_wealthy_lord</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>50</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ах, как хорошо, что вы здесь. Мне просто необходимо поговорить с вами, милорд".</DefaultText>
+      <FemaleText>"Ах, как хорошо, что вы здесь. Мне просто необходимо поговорить с вами, миледи".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Как вы, вне всякого сомнения, хорошо знаете, богатство привлекает врагов. Мою крепость осаждают воры! Уверен, один из мелких вельмож пытается завладеть моим состоянием. От этой ситуации просто разит завистью".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Хорошо. Я весь внимание".</DefaultText>
+      <FemaleText>"Хорошо. Я вся внимание".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Уйти, придерживая трусы] "Не сейчас".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Вы подзываете товарищей и размашистым шагом идете к своему трону.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"И вот я обращаюсь к вам, милорд. Можете ли вы чем-нибудь помочь?"</DefaultText>
+      <FemaleText>"И вот я обращаюсь к вам, миледи. Можете ли вы чем-нибудь помочь?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Организуйте оборону. Защитите свою крепость".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Я позабочусь о том, чтобы с завистливыми соперниками разобрались".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Я бы хотел обсудить это с моими товарищами".</DefaultText>
+      <FemaleText>"Я бы хотела обсудить это с моими товарищами".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Сейчас я не могу помочь тебе с этим".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Я... у меня нет ресурсов, милорд. Мои силы рассредоточены. Мне понадобится армия".</DefaultText>
+      <FemaleText>"Я... у меня нет ресурсов, миледи. Мои силы рассредоточены. Мне понадобится армия".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Великолепно! Могу ли я поинтересоваться вашими, собственно, намерениями?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Конечно".
+
+Отвесив почтительный поклон, Сидрок отходит, чтобы вы могли поговорить.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Уверен, Доменелы смогут защитить Сидрока. А его деньги они защитят еще лучше".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Это наш шанс, Дьявол. Сделай так, чтобы он стал чувствовать себя в безопасности, а потом выпотроши его хранилище".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Они прислушаются к моему предупреждению или будут уничтожены".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Вопрос не в количестве. Я покажу, как использовать солдат грамотно и где их разместить".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Тебя поддержат Рыцари Горна. Их помощи должно быть более чем достаточно, чтобы отогнать воров".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Я отправлю гонцов ко всем вельможам в моих землях".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Уверен, Алот сможет разобраться с ними. Тихо".</DefaultText>
+      <FemaleText>"Уверена, Алот сможет разобраться с ними. Тихо".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Тактические советы от самого лорда Каэд Нуа! Продолжайте, пожалуйста. Я внимательно слушаю".
+
+Подтверждая свои слова, Сидрок внимательно вас выслушивает.</DefaultText>
+      <FemaleText>"Тактические советы от самой леди Каэд Нуа! Продолжайте, пожалуйста. Я внимательно слушаю".
+
+Подтверждая свои слова, Сидрок внимательно вас выслушивает.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Спасибо, лорд [Player Name]! Думаю, это сработает. Жду не дождусь, когда увижу спины разбегающихся мерзавцев!"
+
+Сидрок низко кланяется.</DefaultText>
+      <FemaleText>"Спасибо, леди [Player Name]! Думаю, это сработает. Жду не дождусь, когда увижу спины разбегающихся мерзавцев!"
+
+Сидрок низко кланяется.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Письма, милорд? Вы считаете, что этого будет достаточно?"</DefaultText>
+      <FemaleText>"Письма, миледи? Вы считаете, что этого будет достаточно?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Спасибо, милорд. Я испытываю огромное облегчение. Да благословят вас боги!"</DefaultText>
+      <FemaleText>"Спасибо, миледи. Я испытываю огромное облегчение. Да благословят вас боги!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ох, сир. У вас мало останется друзей, если вы будете грабить собственных подданных, знаете ли".
+
+Управляющая тихо вздыхает.</DefaultText>
+      <FemaleText>"Ох, моя леди. У вас мало останется друзей, если вы будете грабить собственных подданных, знаете ли".
+
+Управляющая тихо вздыхает.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Почему бы нам его не прирезать сейчас же?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Конечно. Прошу прощения, что сомневался в вас! Нам очень повезло с правителем Каэд Нуа".</DefaultText>
+      <FemaleText>"Конечно. Прошу прощения, что сомневался в вас! Нам очень повезло с правительницей Каэд Нуа".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Хотя знаете, я передумал".</DefaultText>
+      <FemaleText>"Хотя знаете, я передумала".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Можете ли вы чем-нибудь помочь?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Возможно".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Вы кивнули, сжав и разжав анус.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Что ж, благодарю вас за помощь и поддержку, конечно". 
+
+Сидрок выглядит обеспокоенным, но грациозно кланяется и уходит.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Подозвать своего гостя обратно.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Я полагаю, обсуждение было плодотворным?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Солгать, как шлюха, клянущаяся в верности] "У меня есть связи с Доменелами. Кто еще сможет лучше защитить ваше имущество от воров?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Солгать, невинно хлопая ресницами и пряча чужое бельё] "Дьявол из Карока будет охранять вашу крепость".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Спасибо, милорд! Думаю, это сработает. Жду не дождусь, когда увижу спины разбегающихся мерзавцев!"
+
+Сидрок низко кланяется.</DefaultText>
+      <FemaleText>"Спасибо, миледи! Думаю, это сработает. Жду не дождусь, когда увижу спины разбегающихся мерзавцев!"
+
+Сидрок низко кланяется.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Да. Я решил убить тебя и забрать состояние себе".</DefaultText>
+      <FemaleText>"Да. Я решила убить тебя и забрать состояние себе".</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ч-что?! Это... вы с ума сошли?! Если это какая-то шутка, то совершенно безвкусная!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Подозвать своего гостя обратно.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Стража, вздерните его на виселице у стен крепости".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ах ты тварь! Тебе это так не сойдет с рук!"
+
+Сидрок пытается убежать, но ваши стражи быстро ловят его за руки и утаскивают прочь.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Мне понадобятся недели, чтобы организовать защиту своих владений, а к тому времени будет слишком поздно. И у меня нет... связей, чтобы быстро собрать наемных солдат".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Вообще-то, мне нужно немного подумать".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Конечно..."
+
+Сидрок выглядит немного озадаченным.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Прошу, уделите мне время. У меня важный вопрос".</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Мы не можем позволить грызть друг другу глотки. Уверен, эти вельможи образумятся".</DefaultText>
+      <FemaleText>"Мы не можем позволить грызть друг другу глотки. Уверена, эти вельможи образумятся".</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>
